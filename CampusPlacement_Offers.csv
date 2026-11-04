@@ -1,0 +1,978 @@
+Offer ID,Student ID,Company,Company Type,Package LPA,Job Role,Offer Date
+OF3000,ST20539,CodeCrest,IT Services,3.0,Software Engineer,2022-08-02
+OF3001,ST20204,CodeCrest,IT Services,5.1,Software Engineer,2022-08-03
+OF3002,ST20008,SparkLoop,Startup,6.7,Associate Engineer,2022-08-03
+OF3003,ST20829,CodeCrest,IT Services,5.5,Software Engineer,2022-08-06
+OF3004,ST20070,FinTrust Consulting,BFSI & Consulting,9.2,Analyst,2022-08-07
+OF3005,ST20335,InfoWave,IT Services,3.7,Software Engineer,2022-08-07
+OF3006,ST21002,ByteBridge,IT Services,5.2,Software Engineer,2022-08-07
+OF3007,ST20204,RapidKart,Startup,8.9,Associate Engineer,2022-08-07
+OF3008,ST20032,InfoWave,IT Services,3.9,Software Engineer,2022-08-09
+OF3009,ST20951,SparkLoop,Startup,8.8,Associate Engineer,2022-08-09
+OF3010,ST20303,GreenByte,Startup,9.5,Associate Engineer,2022-08-10
+OF3011,ST20995,GreenByte,Startup,9.3,Associate Engineer,2022-08-15
+OF3012,ST20629,QuantumLeaf,Product,14.7,SDE,2022-08-16
+OF3013,ST20550,TechNova Services,IT Services,5.3,Software Engineer,2022-08-18
+OF3014,ST20737,InfoWave,IT Services,4.3,Software Engineer,2022-08-20
+OF3015,ST20922,RapidKart,Startup,9.1,Associate Engineer,2022-08-22
+OF3016,ST20803,TechNova Services,IT Services,6.2,Software Engineer,2022-08-23
+OF3017,ST20460,TechNova Services,IT Services,4.9,Software Engineer,2022-08-24
+OF3018,ST20287,CodeCrest,IT Services,4.3,Software Engineer,2022-08-27
+OF3019,ST21097,CodeCrest,IT Services,4.2,Software Engineer,2022-09-01
+OF3020,ST20027,CodeCrest,IT Services,6.3,Software Engineer,2022-09-02
+OF3021,ST20221,InfoWave,IT Services,4.1,Software Engineer,2022-09-02
+OF3022,ST20473,CapitalEdge,BFSI & Consulting,5.6,Analyst,2022-09-03
+OF3023,ST20439,FinTrust Consulting,BFSI & Consulting,9.3,Analyst,2022-09-06
+OF3024,ST21135,CodeCrest,IT Services,3.0,Software Engineer,2022-09-06
+OF3025,ST21199,RapidKart,Startup,4.4,Associate Engineer,2022-09-08
+OF3026,ST21191,CodeCrest,IT Services,3.0,Software Engineer,2022-09-09
+OF3027,ST20039,RapidKart,Startup,10.5,Associate Engineer,2022-09-11
+OF3028,ST20501,VoltEdge Power,Core & Manufacturing,3.0,Graduate Engineer Trainee,2022-09-12
+OF3029,ST21001,DataPulse Solutions,IT Services,4.8,Software Engineer,2022-09-13
+OF3030,ST20047,InfoWave,IT Services,4.8,Software Engineer,2022-09-14
+OF3031,ST21053,GreenByte,Startup,6.3,Associate Engineer,2022-09-16
+OF3032,ST20244,TechNova Services,IT Services,4.8,Software Engineer,2022-09-17
+OF3033,ST20276,InfoWave,IT Services,4.2,Software Engineer,2022-09-18
+OF3034,ST20300,InfoWave,IT Services,4.5,Software Engineer,2022-09-18
+OF3035,ST20817,FinTrust Consulting,BFSI & Consulting,9.5,Analyst,2022-09-20
+OF3036,ST21093,SteelCraft Industries,Core & Manufacturing,4.2,Graduate Engineer Trainee,2022-09-22
+OF3037,ST21051,ByteBridge,IT Services,5.7,Software Engineer,2022-09-23
+OF3038,ST20292,InfoWave,IT Services,6.6,Software Engineer,2022-09-24
+OF3039,ST20489,CodeCrest,IT Services,5.0,Software Engineer,2022-09-27
+OF3040,ST20752,CodeCrest,IT Services,4.0,Software Engineer,2022-09-27
+OF3041,ST20529,CodeCrest,IT Services,3.4,Software Engineer,2022-10-01
+OF3042,ST20182,CapitalEdge,BFSI & Consulting,7.9,Analyst,2022-10-01
+OF3043,ST21194,InfoWave,IT Services,4.9,Software Engineer,2022-10-02
+OF3044,ST20032,CodeCrest,IT Services,4.5,Software Engineer,2022-10-03
+OF3045,ST20110,SteelCraft Industries,Core & Manufacturing,6.1,Graduate Engineer Trainee,2022-10-04
+OF3046,ST21087,InfoWave,IT Services,4.9,Software Engineer,2022-10-04
+OF3047,ST20283,VoltEdge Power,Core & Manufacturing,5.7,Graduate Engineer Trainee,2022-10-05
+OF3048,ST20466,InfoWave,IT Services,4.3,Software Engineer,2022-10-05
+OF3049,ST20043,TechNova Services,IT Services,3.5,Software Engineer,2022-10-05
+OF3050,ST20013,Axion Motors,Core & Manufacturing,5.2,Graduate Engineer Trainee,2022-10-06
+OF3051,ST21005,FinTrust Consulting,BFSI & Consulting,7.5,Analyst,2022-10-08
+OF3052,ST20871,CodeCrest,IT Services,4.2,Software Engineer,2022-10-08
+OF3053,ST20576,CodeCrest,IT Services,3.1,Software Engineer,2022-10-08
+OF3054,ST20793,FinTrust Consulting,BFSI & Consulting,9.4,Analyst,2022-10-09
+OF3055,ST20317,CodeCrest,IT Services,3.6,Software Engineer,2022-10-09
+OF3056,ST21200,QuantumLeaf,Product,33.5,SDE,2022-10-10
+OF3057,ST20155,DataPulse Solutions,IT Services,5.2,Software Engineer,2022-10-10
+OF3058,ST20635,FinTrust Consulting,BFSI & Consulting,7.8,Analyst,2022-10-10
+OF3059,ST20143,CodeCrest,IT Services,5.3,Software Engineer,2022-10-11
+OF3060,ST20492,VoltEdge Power,Core & Manufacturing,5.5,Graduate Engineer Trainee,2022-10-11
+OF3061,ST20253,SparkLoop,Startup,5.9,Associate Engineer,2022-10-12
+OF3062,ST20133,TechNova Services,IT Services,4.4,Software Engineer,2022-10-12
+OF3063,ST20675,SparkLoop,Startup,7.5,Associate Engineer,2022-10-12
+OF3064,ST20030,CodeCrest,IT Services,6.1,Software Engineer,2022-10-12
+OF3065,ST20214,CodeCrest,IT Services,4.0,Software Engineer,2022-10-13
+OF3066,ST21003,RapidKart,Startup,9.0,Associate Engineer,2022-10-14
+OF3067,ST20313,ByteBridge,IT Services,6.4,Software Engineer,2022-10-14
+OF3068,ST20677,TechNova Services,IT Services,4.6,Software Engineer,2022-10-14
+OF3069,ST20984,VoltEdge Power,Core & Manufacturing,4.6,Graduate Engineer Trainee,2022-10-15
+OF3070,ST21023,FinTrust Consulting,BFSI & Consulting,8.4,Analyst,2022-10-15
+OF3071,ST21040,FinTrust Consulting,BFSI & Consulting,6.7,Analyst,2022-10-15
+OF3072,ST20268,FinTrust Consulting,BFSI & Consulting,6.8,Analyst,2022-10-15
+OF3073,ST20111,GreenByte,Startup,4.0,Associate Engineer,2022-10-17
+OF3074,ST20460,InfoWave,IT Services,4.7,Software Engineer,2022-10-17
+OF3075,ST20276,RapidKart,Startup,5.2,Associate Engineer,2022-10-18
+OF3076,ST20870,CodeCrest,IT Services,3.0,Software Engineer,2022-10-19
+OF3077,ST20751,DataPulse Solutions,IT Services,3.8,Software Engineer,2022-10-20
+OF3078,ST20508,DataPulse Solutions,IT Services,3.5,Software Engineer,2022-10-20
+OF3079,ST20084,ByteBridge,IT Services,5.3,Software Engineer,2022-10-20
+OF3080,ST21148,InfoWave,IT Services,3.8,Software Engineer,2022-10-21
+OF3081,ST20500,InfoWave,IT Services,4.8,Software Engineer,2022-10-21
+OF3082,ST20889,CodeCrest,IT Services,3.0,Software Engineer,2022-10-21
+OF3083,ST20690,SparkLoop,Startup,6.1,Associate Engineer,2022-10-21
+OF3084,ST20858,SparkLoop,Startup,10.1,Associate Engineer,2022-10-21
+OF3085,ST20060,TechNova Services,IT Services,5.4,Software Engineer,2022-10-22
+OF3086,ST20287,TechNova Services,IT Services,4.7,Software Engineer,2022-10-22
+OF3087,ST20278,InfoWave,IT Services,3.8,Software Engineer,2022-10-23
+OF3088,ST20777,InfoWave,IT Services,4.7,Software Engineer,2022-10-23
+OF3089,ST20566,TechNova Services,IT Services,4.6,Software Engineer,2022-10-23
+OF3090,ST20103,DataPulse Solutions,IT Services,5.0,Software Engineer,2022-10-25
+OF3091,ST20342,TechNova Services,IT Services,3.6,Software Engineer,2022-10-25
+OF3092,ST21199,CodeCrest,IT Services,5.7,Software Engineer,2022-10-25
+OF3093,ST20080,TechNova Services,IT Services,5.8,Software Engineer,2022-10-27
+OF3094,ST20221,CodeCrest,IT Services,3.0,Software Engineer,2022-10-27
+OF3095,ST20660,InfoWave,IT Services,4.5,Software Engineer,2022-11-01
+OF3096,ST21032,InfoWave,IT Services,3.6,Software Engineer,2022-11-01
+OF3097,ST20682,CodeCrest,IT Services,3.5,Software Engineer,2022-11-01
+OF3098,ST20529,PixelForge,Product,12.2,SDE,2022-11-02
+OF3099,ST20342,InfoWave,IT Services,4.3,Software Engineer,2022-11-03
+OF3100,ST20666,QuantumLeaf,Product,18.7,SDE,2022-11-04
+OF3101,ST20857,InfoWave,IT Services,3.1,Software Engineer,2022-11-04
+OF3102,ST20143,GreenByte,Startup,12.6,Associate Engineer,2022-11-05
+OF3103,ST21175,ByteBridge,IT Services,4.9,Software Engineer,2022-11-05
+OF3104,ST20648,FinTrust Consulting,BFSI & Consulting,8.0,Analyst,2022-11-05
+OF3105,ST20871,ByteBridge,IT Services,5.5,Software Engineer,2022-11-05
+OF3106,ST20588,InfoWave,IT Services,5.5,Software Engineer,2022-11-05
+OF3107,ST20637,InfoWave,IT Services,3.0,Software Engineer,2022-11-06
+OF3108,ST20242,VoltEdge Power,Core & Manufacturing,8.0,Graduate Engineer Trainee,2022-11-06
+OF3109,ST20590,CodeCrest,IT Services,4.1,Software Engineer,2022-11-06
+OF3110,ST20886,CodeCrest,IT Services,6.2,Software Engineer,2022-11-07
+OF3111,ST20742,CloudHarbor,Product,14.7,SDE,2022-11-07
+OF3112,ST21076,TechNova Services,IT Services,3.9,Software Engineer,2022-11-07
+OF3113,ST21155,TechNova Services,IT Services,3.5,Software Engineer,2022-11-08
+OF3114,ST20284,InfoWave,IT Services,4.1,Software Engineer,2022-11-08
+OF3115,ST21074,VoltEdge Power,Core & Manufacturing,6.1,Graduate Engineer Trainee,2022-11-09
+OF3116,ST20876,CapitalEdge,BFSI & Consulting,7.8,Analyst,2022-11-10
+OF3117,ST20428,DataPulse Solutions,IT Services,4.9,Software Engineer,2022-11-10
+OF3118,ST20422,FinTrust Consulting,BFSI & Consulting,10.2,Analyst,2022-11-10
+OF3119,ST20965,CodeCrest,IT Services,5.4,Software Engineer,2022-11-10
+OF3120,ST21048,DataPulse Solutions,IT Services,5.3,Software Engineer,2022-11-11
+OF3121,ST20360,RapidKart,Startup,10.1,Associate Engineer,2022-11-11
+OF3122,ST20753,Axion Motors,Core & Manufacturing,4.8,Graduate Engineer Trainee,2022-11-11
+OF3123,ST20320,FinTrust Consulting,BFSI & Consulting,5.0,Analyst,2022-11-13
+OF3124,ST20892,CodeCrest,IT Services,4.7,Software Engineer,2022-11-13
+OF3125,ST20962,PixelForge,Product,21.7,SDE,2022-11-13
+OF3126,ST20071,SparkLoop,Startup,7.5,Associate Engineer,2022-11-14
+OF3127,ST20793,TechNova Services,IT Services,3.2,Software Engineer,2022-11-14
+OF3128,ST20134,CodeCrest,IT Services,4.6,Software Engineer,2022-11-14
+OF3129,ST20732,QuantumLeaf,Product,21.6,SDE,2022-11-15
+OF3130,ST20910,Nimbus Labs,Product,14.3,SDE,2022-11-15
+OF3131,ST20409,Axion Motors,Core & Manufacturing,3.1,Graduate Engineer Trainee,2022-11-15
+OF3132,ST20241,InfoWave,IT Services,3.0,Software Engineer,2022-11-16
+OF3133,ST21114,InfoWave,IT Services,3.8,Software Engineer,2022-11-16
+OF3134,ST20013,UrbanBuild Infra,Core & Manufacturing,3.8,Graduate Engineer Trainee,2022-11-16
+OF3135,ST21050,PixelForge,Product,22.7,SDE,2022-11-16
+OF3136,ST20226,InfoWave,IT Services,4.2,Software Engineer,2022-11-16
+OF3137,ST20429,InfoWave,IT Services,5.5,Software Engineer,2022-11-17
+OF3138,ST20601,CloudHarbor,Product,12.7,SDE,2022-11-17
+OF3139,ST21200,GreenByte,Startup,8.3,Associate Engineer,2022-11-17
+OF3140,ST20816,GreenByte,Startup,10.6,Associate Engineer,2022-11-18
+OF3141,ST21141,InfoWave,IT Services,4.8,Software Engineer,2022-11-21
+OF3142,ST20421,FinTrust Consulting,BFSI & Consulting,7.1,Analyst,2022-11-22
+OF3143,ST20108,PixelForge,Product,14.2,SDE,2022-11-22
+OF3144,ST20159,CapitalEdge,BFSI & Consulting,10.5,Analyst,2022-11-22
+OF3145,ST20439,CodeCrest,IT Services,3.6,Software Engineer,2022-11-22
+OF3146,ST21173,GreenByte,Startup,4.4,Associate Engineer,2022-11-23
+OF3147,ST20017,FinTrust Consulting,BFSI & Consulting,5.4,Analyst,2022-11-23
+OF3148,ST21114,TechNova Services,IT Services,4.9,Software Engineer,2022-11-24
+OF3149,ST21068,InfoWave,IT Services,4.4,Software Engineer,2022-11-24
+OF3150,ST20252,TechNova Services,IT Services,4.7,Software Engineer,2022-11-25
+OF3151,ST20511,RapidKart,Startup,7.4,Associate Engineer,2022-11-26
+OF3152,ST20870,InfoWave,IT Services,5.4,Software Engineer,2022-11-27
+OF3153,ST20287,CodeCrest,IT Services,5.2,Software Engineer,2022-11-27
+OF3154,ST20186,PixelForge,Product,11.0,SDE,2022-12-01
+OF3155,ST20690,ByteBridge,IT Services,5.8,Software Engineer,2022-12-01
+OF3156,ST21161,CodeCrest,IT Services,3.0,Software Engineer,2022-12-01
+OF3157,ST20341,SparkLoop,Startup,10.3,Associate Engineer,2022-12-02
+OF3158,ST20540,UrbanBuild Infra,Core & Manufacturing,6.5,Graduate Engineer Trainee,2022-12-02
+OF3159,ST20929,FinTrust Consulting,BFSI & Consulting,8.8,Analyst,2022-12-02
+OF3160,ST20224,UrbanBuild Infra,Core & Manufacturing,4.4,Graduate Engineer Trainee,2022-12-03
+OF3161,ST20687,Nimbus Labs,Product,28.8,SDE,2022-12-03
+OF3162,ST20379,FinTrust Consulting,BFSI & Consulting,7.9,Analyst,2022-12-03
+OF3163,ST20278,FinTrust Consulting,BFSI & Consulting,11.3,Analyst,2022-12-04
+OF3164,ST20243,FinTrust Consulting,BFSI & Consulting,8.2,Analyst,2022-12-05
+OF3165,ST20933,SparkLoop,Startup,4.6,Associate Engineer,2022-12-05
+OF3166,ST20267,Nimbus Labs,Product,13.0,SDE,2022-12-06
+OF3167,ST20935,Nimbus Labs,Product,13.2,SDE,2022-12-06
+OF3168,ST20988,RapidKart,Startup,7.8,Associate Engineer,2022-12-07
+OF3169,ST20490,CodeCrest,IT Services,4.6,Software Engineer,2022-12-07
+OF3170,ST20901,TechNova Services,IT Services,4.6,Software Engineer,2022-12-08
+OF3171,ST21053,QuantumLeaf,Product,27.2,SDE,2022-12-08
+OF3172,ST20057,FinTrust Consulting,BFSI & Consulting,8.0,Analyst,2022-12-09
+OF3173,ST20030,InfoWave,IT Services,5.0,Software Engineer,2022-12-10
+OF3174,ST20269,GreenByte,Startup,8.7,Associate Engineer,2022-12-10
+OF3175,ST20406,TechNova Services,IT Services,4.1,Software Engineer,2022-12-10
+OF3176,ST20446,FinTrust Consulting,BFSI & Consulting,5.9,Analyst,2022-12-12
+OF3177,ST20697,RapidKart,Startup,7.6,Associate Engineer,2022-12-13
+OF3178,ST20910,Nimbus Labs,Product,11.0,SDE,2022-12-13
+OF3179,ST20503,CloudHarbor,Product,34.5,SDE,2022-12-14
+OF3180,ST21141,FinTrust Consulting,BFSI & Consulting,5.7,Analyst,2022-12-14
+OF3181,ST20133,FinTrust Consulting,BFSI & Consulting,7.0,Analyst,2022-12-15
+OF3182,ST20513,CloudHarbor,Product,12.0,SDE,2022-12-15
+OF3183,ST20620,CapitalEdge,BFSI & Consulting,8.6,Analyst,2022-12-15
+OF3184,ST20493,VoltEdge Power,Core & Manufacturing,7.2,Graduate Engineer Trainee,2022-12-16
+OF3185,ST20155,DataPulse Solutions,IT Services,5.3,Software Engineer,2022-12-16
+OF3186,ST20772,ByteBridge,IT Services,3.1,Software Engineer,2022-12-16
+OF3187,ST20365,RapidKart,Startup,12.8,Associate Engineer,2022-12-18
+OF3188,ST20248,DataPulse Solutions,IT Services,6.0,Software Engineer,2022-12-19
+OF3189,ST20968,PixelForge,Product,27.0,SDE,2022-12-19
+OF3190,ST20910,InfoWave,IT Services,5.8,Software Engineer,2022-12-19
+OF3191,ST20103,QuantumLeaf,Product,17.1,SDE,2022-12-20
+OF3192,ST20748,FinTrust Consulting,BFSI & Consulting,8.1,Analyst,2022-12-22
+OF3193,ST20407,CloudHarbor,Product,20.5,SDE,2022-12-22
+OF3194,ST21031,RapidKart,Startup,10.7,Associate Engineer,2022-12-23
+OF3195,ST20643,DataPulse Solutions,IT Services,4.9,Software Engineer,2022-12-24
+OF3196,ST20460,UrbanBuild Infra,Core & Manufacturing,4.1,Graduate Engineer Trainee,2022-12-24
+OF3197,ST21150,SteelCraft Industries,Core & Manufacturing,5.2,Graduate Engineer Trainee,2022-12-24
+OF3198,ST20394,SteelCraft Industries,Core & Manufacturing,5.5,Graduate Engineer Trainee,2022-12-25
+OF3199,ST20017,RapidKart,Startup,12.9,Associate Engineer,2022-12-25
+OF3200,ST20448,SteelCraft Industries,Core & Manufacturing,6.0,Graduate Engineer Trainee,2022-12-25
+OF3201,ST20136,Nimbus Labs,Product,14.8,SDE,2022-12-25
+OF3202,ST20554,VoltEdge Power,Core & Manufacturing,4.0,Graduate Engineer Trainee,2022-12-25
+OF3203,ST20748,FinTrust Consulting,BFSI & Consulting,11.4,Analyst,2022-12-26
+OF3204,ST20702,Nimbus Labs,Product,21.5,SDE,2022-12-27
+OF3205,ST20032,FinTrust Consulting,BFSI & Consulting,7.8,Analyst,2022-12-27
+OF3206,ST20446,QuantumLeaf,Product,21.4,SDE,2022-12-27
+OF3207,ST20201,SparkLoop,Startup,12.0,Associate Engineer,2022-12-27
+OF3208,ST20548,UrbanBuild Infra,Core & Manufacturing,6.1,Graduate Engineer Trainee,2023-01-01
+OF3209,ST21189,InfoWave,IT Services,3.8,Software Engineer,2023-01-02
+OF3210,ST20206,PixelForge,Product,12.2,SDE,2023-01-03
+OF3211,ST20153,QuantumLeaf,Product,23.4,SDE,2023-01-04
+OF3212,ST20224,UrbanBuild Infra,Core & Manufacturing,4.8,Graduate Engineer Trainee,2023-01-04
+OF3213,ST20891,VoltEdge Power,Core & Manufacturing,4.9,Graduate Engineer Trainee,2023-01-05
+OF3214,ST20231,UrbanBuild Infra,Core & Manufacturing,4.9,Graduate Engineer Trainee,2023-01-06
+OF3215,ST20284,CloudHarbor,Product,25.0,SDE,2023-01-07
+OF3216,ST20044,Axion Motors,Core & Manufacturing,5.7,Graduate Engineer Trainee,2023-01-07
+OF3217,ST20426,CodeCrest,IT Services,4.1,Software Engineer,2023-01-07
+OF3218,ST20087,Nimbus Labs,Product,14.7,SDE,2023-01-12
+OF3219,ST20129,CloudHarbor,Product,13.7,SDE,2023-01-12
+OF3220,ST20159,CloudHarbor,Product,21.0,SDE,2023-01-12
+OF3221,ST20963,TechNova Services,IT Services,4.0,Software Engineer,2023-01-13
+OF3222,ST20072,Axion Motors,Core & Manufacturing,3.0,Graduate Engineer Trainee,2023-01-13
+OF3223,ST20103,SparkLoop,Startup,10.7,Associate Engineer,2023-01-13
+OF3224,ST20226,Axion Motors,Core & Manufacturing,4.4,Graduate Engineer Trainee,2023-01-13
+OF3225,ST20013,SteelCraft Industries,Core & Manufacturing,4.6,Graduate Engineer Trainee,2023-01-14
+OF3226,ST20690,SparkLoop,Startup,7.9,Associate Engineer,2023-01-14
+OF3227,ST21041,RapidKart,Startup,7.3,Associate Engineer,2023-01-14
+OF3228,ST20851,SparkLoop,Startup,5.8,Associate Engineer,2023-01-14
+OF3229,ST20341,PixelForge,Product,19.6,SDE,2023-01-15
+OF3230,ST20765,SteelCraft Industries,Core & Manufacturing,3.8,Graduate Engineer Trainee,2023-01-15
+OF3231,ST21069,SparkLoop,Startup,14.0,Associate Engineer,2023-01-15
+OF3232,ST21023,ByteBridge,IT Services,3.3,Software Engineer,2023-01-15
+OF3233,ST20274,VoltEdge Power,Core & Manufacturing,5.8,Graduate Engineer Trainee,2023-01-16
+OF3234,ST20905,CloudHarbor,Product,20.9,SDE,2023-01-16
+OF3235,ST20111,Axion Motors,Core & Manufacturing,5.6,Graduate Engineer Trainee,2023-01-17
+OF3236,ST20133,Nimbus Labs,Product,13.5,SDE,2023-01-17
+OF3237,ST20581,Nimbus Labs,Product,18.6,SDE,2023-01-18
+OF3238,ST20751,PixelForge,Product,27.9,SDE,2023-01-19
+OF3239,ST20006,SparkLoop,Startup,14.0,Associate Engineer,2023-01-19
+OF3240,ST20594,PixelForge,Product,13.4,SDE,2023-01-19
+OF3241,ST20253,Axion Motors,Core & Manufacturing,5.5,Graduate Engineer Trainee,2023-01-19
+OF3242,ST20733,Nimbus Labs,Product,18.1,SDE,2023-01-21
+OF3243,ST20211,Nimbus Labs,Product,20.2,SDE,2023-01-21
+OF3244,ST20858,RapidKart,Startup,6.5,Associate Engineer,2023-01-24
+OF3245,ST20270,CloudHarbor,Product,18.2,SDE,2023-01-24
+OF3246,ST21019,PixelForge,Product,15.6,SDE,2023-01-24
+OF3247,ST21057,RapidKart,Startup,6.1,Associate Engineer,2023-01-24
+OF3248,ST20065,FinTrust Consulting,BFSI & Consulting,7.7,Analyst,2023-01-27
+OF3249,ST21022,GreenByte,Startup,4.0,Associate Engineer,2023-02-01
+OF3250,ST21087,UrbanBuild Infra,Core & Manufacturing,7.0,Graduate Engineer Trainee,2023-02-04
+OF3251,ST21074,Axion Motors,Core & Manufacturing,5.9,Graduate Engineer Trainee,2023-02-05
+OF3252,ST20774,Axion Motors,Core & Manufacturing,5.5,Graduate Engineer Trainee,2023-02-06
+OF3253,ST20133,QuantumLeaf,Product,12.4,SDE,2023-02-06
+OF3254,ST20799,GreenByte,Startup,5.3,Associate Engineer,2023-02-06
+OF3255,ST20636,VoltEdge Power,Core & Manufacturing,3.8,Graduate Engineer Trainee,2023-02-06
+OF3256,ST20204,FinTrust Consulting,BFSI & Consulting,9.6,Analyst,2023-02-07
+OF3257,ST20596,Axion Motors,Core & Manufacturing,5.1,Graduate Engineer Trainee,2023-02-07
+OF3258,ST20473,Axion Motors,Core & Manufacturing,6.0,Graduate Engineer Trainee,2023-02-08
+OF3259,ST20332,SteelCraft Industries,Core & Manufacturing,5.4,Graduate Engineer Trainee,2023-02-08
+OF3260,ST20438,UrbanBuild Infra,Core & Manufacturing,3.7,Graduate Engineer Trainee,2023-02-09
+OF3261,ST20768,SparkLoop,Startup,4.2,Associate Engineer,2023-02-10
+OF3262,ST20588,Axion Motors,Core & Manufacturing,6.5,Graduate Engineer Trainee,2023-02-12
+OF3263,ST20736,VoltEdge Power,Core & Manufacturing,5.5,Graduate Engineer Trainee,2023-02-12
+OF3264,ST20006,PixelForge,Product,15.9,SDE,2023-02-12
+OF3265,ST20570,SteelCraft Industries,Core & Manufacturing,3.9,Graduate Engineer Trainee,2023-02-14
+OF3266,ST20929,Axion Motors,Core & Manufacturing,6.0,Graduate Engineer Trainee,2023-02-15
+OF3267,ST20550,SparkLoop,Startup,10.3,Associate Engineer,2023-02-16
+OF3268,ST21002,QuantumLeaf,Product,11.1,SDE,2023-02-16
+OF3269,ST20716,SparkLoop,Startup,14.5,Associate Engineer,2023-02-17
+OF3270,ST20057,FinTrust Consulting,BFSI & Consulting,5.0,Analyst,2023-02-18
+OF3271,ST20558,QuantumLeaf,Product,19.6,SDE,2023-02-19
+OF3272,ST20648,SteelCraft Industries,Core & Manufacturing,3.4,Graduate Engineer Trainee,2023-02-20
+OF3273,ST21003,Nimbus Labs,Product,12.2,SDE,2023-02-20
+OF3274,ST21032,GreenByte,Startup,12.0,Associate Engineer,2023-02-21
+OF3275,ST21166,FinTrust Consulting,BFSI & Consulting,5.7,Analyst,2023-02-21
+OF3276,ST20772,VoltEdge Power,Core & Manufacturing,7.2,Graduate Engineer Trainee,2023-02-21
+OF3277,ST20421,PixelForge,Product,28.3,SDE,2023-02-21
+OF3278,ST20959,UrbanBuild Infra,Core & Manufacturing,4.4,Graduate Engineer Trainee,2023-02-23
+OF3279,ST21025,VoltEdge Power,Core & Manufacturing,4.7,Graduate Engineer Trainee,2023-02-23
+OF3280,ST20089,Nimbus Labs,Product,11.0,SDE,2023-02-24
+OF3281,ST21062,FinTrust Consulting,BFSI & Consulting,9.0,Analyst,2023-02-25
+OF3282,ST20211,PixelForge,Product,13.5,SDE,2023-02-26
+OF3283,ST21089,SteelCraft Industries,Core & Manufacturing,4.0,Graduate Engineer Trainee,2023-03-01
+OF3284,ST20154,Axion Motors,Core & Manufacturing,4.3,Graduate Engineer Trainee,2023-03-02
+OF3285,ST20332,FinTrust Consulting,BFSI & Consulting,5.4,Analyst,2023-03-02
+OF3286,ST20914,Axion Motors,Core & Manufacturing,4.8,Graduate Engineer Trainee,2023-03-03
+OF3287,ST20888,FinTrust Consulting,BFSI & Consulting,8.4,Analyst,2023-03-03
+OF3288,ST21145,Axion Motors,Core & Manufacturing,4.3,Graduate Engineer Trainee,2023-03-03
+OF3289,ST20940,FinTrust Consulting,BFSI & Consulting,9.2,Analyst,2023-03-04
+OF3290,ST20833,GreenByte,Startup,9.1,Associate Engineer,2023-03-04
+OF3291,ST20415,GreenByte,Startup,16.0,Associate Engineer,2023-03-05
+OF3292,ST20896,SteelCraft Industries,Core & Manufacturing,5.5,Graduate Engineer Trainee,2023-03-07
+OF3293,ST20548,UrbanBuild Infra,Core & Manufacturing,4.0,Graduate Engineer Trainee,2023-03-07
+OF3294,ST20319,SparkLoop,Startup,10.4,Associate Engineer,2023-03-09
+OF3295,ST20958,VoltEdge Power,Core & Manufacturing,4.6,Graduate Engineer Trainee,2023-03-09
+OF3296,ST21150,SteelCraft Industries,Core & Manufacturing,5.3,Graduate Engineer Trainee,2023-03-11
+OF3297,ST20341,RapidKart,Startup,9.9,Associate Engineer,2023-03-13
+OF3298,ST20003,VoltEdge Power,Core & Manufacturing,4.3,Graduate Engineer Trainee,2023-03-14
+OF3299,ST20493,VoltEdge Power,Core & Manufacturing,5.4,Graduate Engineer Trainee,2023-03-15
+OF3300,ST20511,GreenByte,Startup,12.9,Associate Engineer,2023-03-15
+OF3301,ST20060,GreenByte,Startup,12.2,Associate Engineer,2023-03-17
+OF3302,ST20852,FinTrust Consulting,BFSI & Consulting,5.0,Analyst,2023-03-18
+OF3303,ST20399,RapidKart,Startup,7.5,Associate Engineer,2023-03-18
+OF3304,ST20419,SteelCraft Industries,Core & Manufacturing,5.0,Graduate Engineer Trainee,2023-03-18
+OF3305,ST20060,InfoWave,IT Services,5.5,Software Engineer,2023-03-19
+OF3306,ST20224,UrbanBuild Infra,Core & Manufacturing,5.2,Graduate Engineer Trainee,2023-03-20
+OF3307,ST20049,TechNova Services,IT Services,4.1,Software Engineer,2023-03-20
+OF3308,ST20224,RapidKart,Startup,11.7,Associate Engineer,2023-03-21
+OF3309,ST20643,Nimbus Labs,Product,18.8,SDE,2023-03-21
+OF3310,ST20918,RapidKart,Startup,10.4,Associate Engineer,2023-03-21
+OF3311,ST20511,CodeCrest,IT Services,4.2,Software Engineer,2023-03-22
+OF3312,ST21171,FinTrust Consulting,BFSI & Consulting,7.2,Analyst,2023-03-24
+OF3313,ST20189,SteelCraft Industries,Core & Manufacturing,3.9,Graduate Engineer Trainee,2023-03-24
+OF3314,ST21051,GreenByte,Startup,6.5,Associate Engineer,2023-03-25
+OF3315,ST20173,Nimbus Labs,Product,21.9,SDE,2023-03-26
+OF3316,ST20401,SparkLoop,Startup,8.6,Associate Engineer,2023-03-27
+OF3317,ST20354,InfoWave,IT Services,5.8,Software Engineer,2023-08-01
+OF3318,ST20361,DataPulse Solutions,IT Services,4.0,Software Engineer,2023-08-02
+OF3319,ST20416,TechNova Services,IT Services,5.2,Software Engineer,2023-08-04
+OF3320,ST21034,ByteBridge,IT Services,6.9,Software Engineer,2023-08-05
+OF3321,ST20616,InfoWave,IT Services,5.5,Software Engineer,2023-08-06
+OF3322,ST20573,VoltEdge Power,Core & Manufacturing,7.0,Graduate Engineer Trainee,2023-08-06
+OF3323,ST20051,GreenByte,Startup,9.2,Associate Engineer,2023-08-07
+OF3324,ST20045,Axion Motors,Core & Manufacturing,4.9,Graduate Engineer Trainee,2023-08-07
+OF3325,ST20945,DataPulse Solutions,IT Services,6.4,Software Engineer,2023-08-08
+OF3326,ST21153,FinTrust Consulting,BFSI & Consulting,12.5,Analyst,2023-08-09
+OF3327,ST20183,VoltEdge Power,Core & Manufacturing,3.6,Graduate Engineer Trainee,2023-08-09
+OF3328,ST20866,CodeCrest,IT Services,5.6,Software Engineer,2023-08-10
+OF3329,ST21159,TechNova Services,IT Services,3.8,Software Engineer,2023-08-11
+OF3330,ST20282,FinTrust Consulting,BFSI & Consulting,9.2,Analyst,2023-08-11
+OF3331,ST21133,InfoWave,IT Services,4.5,Software Engineer,2023-08-11
+OF3332,ST20331,RapidKart,Startup,4.1,Associate Engineer,2023-08-12
+OF3333,ST21060,PixelForge,Product,23.2,SDE,2023-08-17
+OF3334,ST20969,RapidKart,Startup,4.4,Associate Engineer,2023-08-17
+OF3335,ST20203,SteelCraft Industries,Core & Manufacturing,6.2,Graduate Engineer Trainee,2023-08-18
+OF3336,ST20166,CodeCrest,IT Services,4.3,Software Engineer,2023-08-18
+OF3337,ST20370,SparkLoop,Startup,5.5,Associate Engineer,2023-08-19
+OF3338,ST20007,CodeCrest,IT Services,5.1,Software Engineer,2023-08-20
+OF3339,ST21044,VoltEdge Power,Core & Manufacturing,3.0,Graduate Engineer Trainee,2023-08-20
+OF3340,ST20844,CodeCrest,IT Services,4.4,Software Engineer,2023-08-26
+OF3341,ST20075,CodeCrest,IT Services,5.6,Software Engineer,2023-08-27
+OF3342,ST20121,CapitalEdge,BFSI & Consulting,7.3,Analyst,2023-09-02
+OF3343,ST20989,Nimbus Labs,Product,16.6,SDE,2023-09-04
+OF3344,ST21063,InfoWave,IT Services,4.7,Software Engineer,2023-09-06
+OF3345,ST20346,VoltEdge Power,Core & Manufacturing,3.0,Graduate Engineer Trainee,2023-09-06
+OF3346,ST21016,TechNova Services,IT Services,5.5,Software Engineer,2023-09-07
+OF3347,ST20246,TechNova Services,IT Services,6.0,Software Engineer,2023-09-08
+OF3348,ST20116,TechNova Services,IT Services,3.1,Software Engineer,2023-09-09
+OF3349,ST20939,CodeCrest,IT Services,4.7,Software Engineer,2023-09-13
+OF3350,ST21126,GreenByte,Startup,11.5,Associate Engineer,2023-09-15
+OF3351,ST21083,ByteBridge,IT Services,4.0,Software Engineer,2023-09-15
+OF3352,ST20952,CloudHarbor,Product,17.3,SDE,2023-09-17
+OF3353,ST20912,DataPulse Solutions,IT Services,3.0,Software Engineer,2023-09-18
+OF3354,ST20839,SteelCraft Industries,Core & Manufacturing,8.1,Graduate Engineer Trainee,2023-09-19
+OF3355,ST21079,TechNova Services,IT Services,4.6,Software Engineer,2023-09-19
+OF3356,ST20235,DataPulse Solutions,IT Services,4.8,Software Engineer,2023-09-19
+OF3357,ST21184,ByteBridge,IT Services,4.2,Software Engineer,2023-09-20
+OF3358,ST20655,SteelCraft Industries,Core & Manufacturing,6.0,Graduate Engineer Trainee,2023-09-20
+OF3359,ST20745,TechNova Services,IT Services,3.6,Software Engineer,2023-09-21
+OF3360,ST20353,ByteBridge,IT Services,3.7,Software Engineer,2023-09-21
+OF3361,ST20954,UrbanBuild Infra,Core & Manufacturing,4.0,Graduate Engineer Trainee,2023-09-22
+OF3362,ST20524,DataPulse Solutions,IT Services,6.2,Software Engineer,2023-09-26
+OF3363,ST20378,FinTrust Consulting,BFSI & Consulting,10.1,Analyst,2023-10-01
+OF3364,ST20707,ByteBridge,IT Services,3.4,Software Engineer,2023-10-02
+OF3365,ST20025,RapidKart,Startup,4.0,Associate Engineer,2023-10-02
+OF3366,ST20778,FinTrust Consulting,BFSI & Consulting,7.6,Analyst,2023-10-02
+OF3367,ST20050,TechNova Services,IT Services,4.3,Software Engineer,2023-10-03
+OF3368,ST20894,Nimbus Labs,Product,16.9,SDE,2023-10-03
+OF3369,ST20138,SteelCraft Industries,Core & Manufacturing,4.8,Graduate Engineer Trainee,2023-10-03
+OF3370,ST20883,TechNova Services,IT Services,3.8,Software Engineer,2023-10-03
+OF3371,ST20811,Axion Motors,Core & Manufacturing,3.2,Graduate Engineer Trainee,2023-10-04
+OF3372,ST21042,FinTrust Consulting,BFSI & Consulting,7.7,Analyst,2023-10-04
+OF3373,ST20718,SparkLoop,Startup,8.6,Associate Engineer,2023-10-05
+OF3374,ST21104,FinTrust Consulting,BFSI & Consulting,7.5,Analyst,2023-10-06
+OF3375,ST20246,Nimbus Labs,Product,26.0,SDE,2023-10-06
+OF3376,ST20190,InfoWave,IT Services,5.0,Software Engineer,2023-10-08
+OF3377,ST20432,CodeCrest,IT Services,5.4,Software Engineer,2023-10-08
+OF3378,ST20623,TechNova Services,IT Services,4.7,Software Engineer,2023-10-08
+OF3379,ST20622,CodeCrest,IT Services,6.0,Software Engineer,2023-10-09
+OF3380,ST20443,Axion Motors,Core & Manufacturing,4.0,Graduate Engineer Trainee,2023-10-09
+OF3381,ST20034,CodeCrest,IT Services,5.2,Software Engineer,2023-10-11
+OF3382,ST20487,UrbanBuild Infra,Core & Manufacturing,6.0,Graduate Engineer Trainee,2023-10-11
+OF3383,ST20912,CapitalEdge,BFSI & Consulting,9.6,Analyst,2023-10-11
+OF3384,ST21147,Nimbus Labs,Product,12.5,SDE,2023-10-13
+OF3385,ST20626,CapitalEdge,BFSI & Consulting,6.6,Analyst,2023-10-13
+OF3386,ST20469,SteelCraft Industries,Core & Manufacturing,4.2,Graduate Engineer Trainee,2023-10-14
+OF3387,ST20604,CapitalEdge,BFSI & Consulting,8.2,Analyst,2023-10-14
+OF3388,ST21154,Axion Motors,Core & Manufacturing,5.3,Graduate Engineer Trainee,2023-10-14
+OF3389,ST21063,CodeCrest,IT Services,4.4,Software Engineer,2023-10-15
+OF3390,ST20630,ByteBridge,IT Services,4.1,Software Engineer,2023-10-15
+OF3391,ST20262,InfoWave,IT Services,3.9,Software Engineer,2023-10-15
+OF3392,ST20085,RapidKart,Startup,8.8,Associate Engineer,2023-10-15
+OF3393,ST20349,CodeCrest,IT Services,3.7,Software Engineer,2023-10-16
+OF3394,ST21117,CapitalEdge,BFSI & Consulting,5.4,Analyst,2023-10-16
+OF3395,ST20425,CodeCrest,IT Services,4.4,Software Engineer,2023-10-17
+OF3396,ST21073,Axion Motors,Core & Manufacturing,5.9,Graduate Engineer Trainee,2023-10-17
+OF3397,ST20436,CodeCrest,IT Services,6.1,Software Engineer,2023-10-19
+OF3398,ST20142,PixelForge,Product,27.9,SDE,2023-10-20
+OF3399,ST20356,GreenByte,Startup,4.0,Associate Engineer,2023-10-21
+OF3400,ST21154,UrbanBuild Infra,Core & Manufacturing,4.9,Graduate Engineer Trainee,2023-10-22
+OF3401,ST20034,SparkLoop,Startup,11.4,Associate Engineer,2023-10-23
+OF3402,ST20553,FinTrust Consulting,BFSI & Consulting,10.5,Analyst,2023-10-23
+OF3403,ST20945,CodeCrest,IT Services,5.4,Software Engineer,2023-10-23
+OF3404,ST20023,SparkLoop,Startup,11.9,Associate Engineer,2023-10-24
+OF3405,ST20007,TechNova Services,IT Services,5.6,Software Engineer,2023-10-24
+OF3406,ST20081,QuantumLeaf,Product,19.8,SDE,2023-10-24
+OF3407,ST20361,CodeCrest,IT Services,3.0,Software Engineer,2023-10-24
+OF3408,ST20854,CodeCrest,IT Services,5.1,Software Engineer,2023-10-25
+OF3409,ST21131,DataPulse Solutions,IT Services,5.3,Software Engineer,2023-10-26
+OF3410,ST20672,FinTrust Consulting,BFSI & Consulting,9.5,Analyst,2023-10-27
+OF3411,ST21185,CodeCrest,IT Services,4.8,Software Engineer,2023-10-27
+OF3412,ST20454,FinTrust Consulting,BFSI & Consulting,7.7,Analyst,2023-10-27
+OF3413,ST20096,CloudHarbor,Product,17.8,SDE,2023-11-01
+OF3414,ST20533,PixelForge,Product,11.1,SDE,2023-11-01
+OF3415,ST20116,CodeCrest,IT Services,5.3,Software Engineer,2023-11-01
+OF3416,ST20616,DataPulse Solutions,IT Services,4.1,Software Engineer,2023-11-02
+OF3417,ST20357,PixelForge,Product,11.0,SDE,2023-11-02
+OF3418,ST20131,VoltEdge Power,Core & Manufacturing,5.7,Graduate Engineer Trainee,2023-11-04
+OF3419,ST20580,PixelForge,Product,15.3,SDE,2023-11-04
+OF3420,ST20961,CodeCrest,IT Services,5.3,Software Engineer,2023-11-05
+OF3421,ST20530,InfoWave,IT Services,6.8,Software Engineer,2023-11-05
+OF3422,ST20627,CodeCrest,IT Services,4.5,Software Engineer,2023-11-05
+OF3423,ST20837,ByteBridge,IT Services,4.3,Software Engineer,2023-11-05
+OF3424,ST20553,SteelCraft Industries,Core & Manufacturing,5.6,Graduate Engineer Trainee,2023-11-06
+OF3425,ST20316,CapitalEdge,BFSI & Consulting,9.8,Analyst,2023-11-06
+OF3426,ST21047,PixelForge,Product,13.5,SDE,2023-11-06
+OF3427,ST20836,CloudHarbor,Product,18.6,SDE,2023-11-07
+OF3428,ST21052,FinTrust Consulting,BFSI & Consulting,5.0,Analyst,2023-11-08
+OF3429,ST21015,TechNova Services,IT Services,4.8,Software Engineer,2023-11-08
+OF3430,ST21131,CodeCrest,IT Services,4.8,Software Engineer,2023-11-09
+OF3431,ST20739,VoltEdge Power,Core & Manufacturing,5.7,Graduate Engineer Trainee,2023-11-10
+OF3432,ST21197,FinTrust Consulting,BFSI & Consulting,9.5,Analyst,2023-11-10
+OF3433,ST21107,PixelForge,Product,12.1,SDE,2023-11-11
+OF3434,ST20040,QuantumLeaf,Product,35.9,SDE,2023-11-11
+OF3435,ST21007,QuantumLeaf,Product,15.2,SDE,2023-11-11
+OF3436,ST20180,ByteBridge,IT Services,4.8,Software Engineer,2023-11-11
+OF3437,ST20943,FinTrust Consulting,BFSI & Consulting,6.5,Analyst,2023-11-12
+OF3438,ST20787,QuantumLeaf,Product,28.6,SDE,2023-11-13
+OF3439,ST20368,DataPulse Solutions,IT Services,5.4,Software Engineer,2023-11-14
+OF3440,ST21157,CodeCrest,IT Services,4.9,Software Engineer,2023-11-14
+OF3441,ST20085,CapitalEdge,BFSI & Consulting,9.8,Analyst,2023-11-14
+OF3442,ST20710,CapitalEdge,BFSI & Consulting,6.2,Analyst,2023-11-14
+OF3443,ST20272,DataPulse Solutions,IT Services,4.4,Software Engineer,2023-11-15
+OF3444,ST20034,RapidKart,Startup,8.7,Associate Engineer,2023-11-15
+OF3445,ST20453,Nimbus Labs,Product,16.9,SDE,2023-11-16
+OF3446,ST20810,FinTrust Consulting,BFSI & Consulting,6.8,Analyst,2023-11-16
+OF3447,ST20867,TechNova Services,IT Services,4.4,Software Engineer,2023-11-16
+OF3448,ST20569,InfoWave,IT Services,3.4,Software Engineer,2023-11-18
+OF3449,ST20250,FinTrust Consulting,BFSI & Consulting,8.1,Analyst,2023-11-18
+OF3450,ST21059,UrbanBuild Infra,Core & Manufacturing,6.0,Graduate Engineer Trainee,2023-11-18
+OF3451,ST20783,VoltEdge Power,Core & Manufacturing,4.0,Graduate Engineer Trainee,2023-11-18
+OF3452,ST20378,PixelForge,Product,11.9,SDE,2023-11-19
+OF3453,ST20170,VoltEdge Power,Core & Manufacturing,6.1,Graduate Engineer Trainee,2023-11-19
+OF3454,ST21016,SparkLoop,Startup,7.6,Associate Engineer,2023-11-19
+OF3455,ST20555,UrbanBuild Infra,Core & Manufacturing,5.0,Graduate Engineer Trainee,2023-11-19
+OF3456,ST20192,FinTrust Consulting,BFSI & Consulting,9.4,Analyst,2023-11-20
+OF3457,ST20091,CodeCrest,IT Services,3.5,Software Engineer,2023-11-21
+OF3458,ST20600,ByteBridge,IT Services,4.8,Software Engineer,2023-11-22
+OF3459,ST20035,QuantumLeaf,Product,22.2,SDE,2023-11-24
+OF3460,ST20559,FinTrust Consulting,BFSI & Consulting,9.6,Analyst,2023-11-25
+OF3461,ST20177,DataPulse Solutions,IT Services,3.9,Software Engineer,2023-11-25
+OF3462,ST20375,QuantumLeaf,Product,18.3,SDE,2023-11-26
+OF3463,ST20605,PixelForge,Product,18.0,SDE,2023-11-27
+OF3464,ST21146,TechNova Services,IT Services,5.0,Software Engineer,2023-11-27
+OF3465,ST20390,DataPulse Solutions,IT Services,3.9,Software Engineer,2023-12-01
+OF3466,ST20343,VoltEdge Power,Core & Manufacturing,5.2,Graduate Engineer Trainee,2023-12-01
+OF3467,ST20586,CapitalEdge,BFSI & Consulting,12.5,Analyst,2023-12-01
+OF3468,ST20899,CloudHarbor,Product,12.4,SDE,2023-12-02
+OF3469,ST20638,CapitalEdge,BFSI & Consulting,9.3,Analyst,2023-12-02
+OF3470,ST20198,QuantumLeaf,Product,24.5,SDE,2023-12-03
+OF3471,ST20676,PixelForge,Product,27.6,SDE,2023-12-05
+OF3472,ST20176,PixelForge,Product,27.7,SDE,2023-12-06
+OF3473,ST20780,CodeCrest,IT Services,5.3,Software Engineer,2023-12-06
+OF3474,ST20358,CloudHarbor,Product,26.9,SDE,2023-12-07
+OF3475,ST21197,ByteBridge,IT Services,3.0,Software Engineer,2023-12-08
+OF3476,ST20569,RapidKart,Startup,10.2,Associate Engineer,2023-12-08
+OF3477,ST20323,UrbanBuild Infra,Core & Manufacturing,5.7,Graduate Engineer Trainee,2023-12-09
+OF3478,ST20734,QuantumLeaf,Product,19.0,SDE,2023-12-11
+OF3479,ST20141,VoltEdge Power,Core & Manufacturing,3.4,Graduate Engineer Trainee,2023-12-12
+OF3480,ST20728,TechNova Services,IT Services,3.9,Software Engineer,2023-12-12
+OF3481,ST20312,UrbanBuild Infra,Core & Manufacturing,3.1,Graduate Engineer Trainee,2023-12-13
+OF3482,ST20555,UrbanBuild Infra,Core & Manufacturing,3.0,Graduate Engineer Trainee,2023-12-15
+OF3483,ST20256,ByteBridge,IT Services,3.7,Software Engineer,2023-12-15
+OF3484,ST20138,RapidKart,Startup,7.6,Associate Engineer,2023-12-15
+OF3485,ST21082,RapidKart,Startup,5.8,Associate Engineer,2023-12-15
+OF3486,ST20188,UrbanBuild Infra,Core & Manufacturing,7.3,Graduate Engineer Trainee,2023-12-16
+OF3487,ST20695,CloudHarbor,Product,12.3,SDE,2023-12-17
+OF3488,ST20257,PixelForge,Product,29.2,SDE,2023-12-17
+OF3489,ST20693,InfoWave,IT Services,4.3,Software Engineer,2023-12-18
+OF3490,ST20420,RapidKart,Startup,9.1,Associate Engineer,2023-12-19
+OF3491,ST20787,TechNova Services,IT Services,3.8,Software Engineer,2023-12-19
+OF3492,ST20998,PixelForge,Product,28.7,SDE,2023-12-20
+OF3493,ST20524,GreenByte,Startup,9.1,Associate Engineer,2023-12-20
+OF3494,ST20499,QuantumLeaf,Product,18.0,SDE,2023-12-20
+OF3495,ST20135,FinTrust Consulting,BFSI & Consulting,6.2,Analyst,2023-12-20
+OF3496,ST20167,CloudHarbor,Product,11.0,SDE,2023-12-21
+OF3497,ST20700,PixelForge,Product,13.4,SDE,2023-12-21
+OF3498,ST20746,Nimbus Labs,Product,16.8,SDE,2023-12-21
+OF3499,ST20610,SteelCraft Industries,Core & Manufacturing,5.5,Graduate Engineer Trainee,2023-12-22
+OF3500,ST20131,FinTrust Consulting,BFSI & Consulting,7.1,Analyst,2023-12-22
+OF3501,ST21082,Axion Motors,Core & Manufacturing,5.5,Graduate Engineer Trainee,2023-12-23
+OF3502,ST20854,Nimbus Labs,Product,23.1,SDE,2023-12-23
+OF3503,ST20973,CodeCrest,IT Services,4.4,Software Engineer,2023-12-23
+OF3504,ST20323,VoltEdge Power,Core & Manufacturing,3.0,Graduate Engineer Trainee,2023-12-25
+OF3505,ST21122,SteelCraft Industries,Core & Manufacturing,5.1,Graduate Engineer Trainee,2023-12-26
+OF3506,ST20761,SteelCraft Industries,Core & Manufacturing,3.8,Graduate Engineer Trainee,2023-12-26
+OF3507,ST20467,VoltEdge Power,Core & Manufacturing,5.9,Graduate Engineer Trainee,2023-12-26
+OF3508,ST21077,Axion Motors,Core & Manufacturing,4.3,Graduate Engineer Trainee,2023-12-26
+OF3509,ST20026,ByteBridge,IT Services,3.9,Software Engineer,2023-12-27
+OF3510,ST20623,VoltEdge Power,Core & Manufacturing,3.1,Graduate Engineer Trainee,2023-12-27
+OF3511,ST20397,CloudHarbor,Product,20.7,SDE,2023-12-27
+OF3512,ST21136,PixelForge,Product,20.4,SDE,2024-01-01
+OF3513,ST20331,PixelForge,Product,17.0,SDE,2024-01-01
+OF3514,ST21165,InfoWave,IT Services,4.9,Software Engineer,2024-01-02
+OF3515,ST20842,SparkLoop,Startup,11.4,Associate Engineer,2024-01-02
+OF3516,ST20521,QuantumLeaf,Product,11.0,SDE,2024-01-04
+OF3517,ST20185,Axion Motors,Core & Manufacturing,4.9,Graduate Engineer Trainee,2024-01-04
+OF3518,ST20846,SteelCraft Industries,Core & Manufacturing,5.6,Graduate Engineer Trainee,2024-01-05
+OF3519,ST21122,SteelCraft Industries,Core & Manufacturing,5.0,Graduate Engineer Trainee,2024-01-05
+OF3520,ST20671,SparkLoop,Startup,12.8,Associate Engineer,2024-01-06
+OF3521,ST21157,CodeCrest,IT Services,5.3,Software Engineer,2024-01-06
+OF3522,ST20937,Axion Motors,Core & Manufacturing,3.0,Graduate Engineer Trainee,2024-01-07
+OF3523,ST20096,InfoWave,IT Services,3.8,Software Engineer,2024-01-08
+OF3524,ST20781,SparkLoop,Startup,6.5,Associate Engineer,2024-01-08
+OF3525,ST20651,SteelCraft Industries,Core & Manufacturing,4.3,Graduate Engineer Trainee,2024-01-08
+OF3526,ST20012,GreenByte,Startup,4.0,Associate Engineer,2024-01-09
+OF3527,ST20140,PixelForge,Product,11.0,SDE,2024-01-12
+OF3528,ST20762,TechNova Services,IT Services,4.8,Software Engineer,2024-01-12
+OF3529,ST20825,CloudHarbor,Product,19.4,SDE,2024-01-12
+OF3530,ST21104,CapitalEdge,BFSI & Consulting,5.0,Analyst,2024-01-12
+OF3531,ST20471,Nimbus Labs,Product,27.5,SDE,2024-01-13
+OF3532,ST21037,GreenByte,Startup,11.3,Associate Engineer,2024-01-15
+OF3533,ST20323,UrbanBuild Infra,Core & Manufacturing,5.3,Graduate Engineer Trainee,2024-01-15
+OF3534,ST20010,PixelForge,Product,15.6,SDE,2024-01-15
+OF3535,ST20586,CloudHarbor,Product,30.2,SDE,2024-01-16
+OF3536,ST20638,DataPulse Solutions,IT Services,3.7,Software Engineer,2024-01-16
+OF3537,ST20271,Axion Motors,Core & Manufacturing,5.5,Graduate Engineer Trainee,2024-01-17
+OF3538,ST20307,CapitalEdge,BFSI & Consulting,8.1,Analyst,2024-01-17
+OF3539,ST20506,CodeCrest,IT Services,3.9,Software Engineer,2024-01-18
+OF3540,ST20773,InfoWave,IT Services,5.1,Software Engineer,2024-01-18
+OF3541,ST21043,PixelForge,Product,13.5,SDE,2024-01-19
+OF3542,ST20964,PixelForge,Product,12.7,SDE,2024-01-19
+OF3543,ST21013,Axion Motors,Core & Manufacturing,4.5,Graduate Engineer Trainee,2024-01-21
+OF3544,ST20233,FinTrust Consulting,BFSI & Consulting,7.2,Analyst,2024-01-21
+OF3545,ST21070,Axion Motors,Core & Manufacturing,5.0,Graduate Engineer Trainee,2024-01-21
+OF3546,ST20471,PixelForge,Product,29.0,SDE,2024-01-22
+OF3547,ST20036,VoltEdge Power,Core & Manufacturing,5.4,Graduate Engineer Trainee,2024-01-23
+OF3548,ST20085,CapitalEdge,BFSI & Consulting,9.5,Analyst,2024-01-24
+OF3549,ST21090,QuantumLeaf,Product,23.2,SDE,2024-01-24
+OF3550,ST21131,QuantumLeaf,Product,22.5,SDE,2024-01-25
+OF3551,ST20042,ByteBridge,IT Services,5.6,Software Engineer,2024-01-26
+OF3552,ST20811,SteelCraft Industries,Core & Manufacturing,4.4,Graduate Engineer Trainee,2024-01-26
+OF3553,ST21140,QuantumLeaf,Product,22.6,SDE,2024-01-27
+OF3554,ST20372,RapidKart,Startup,7.9,Associate Engineer,2024-01-27
+OF3555,ST21090,GreenByte,Startup,7.7,Associate Engineer,2024-02-01
+OF3556,ST20719,InfoWave,IT Services,6.0,Software Engineer,2024-02-02
+OF3557,ST21082,VoltEdge Power,Core & Manufacturing,5.5,Graduate Engineer Trainee,2024-02-02
+OF3558,ST20580,GreenByte,Startup,9.3,Associate Engineer,2024-02-02
+OF3559,ST20605,SparkLoop,Startup,10.0,Associate Engineer,2024-02-03
+OF3560,ST20980,PixelForge,Product,16.5,SDE,2024-02-03
+OF3561,ST20453,QuantumLeaf,Product,26.4,SDE,2024-02-04
+OF3562,ST20185,Axion Motors,Core & Manufacturing,3.9,Graduate Engineer Trainee,2024-02-05
+OF3563,ST20603,UrbanBuild Infra,Core & Manufacturing,3.7,Graduate Engineer Trainee,2024-02-05
+OF3564,ST21090,RapidKart,Startup,9.1,Associate Engineer,2024-02-06
+OF3565,ST20149,CodeCrest,IT Services,3.0,Software Engineer,2024-02-07
+OF3566,ST20025,Nimbus Labs,Product,12.5,SDE,2024-02-07
+OF3567,ST20757,UrbanBuild Infra,Core & Manufacturing,7.0,Graduate Engineer Trainee,2024-02-07
+OF3568,ST21176,Axion Motors,Core & Manufacturing,4.3,Graduate Engineer Trainee,2024-02-08
+OF3569,ST20358,QuantumLeaf,Product,11.2,SDE,2024-02-09
+OF3570,ST21095,GreenByte,Startup,5.8,Associate Engineer,2024-02-10
+OF3571,ST20983,VoltEdge Power,Core & Manufacturing,5.6,Graduate Engineer Trainee,2024-02-11
+OF3572,ST20480,FinTrust Consulting,BFSI & Consulting,9.0,Analyst,2024-02-11
+OF3573,ST20432,Nimbus Labs,Product,18.6,SDE,2024-02-12
+OF3574,ST20085,PixelForge,Product,23.7,SDE,2024-02-13
+OF3575,ST20789,Nimbus Labs,Product,18.9,SDE,2024-02-14
+OF3576,ST20069,PixelForge,Product,19.7,SDE,2024-02-14
+OF3577,ST20378,GreenByte,Startup,7.9,Associate Engineer,2024-02-14
+OF3578,ST20758,SparkLoop,Startup,11.2,Associate Engineer,2024-02-16
+OF3579,ST21159,Nimbus Labs,Product,30.8,SDE,2024-02-17
+OF3580,ST20925,FinTrust Consulting,BFSI & Consulting,7.2,Analyst,2024-02-18
+OF3581,ST21181,Nimbus Labs,Product,14.5,SDE,2024-02-18
+OF3582,ST20443,Axion Motors,Core & Manufacturing,4.0,Graduate Engineer Trainee,2024-02-20
+OF3583,ST20761,SteelCraft Industries,Core & Manufacturing,3.9,Graduate Engineer Trainee,2024-02-20
+OF3584,ST20477,GreenByte,Startup,6.9,Associate Engineer,2024-02-21
+OF3585,ST20184,CapitalEdge,BFSI & Consulting,8.1,Analyst,2024-02-21
+OF3586,ST20546,SparkLoop,Startup,7.3,Associate Engineer,2024-02-22
+OF3587,ST20631,VoltEdge Power,Core & Manufacturing,3.6,Graduate Engineer Trainee,2024-02-22
+OF3588,ST20603,CapitalEdge,BFSI & Consulting,8.2,Analyst,2024-02-23
+OF3589,ST20693,VoltEdge Power,Core & Manufacturing,4.8,Graduate Engineer Trainee,2024-02-24
+OF3590,ST20657,SteelCraft Industries,Core & Manufacturing,4.8,Graduate Engineer Trainee,2024-02-24
+OF3591,ST21156,GreenByte,Startup,13.5,Associate Engineer,2024-02-24
+OF3592,ST20167,GreenByte,Startup,5.1,Associate Engineer,2024-02-25
+OF3593,ST20239,CloudHarbor,Product,13.9,SDE,2024-02-25
+OF3594,ST21122,Axion Motors,Core & Manufacturing,3.9,Graduate Engineer Trainee,2024-02-26
+OF3595,ST20598,CapitalEdge,BFSI & Consulting,9.1,Analyst,2024-03-01
+OF3596,ST20185,Axion Motors,Core & Manufacturing,7.1,Graduate Engineer Trainee,2024-03-02
+OF3597,ST20453,VoltEdge Power,Core & Manufacturing,5.7,Graduate Engineer Trainee,2024-03-02
+OF3598,ST20631,VoltEdge Power,Core & Manufacturing,4.3,Graduate Engineer Trainee,2024-03-04
+OF3599,ST20786,RapidKart,Startup,5.3,Associate Engineer,2024-03-05
+OF3600,ST20780,TechNova Services,IT Services,3.9,Software Engineer,2024-03-09
+OF3601,ST20925,QuantumLeaf,Product,16.6,SDE,2024-03-09
+OF3602,ST20082,DataPulse Solutions,IT Services,5.2,Software Engineer,2024-03-11
+OF3603,ST20425,InfoWave,IT Services,4.8,Software Engineer,2024-03-12
+OF3604,ST20651,SteelCraft Industries,Core & Manufacturing,5.0,Graduate Engineer Trainee,2024-03-13
+OF3605,ST21067,Axion Motors,Core & Manufacturing,4.5,Graduate Engineer Trainee,2024-03-13
+OF3606,ST20164,SteelCraft Industries,Core & Manufacturing,4.1,Graduate Engineer Trainee,2024-03-17
+OF3607,ST20703,UrbanBuild Infra,Core & Manufacturing,5.7,Graduate Engineer Trainee,2024-03-19
+OF3608,ST20370,RapidKart,Startup,7.5,Associate Engineer,2024-03-21
+OF3609,ST20280,SteelCraft Industries,Core & Manufacturing,4.0,Graduate Engineer Trainee,2024-03-21
+OF3610,ST20484,UrbanBuild Infra,Core & Manufacturing,6.1,Graduate Engineer Trainee,2024-03-24
+OF3611,ST20555,VoltEdge Power,Core & Manufacturing,5.2,Graduate Engineer Trainee,2024-03-24
+OF3612,ST20544,UrbanBuild Infra,Core & Manufacturing,6.9,Graduate Engineer Trainee,2024-03-26
+OF3613,ST20216,VoltEdge Power,Core & Manufacturing,3.0,Graduate Engineer Trainee,2024-03-27
+OF3614,ST20613,Axion Motors,Core & Manufacturing,6.4,Graduate Engineer Trainee,2024-03-27
+OF3615,ST20704,DataPulse Solutions,IT Services,4.2,Software Engineer,2024-08-02
+OF3616,ST20459,DataPulse Solutions,IT Services,5.5,Software Engineer,2024-08-02
+OF3617,ST21167,InfoWave,IT Services,4.9,Software Engineer,2024-08-08
+OF3618,ST20285,FinTrust Consulting,BFSI & Consulting,8.6,Analyst,2024-08-09
+OF3619,ST20985,QuantumLeaf,Product,11.0,SDE,2024-08-09
+OF3620,ST20435,CapitalEdge,BFSI & Consulting,6.8,Analyst,2024-08-09
+OF3621,ST20624,TechNova Services,IT Services,6.1,Software Engineer,2024-08-10
+OF3622,ST20385,SparkLoop,Startup,10.6,Associate Engineer,2024-08-10
+OF3623,ST20260,InfoWave,IT Services,4.3,Software Engineer,2024-08-10
+OF3624,ST20685,CodeCrest,IT Services,4.0,Software Engineer,2024-08-10
+OF3625,ST21152,RapidKart,Startup,6.8,Associate Engineer,2024-08-11
+OF3626,ST21134,PixelForge,Product,17.8,SDE,2024-08-13
+OF3627,ST20822,Axion Motors,Core & Manufacturing,4.1,Graduate Engineer Trainee,2024-08-14
+OF3628,ST20383,TechNova Services,IT Services,3.4,Software Engineer,2024-08-15
+OF3629,ST20451,QuantumLeaf,Product,17.2,SDE,2024-08-19
+OF3630,ST21183,RapidKart,Startup,11.5,Associate Engineer,2024-08-21
+OF3631,ST20495,CodeCrest,IT Services,5.3,Software Engineer,2024-08-23
+OF3632,ST20105,FinTrust Consulting,BFSI & Consulting,8.2,Analyst,2024-08-26
+OF3633,ST20314,Nimbus Labs,Product,11.9,SDE,2024-09-01
+OF3634,ST20218,SteelCraft Industries,Core & Manufacturing,4.7,Graduate Engineer Trainee,2024-09-01
+OF3635,ST20326,Axion Motors,Core & Manufacturing,4.6,Graduate Engineer Trainee,2024-09-01
+OF3636,ST21088,SparkLoop,Startup,13.4,Associate Engineer,2024-09-02
+OF3637,ST20259,FinTrust Consulting,BFSI & Consulting,9.0,Analyst,2024-09-02
+OF3638,ST20885,SparkLoop,Startup,10.2,Associate Engineer,2024-09-02
+OF3639,ST20887,CodeCrest,IT Services,4.3,Software Engineer,2024-09-05
+OF3640,ST21066,InfoWave,IT Services,6.1,Software Engineer,2024-09-05
+OF3641,ST20398,CodeCrest,IT Services,5.2,Software Engineer,2024-09-06
+OF3642,ST20699,SparkLoop,Startup,9.4,Associate Engineer,2024-09-08
+OF3643,ST20411,SteelCraft Industries,Core & Manufacturing,4.6,Graduate Engineer Trainee,2024-09-08
+OF3644,ST20941,Nimbus Labs,Product,14.8,SDE,2024-09-09
+OF3645,ST20491,FinTrust Consulting,BFSI & Consulting,8.3,Analyst,2024-09-11
+OF3646,ST21193,CapitalEdge,BFSI & Consulting,8.1,Analyst,2024-09-14
+OF3647,ST20868,PixelForge,Product,16.2,SDE,2024-09-15
+OF3648,ST20699,Nimbus Labs,Product,32.0,SDE,2024-09-15
+OF3649,ST21195,CodeCrest,IT Services,5.2,Software Engineer,2024-09-16
+OF3650,ST20805,VoltEdge Power,Core & Manufacturing,6.4,Graduate Engineer Trainee,2024-09-16
+OF3651,ST20074,CapitalEdge,BFSI & Consulting,10.5,Analyst,2024-09-16
+OF3652,ST20639,SteelCraft Industries,Core & Manufacturing,7.2,Graduate Engineer Trainee,2024-09-19
+OF3653,ST20645,CodeCrest,IT Services,3.5,Software Engineer,2024-09-19
+OF3654,ST20665,VoltEdge Power,Core & Manufacturing,6.4,Graduate Engineer Trainee,2024-09-20
+OF3655,ST20258,DataPulse Solutions,IT Services,3.9,Software Engineer,2024-09-20
+OF3656,ST20120,VoltEdge Power,Core & Manufacturing,4.4,Graduate Engineer Trainee,2024-09-21
+OF3657,ST20809,FinTrust Consulting,BFSI & Consulting,7.7,Analyst,2024-09-22
+OF3658,ST20451,RapidKart,Startup,8.1,Associate Engineer,2024-09-24
+OF3659,ST21088,InfoWave,IT Services,3.0,Software Engineer,2024-09-25
+OF3660,ST20760,InfoWave,IT Services,3.8,Software Engineer,2024-09-25
+OF3661,ST20387,CapitalEdge,BFSI & Consulting,5.1,Analyst,2024-09-25
+OF3662,ST20388,CodeCrest,IT Services,5.9,Software Engineer,2024-09-27
+OF3663,ST21004,InfoWave,IT Services,4.5,Software Engineer,2024-10-01
+OF3664,ST20104,InfoWave,IT Services,4.8,Software Engineer,2024-10-02
+OF3665,ST20966,InfoWave,IT Services,5.2,Software Engineer,2024-10-02
+OF3666,ST20228,InfoWave,IT Services,3.7,Software Engineer,2024-10-02
+OF3667,ST20557,Nimbus Labs,Product,17.9,SDE,2024-10-03
+OF3668,ST20589,TechNova Services,IT Services,4.5,Software Engineer,2024-10-03
+OF3669,ST20146,RapidKart,Startup,4.4,Associate Engineer,2024-10-03
+OF3670,ST20981,InfoWave,IT Services,4.5,Software Engineer,2024-10-03
+OF3671,ST20395,TechNova Services,IT Services,4.5,Software Engineer,2024-10-03
+OF3672,ST20114,TechNova Services,IT Services,4.9,Software Engineer,2024-10-04
+OF3673,ST20098,DataPulse Solutions,IT Services,4.0,Software Engineer,2024-10-04
+OF3674,ST20498,InfoWave,IT Services,5.3,Software Engineer,2024-10-05
+OF3675,ST20199,TechNova Services,IT Services,4.2,Software Engineer,2024-10-06
+OF3676,ST20861,CodeCrest,IT Services,3.5,Software Engineer,2024-10-07
+OF3677,ST21012,Nimbus Labs,Product,38.8,SDE,2024-10-08
+OF3678,ST20258,RapidKart,Startup,11.7,Associate Engineer,2024-10-08
+OF3679,ST20504,RapidKart,Startup,8.0,Associate Engineer,2024-10-09
+OF3680,ST20329,GreenByte,Startup,13.1,Associate Engineer,2024-10-09
+OF3681,ST20212,RapidKart,Startup,10.1,Associate Engineer,2024-10-10
+OF3682,ST20865,SteelCraft Industries,Core & Manufacturing,3.4,Graduate Engineer Trainee,2024-10-11
+OF3683,ST20263,GreenByte,Startup,4.6,Associate Engineer,2024-10-12
+OF3684,ST20238,GreenByte,Startup,9.9,Associate Engineer,2024-10-12
+OF3685,ST20308,InfoWave,IT Services,4.0,Software Engineer,2024-10-13
+OF3686,ST20310,CapitalEdge,BFSI & Consulting,9.0,Analyst,2024-10-13
+OF3687,ST20725,CodeCrest,IT Services,4.1,Software Engineer,2024-10-13
+OF3688,ST20137,InfoWave,IT Services,5.2,Software Engineer,2024-10-13
+OF3689,ST20879,DataPulse Solutions,IT Services,5.6,Software Engineer,2024-10-14
+OF3690,ST20245,CodeCrest,IT Services,4.3,Software Engineer,2024-10-15
+OF3691,ST20873,ByteBridge,IT Services,3.3,Software Engineer,2024-10-15
+OF3692,ST21088,InfoWave,IT Services,5.1,Software Engineer,2024-10-16
+OF3693,ST20714,CodeCrest,IT Services,3.2,Software Engineer,2024-10-17
+OF3694,ST20898,FinTrust Consulting,BFSI & Consulting,6.7,Analyst,2024-10-17
+OF3695,ST20281,InfoWave,IT Services,5.6,Software Engineer,2024-10-18
+OF3696,ST20107,SteelCraft Industries,Core & Manufacturing,6.7,Graduate Engineer Trainee,2024-10-18
+OF3697,ST21188,DataPulse Solutions,IT Services,4.6,Software Engineer,2024-10-18
+OF3698,ST20048,Axion Motors,Core & Manufacturing,6.4,Graduate Engineer Trainee,2024-10-19
+OF3699,ST20146,FinTrust Consulting,BFSI & Consulting,7.2,Analyst,2024-10-19
+OF3700,ST20950,CodeCrest,IT Services,5.0,Software Engineer,2024-10-19
+OF3701,ST20098,CodeCrest,IT Services,3.9,Software Engineer,2024-10-20
+OF3702,ST20171,CodeCrest,IT Services,4.8,Software Engineer,2024-10-20
+OF3703,ST20981,SteelCraft Industries,Core & Manufacturing,5.5,Graduate Engineer Trainee,2024-10-21
+OF3704,ST20907,ByteBridge,IT Services,4.1,Software Engineer,2024-10-21
+OF3705,ST20649,FinTrust Consulting,BFSI & Consulting,6.6,Analyst,2024-10-22
+OF3706,ST20451,InfoWave,IT Services,3.6,Software Engineer,2024-10-22
+OF3707,ST20266,GreenByte,Startup,10.7,Associate Engineer,2024-10-22
+OF3708,ST20991,FinTrust Consulting,BFSI & Consulting,11.3,Analyst,2024-10-22
+OF3709,ST20144,UrbanBuild Infra,Core & Manufacturing,4.4,Graduate Engineer Trainee,2024-10-22
+OF3710,ST20359,UrbanBuild Infra,Core & Manufacturing,5.8,Graduate Engineer Trainee,2024-10-23
+OF3711,ST20859,Axion Motors,Core & Manufacturing,3.0,Graduate Engineer Trainee,2024-10-23
+OF3712,ST20792,InfoWave,IT Services,3.0,Software Engineer,2024-10-24
+OF3713,ST20350,InfoWave,IT Services,4.5,Software Engineer,2024-10-25
+OF3714,ST20328,SteelCraft Industries,Core & Manufacturing,5.9,Graduate Engineer Trainee,2024-10-26
+OF3715,ST20391,CodeCrest,IT Services,4.0,Software Engineer,2024-10-26
+OF3716,ST20128,QuantumLeaf,Product,11.9,SDE,2024-10-26
+OF3717,ST20285,CapitalEdge,BFSI & Consulting,8.0,Analyst,2024-10-26
+OF3718,ST20862,Nimbus Labs,Product,13.2,SDE,2024-10-27
+OF3719,ST20408,QuantumLeaf,Product,17.6,SDE,2024-11-01
+OF3720,ST20404,PixelForge,Product,14.8,SDE,2024-11-01
+OF3721,ST20463,UrbanBuild Infra,Core & Manufacturing,6.1,Graduate Engineer Trainee,2024-11-01
+OF3722,ST20537,CodeCrest,IT Services,4.0,Software Engineer,2024-11-02
+OF3723,ST20434,PixelForge,Product,14.1,SDE,2024-11-02
+OF3724,ST20658,PixelForge,Product,35.6,SDE,2024-11-03
+OF3725,ST20046,QuantumLeaf,Product,16.2,SDE,2024-11-03
+OF3726,ST20139,RapidKart,Startup,6.5,Associate Engineer,2024-11-03
+OF3727,ST20122,TechNova Services,IT Services,5.6,Software Engineer,2024-11-03
+OF3728,ST21021,InfoWave,IT Services,4.8,Software Engineer,2024-11-04
+OF3729,ST20720,Nimbus Labs,Product,42.0,SDE,2024-11-04
+OF3730,ST20288,CodeCrest,IT Services,4.1,Software Engineer,2024-11-05
+OF3731,ST20172,CapitalEdge,BFSI & Consulting,8.1,Analyst,2024-11-05
+OF3732,ST20130,Axion Motors,Core & Manufacturing,5.3,Graduate Engineer Trainee,2024-11-06
+OF3733,ST20321,InfoWave,IT Services,5.6,Software Engineer,2024-11-06
+OF3734,ST20879,CodeCrest,IT Services,5.0,Software Engineer,2024-11-07
+OF3735,ST20366,InfoWave,IT Services,4.3,Software Engineer,2024-11-07
+OF3736,ST21186,CodeCrest,IT Services,5.2,Software Engineer,2024-11-08
+OF3737,ST20229,QuantumLeaf,Product,11.1,SDE,2024-11-08
+OF3738,ST20680,TechNova Services,IT Services,4.3,Software Engineer,2024-11-08
+OF3739,ST20491,CodeCrest,IT Services,3.0,Software Engineer,2024-11-09
+OF3740,ST20884,VoltEdge Power,Core & Manufacturing,4.5,Graduate Engineer Trainee,2024-11-09
+OF3741,ST20992,QuantumLeaf,Product,14.4,SDE,2024-11-09
+OF3742,ST20740,QuantumLeaf,Product,18.2,SDE,2024-11-09
+OF3743,ST20126,CodeCrest,IT Services,3.8,Software Engineer,2024-11-10
+OF3744,ST20240,SparkLoop,Startup,11.1,Associate Engineer,2024-11-10
+OF3745,ST20352,CodeCrest,IT Services,4.3,Software Engineer,2024-11-10
+OF3746,ST20607,TechNova Services,IT Services,4.4,Software Engineer,2024-11-11
+OF3747,ST21143,QuantumLeaf,Product,41.5,SDE,2024-11-12
+OF3748,ST21029,InfoWave,IT Services,4.9,Software Engineer,2024-11-12
+OF3749,ST21086,TechNova Services,IT Services,5.9,Software Engineer,2024-11-12
+OF3750,ST21178,UrbanBuild Infra,Core & Manufacturing,5.9,Graduate Engineer Trainee,2024-11-12
+OF3751,ST20653,ByteBridge,IT Services,4.7,Software Engineer,2024-11-13
+OF3752,ST20020,CodeCrest,IT Services,3.1,Software Engineer,2024-11-13
+OF3753,ST20265,ByteBridge,IT Services,4.4,Software Engineer,2024-11-14
+OF3754,ST20301,ByteBridge,IT Services,4.3,Software Engineer,2024-11-14
+OF3755,ST20814,PixelForge,Product,26.1,SDE,2024-11-14
+OF3756,ST20105,RapidKart,Startup,4.5,Associate Engineer,2024-11-14
+OF3757,ST20066,Nimbus Labs,Product,14.4,SDE,2024-11-14
+OF3758,ST20028,CapitalEdge,BFSI & Consulting,7.8,Analyst,2024-11-14
+OF3759,ST20534,InfoWave,IT Services,4.4,Software Engineer,2024-11-15
+OF3760,ST20805,UrbanBuild Infra,Core & Manufacturing,4.8,Graduate Engineer Trainee,2024-11-16
+OF3761,ST21124,TechNova Services,IT Services,5.6,Software Engineer,2024-11-16
+OF3762,ST20383,RapidKart,Startup,9.8,Associate Engineer,2024-11-16
+OF3763,ST20002,CapitalEdge,BFSI & Consulting,9.0,Analyst,2024-11-16
+OF3764,ST20628,Nimbus Labs,Product,27.4,SDE,2024-11-17
+OF3765,ST20321,Axion Motors,Core & Manufacturing,5.5,Graduate Engineer Trainee,2024-11-18
+OF3766,ST21174,FinTrust Consulting,BFSI & Consulting,7.6,Analyst,2024-11-18
+OF3767,ST20633,InfoWave,IT Services,3.5,Software Engineer,2024-11-18
+OF3768,ST20882,InfoWave,IT Services,3.7,Software Engineer,2024-11-18
+OF3769,ST20729,ByteBridge,IT Services,5.5,Software Engineer,2024-11-19
+OF3770,ST20577,ByteBridge,IT Services,5.4,Software Engineer,2024-11-20
+OF3771,ST20775,CodeCrest,IT Services,3.6,Software Engineer,2024-11-21
+OF3772,ST20465,Nimbus Labs,Product,18.8,SDE,2024-11-21
+OF3773,ST20917,CodeCrest,IT Services,4.2,Software Engineer,2024-11-21
+OF3774,ST20308,InfoWave,IT Services,5.2,Software Engineer,2024-11-21
+OF3775,ST20451,RapidKart,Startup,9.4,Associate Engineer,2024-11-22
+OF3776,ST20953,CodeCrest,IT Services,4.4,Software Engineer,2024-11-23
+OF3777,ST20730,InfoWave,IT Services,4.9,Software Engineer,2024-11-23
+OF3778,ST20175,Axion Motors,Core & Manufacturing,3.7,Graduate Engineer Trainee,2024-11-23
+OF3779,ST20823,TechNova Services,IT Services,4.3,Software Engineer,2024-11-24
+OF3780,ST21119,InfoWave,IT Services,6.2,Software Engineer,2024-11-24
+OF3781,ST20098,FinTrust Consulting,BFSI & Consulting,6.7,Analyst,2024-11-24
+OF3782,ST20735,CloudHarbor,Product,16.3,SDE,2024-11-24
+OF3783,ST20052,TechNova Services,IT Services,5.3,Software Engineer,2024-11-25
+OF3784,ST20237,InfoWave,IT Services,4.7,Software Engineer,2024-11-25
+OF3785,ST20667,CapitalEdge,BFSI & Consulting,7.3,Analyst,2024-11-25
+OF3786,ST20658,GreenByte,Startup,8.6,Associate Engineer,2024-11-26
+OF3787,ST20403,TechNova Services,IT Services,3.5,Software Engineer,2024-11-26
+OF3788,ST20515,FinTrust Consulting,BFSI & Consulting,9.2,Analyst,2024-11-27
+OF3789,ST20713,SteelCraft Industries,Core & Manufacturing,7.2,Graduate Engineer Trainee,2024-11-27
+OF3790,ST20137,FinTrust Consulting,BFSI & Consulting,7.6,Analyst,2024-12-01
+OF3791,ST20374,CapitalEdge,BFSI & Consulting,8.2,Analyst,2024-12-02
+OF3792,ST20893,Nimbus Labs,Product,29.4,SDE,2024-12-02
+OF3793,ST20301,PixelForge,Product,14.7,SDE,2024-12-03
+OF3794,ST20041,Nimbus Labs,Product,19.6,SDE,2024-12-03
+OF3795,ST20979,Nimbus Labs,Product,15.8,SDE,2024-12-04
+OF3796,ST20574,ByteBridge,IT Services,3.6,Software Engineer,2024-12-04
+OF3797,ST20900,UrbanBuild Infra,Core & Manufacturing,5.0,Graduate Engineer Trainee,2024-12-04
+OF3798,ST21178,CloudHarbor,Product,31.3,SDE,2024-12-04
+OF3799,ST20094,PixelForge,Product,17.8,SDE,2024-12-04
+OF3800,ST21179,Nimbus Labs,Product,15.7,SDE,2024-12-04
+OF3801,ST20152,FinTrust Consulting,BFSI & Consulting,10.8,Analyst,2024-12-06
+OF3802,ST21127,SparkLoop,Startup,4.0,Associate Engineer,2024-12-06
+OF3803,ST20215,PixelForge,Product,14.3,SDE,2024-12-06
+OF3804,ST20101,GreenByte,Startup,10.3,Associate Engineer,2024-12-07
+OF3805,ST20729,CloudHarbor,Product,31.3,SDE,2024-12-08
+OF3806,ST20067,PixelForge,Product,13.8,SDE,2024-12-09
+OF3807,ST21193,TechNova Services,IT Services,3.8,Software Engineer,2024-12-10
+OF3808,ST20371,SteelCraft Industries,Core & Manufacturing,5.1,Graduate Engineer Trainee,2024-12-11
+OF3809,ST20145,Axion Motors,Core & Manufacturing,4.8,Graduate Engineer Trainee,2024-12-12
+OF3810,ST20113,InfoWave,IT Services,5.5,Software Engineer,2024-12-12
+OF3811,ST20824,QuantumLeaf,Product,11.0,SDE,2024-12-13
+OF3812,ST20705,QuantumLeaf,Product,12.9,SDE,2024-12-14
+OF3813,ST21039,RapidKart,Startup,7.5,Associate Engineer,2024-12-15
+OF3814,ST20151,CloudHarbor,Product,16.3,SDE,2024-12-16
+OF3815,ST20882,ByteBridge,IT Services,4.8,Software Engineer,2024-12-16
+OF3816,ST20387,Nimbus Labs,Product,16.7,SDE,2024-12-16
+OF3817,ST20936,InfoWave,IT Services,5.0,Software Engineer,2024-12-16
+OF3818,ST20046,TechNova Services,IT Services,3.0,Software Engineer,2024-12-17
+OF3819,ST20161,CapitalEdge,BFSI & Consulting,7.9,Analyst,2024-12-18
+OF3820,ST20369,PixelForge,Product,20.1,SDE,2024-12-18
+OF3821,ST20104,PixelForge,Product,11.0,SDE,2024-12-18
+OF3822,ST20760,DataPulse Solutions,IT Services,4.2,Software Engineer,2024-12-18
+OF3823,ST20104,PixelForge,Product,20.5,SDE,2024-12-19
+OF3824,ST20132,Nimbus Labs,Product,16.2,SDE,2024-12-19
+OF3825,ST20821,QuantumLeaf,Product,13.3,SDE,2024-12-20
+OF3826,ST20917,Nimbus Labs,Product,27.9,SDE,2024-12-20
+OF3827,ST20366,PixelForge,Product,20.8,SDE,2024-12-21
+OF3828,ST20412,ByteBridge,IT Services,3.1,Software Engineer,2024-12-21
+OF3829,ST20440,RapidKart,Startup,12.1,Associate Engineer,2024-12-22
+OF3830,ST20327,PixelForge,Product,31.3,SDE,2024-12-22
+OF3831,ST20832,CloudHarbor,Product,31.0,SDE,2024-12-22
+OF3832,ST20887,QuantumLeaf,Product,35.6,SDE,2024-12-23
+OF3833,ST20124,Nimbus Labs,Product,11.0,SDE,2024-12-24
+OF3834,ST20104,RapidKart,Startup,11.7,Associate Engineer,2024-12-25
+OF3835,ST20330,CloudHarbor,Product,17.1,SDE,2024-12-25
+OF3836,ST20430,SparkLoop,Startup,12.6,Associate Engineer,2024-12-27
+OF3837,ST20903,CloudHarbor,Product,19.6,SDE,2025-01-01
+OF3838,ST20917,Nimbus Labs,Product,22.5,SDE,2025-01-01
+OF3839,ST21186,RapidKart,Startup,4.0,Associate Engineer,2025-01-02
+OF3840,ST20633,SparkLoop,Startup,8.9,Associate Engineer,2025-01-02
+OF3841,ST20692,CloudHarbor,Product,11.0,SDE,2025-01-02
+OF3842,ST20266,RapidKart,Startup,5.6,Associate Engineer,2025-01-02
+OF3843,ST21193,Nimbus Labs,Product,19.0,SDE,2025-01-02
+OF3844,ST21149,PixelForge,Product,11.0,SDE,2025-01-03
+OF3845,ST20689,Axion Motors,Core & Manufacturing,4.2,Graduate Engineer Trainee,2025-01-03
+OF3846,ST20785,PixelForge,Product,12.9,SDE,2025-01-03
+OF3847,ST20966,CloudHarbor,Product,19.3,SDE,2025-01-03
+OF3848,ST20822,Axion Motors,Core & Manufacturing,5.6,Graduate Engineer Trainee,2025-01-03
+OF3849,ST21010,QuantumLeaf,Product,11.0,SDE,2025-01-04
+OF3850,ST20522,SteelCraft Industries,Core & Manufacturing,6.7,Graduate Engineer Trainee,2025-01-04
+OF3851,ST20835,CapitalEdge,BFSI & Consulting,6.6,Analyst,2025-01-05
+OF3852,ST20776,TechNova Services,IT Services,5.8,Software Engineer,2025-01-06
+OF3853,ST20105,RapidKart,Startup,10.7,Associate Engineer,2025-01-06
+OF3854,ST20520,SparkLoop,Startup,10.0,Associate Engineer,2025-01-06
+OF3855,ST20884,SteelCraft Industries,Core & Manufacturing,4.0,Graduate Engineer Trainee,2025-01-06
+OF3856,ST20978,PixelForge,Product,12.1,SDE,2025-01-07
+OF3857,ST20392,DataPulse Solutions,IT Services,5.4,Software Engineer,2025-01-07
+OF3858,ST20704,CodeCrest,IT Services,5.2,Software Engineer,2025-01-08
+OF3859,ST20907,FinTrust Consulting,BFSI & Consulting,8.1,Analyst,2025-01-08
+OF3860,ST21024,SteelCraft Industries,Core & Manufacturing,4.9,Graduate Engineer Trainee,2025-01-08
+OF3861,ST20887,InfoWave,IT Services,3.5,Software Engineer,2025-01-10
+OF3862,ST20982,VoltEdge Power,Core & Manufacturing,6.3,Graduate Engineer Trainee,2025-01-10
+OF3863,ST20729,PixelForge,Product,21.1,SDE,2025-01-10
+OF3864,ST20445,QuantumLeaf,Product,12.5,SDE,2025-01-12
+OF3865,ST20763,VoltEdge Power,Core & Manufacturing,3.0,Graduate Engineer Trainee,2025-01-12
+OF3866,ST20589,VoltEdge Power,Core & Manufacturing,4.0,Graduate Engineer Trainee,2025-01-12
+OF3867,ST20367,ByteBridge,IT Services,4.1,Software Engineer,2025-01-12
+OF3868,ST20750,QuantumLeaf,Product,14.6,SDE,2025-01-12
+OF3869,ST21106,GreenByte,Startup,6.1,Associate Engineer,2025-01-12
+OF3870,ST20944,RapidKart,Startup,6.8,Associate Engineer,2025-01-14
+OF3871,ST20987,CloudHarbor,Product,17.3,SDE,2025-01-15
+OF3872,ST20144,Axion Motors,Core & Manufacturing,4.1,Graduate Engineer Trainee,2025-01-15
+OF3873,ST21086,FinTrust Consulting,BFSI & Consulting,9.5,Analyst,2025-01-16
+OF3874,ST21084,SteelCraft Industries,Core & Manufacturing,6.9,Graduate Engineer Trainee,2025-01-16
+OF3875,ST20298,Nimbus Labs,Product,28.0,SDE,2025-01-17
+OF3876,ST20120,SteelCraft Industries,Core & Manufacturing,4.8,Graduate Engineer Trainee,2025-01-17
+OF3877,ST20220,SteelCraft Industries,Core & Manufacturing,4.1,Graduate Engineer Trainee,2025-01-18
+OF3878,ST20946,Axion Motors,Core & Manufacturing,5.7,Graduate Engineer Trainee,2025-01-19
+OF3879,ST20824,Nimbus Labs,Product,19.9,SDE,2025-01-19
+OF3880,ST21177,CapitalEdge,BFSI & Consulting,9.0,Analyst,2025-01-21
+OF3881,ST20725,Nimbus Labs,Product,18.4,SDE,2025-01-22
+OF3882,ST20145,SteelCraft Industries,Core & Manufacturing,6.5,Graduate Engineer Trainee,2025-01-22
+OF3883,ST21108,QuantumLeaf,Product,14.6,SDE,2025-01-22
+OF3884,ST21006,Nimbus Labs,Product,11.0,SDE,2025-01-22
+OF3885,ST21134,RapidKart,Startup,10.7,Associate Engineer,2025-01-23
+OF3886,ST20411,VoltEdge Power,Core & Manufacturing,5.1,Graduate Engineer Trainee,2025-01-23
+OF3887,ST20916,GreenByte,Startup,8.8,Associate Engineer,2025-01-23
+OF3888,ST20098,RapidKart,Startup,8.9,Associate Engineer,2025-01-24
+OF3889,ST20999,SteelCraft Industries,Core & Manufacturing,6.8,Graduate Engineer Trainee,2025-01-24
+OF3890,ST20199,CloudHarbor,Product,19.9,SDE,2025-01-24
+OF3891,ST20557,CapitalEdge,BFSI & Consulting,10.3,Analyst,2025-01-25
+OF3892,ST20771,FinTrust Consulting,BFSI & Consulting,9.4,Analyst,2025-01-25
+OF3893,ST20614,FinTrust Consulting,BFSI & Consulting,6.2,Analyst,2025-01-27
+OF3894,ST20523,Nimbus Labs,Product,19.9,SDE,2025-01-27
+OF3895,ST20593,FinTrust Consulting,BFSI & Consulting,6.4,Analyst,2025-02-01
+OF3896,ST20797,Axion Motors,Core & Manufacturing,4.9,Graduate Engineer Trainee,2025-02-02
+OF3897,ST20144,VoltEdge Power,Core & Manufacturing,7.4,Graduate Engineer Trainee,2025-02-03
+OF3898,ST21128,Axion Motors,Core & Manufacturing,5.7,Graduate Engineer Trainee,2025-02-05
+OF3899,ST20977,SparkLoop,Startup,11.7,Associate Engineer,2025-02-05
+OF3900,ST20261,CloudHarbor,Product,24.5,SDE,2025-02-06
+OF3901,ST20348,CapitalEdge,BFSI & Consulting,8.8,Analyst,2025-02-06
+OF3902,ST21091,SteelCraft Industries,Core & Manufacturing,5.6,Graduate Engineer Trainee,2025-02-08
+OF3903,ST20743,InfoWave,IT Services,4.5,Software Engineer,2025-02-09
+OF3904,ST20516,UrbanBuild Infra,Core & Manufacturing,5.3,Graduate Engineer Trainee,2025-02-09
+OF3905,ST20073,VoltEdge Power,Core & Manufacturing,3.1,Graduate Engineer Trainee,2025-02-10
+OF3906,ST20371,UrbanBuild Infra,Core & Manufacturing,4.7,Graduate Engineer Trainee,2025-02-11
+OF3907,ST20633,CloudHarbor,Product,33.3,SDE,2025-02-12
+OF3908,ST20362,CloudHarbor,Product,19.4,SDE,2025-02-13
+OF3909,ST20329,QuantumLeaf,Product,27.8,SDE,2025-02-14
+OF3910,ST20683,QuantumLeaf,Product,16.3,SDE,2025-02-14
+OF3911,ST20093,SparkLoop,Startup,11.0,Associate Engineer,2025-02-15
+OF3912,ST20337,SteelCraft Industries,Core & Manufacturing,5.9,Graduate Engineer Trainee,2025-02-15
+OF3913,ST20191,UrbanBuild Infra,Core & Manufacturing,4.3,Graduate Engineer Trainee,2025-02-17
+OF3914,ST20424,Axion Motors,Core & Manufacturing,3.7,Graduate Engineer Trainee,2025-02-17
+OF3915,ST20971,UrbanBuild Infra,Core & Manufacturing,6.1,Graduate Engineer Trainee,2025-02-17
+OF3916,ST20118,FinTrust Consulting,BFSI & Consulting,8.4,Analyst,2025-02-17
+OF3917,ST20680,PixelForge,Product,11.0,SDE,2025-02-17
+OF3918,ST21125,TechNova Services,IT Services,6.3,Software Engineer,2025-02-18
+OF3919,ST20055,RapidKart,Startup,16.0,Associate Engineer,2025-02-18
+OF3920,ST20523,VoltEdge Power,Core & Manufacturing,4.8,Graduate Engineer Trainee,2025-02-18
+OF3921,ST20014,Axion Motors,Core & Manufacturing,5.9,Graduate Engineer Trainee,2025-02-19
+OF3922,ST20001,GreenByte,Startup,9.0,Associate Engineer,2025-02-20
+OF3923,ST20112,SteelCraft Industries,Core & Manufacturing,6.4,Graduate Engineer Trainee,2025-02-20
+OF3924,ST20209,SparkLoop,Startup,4.3,Associate Engineer,2025-02-20
+OF3925,ST20560,SparkLoop,Startup,7.7,Associate Engineer,2025-02-21
+OF3926,ST20275,QuantumLeaf,Product,16.0,SDE,2025-02-21
+OF3927,ST20872,FinTrust Consulting,BFSI & Consulting,9.5,Analyst,2025-02-21
+OF3928,ST20872,GreenByte,Startup,5.0,Associate Engineer,2025-02-21
+OF3929,ST20796,GreenByte,Startup,7.8,Associate Engineer,2025-02-21
+OF3930,ST20618,SteelCraft Industries,Core & Manufacturing,4.6,Graduate Engineer Trainee,2025-02-21
+OF3931,ST20411,SteelCraft Industries,Core & Manufacturing,5.6,Graduate Engineer Trainee,2025-02-22
+OF3932,ST20784,RapidKart,Startup,11.8,Associate Engineer,2025-02-22
+OF3933,ST20584,UrbanBuild Infra,Core & Manufacturing,4.3,Graduate Engineer Trainee,2025-02-23
+OF3934,ST20639,Axion Motors,Core & Manufacturing,4.4,Graduate Engineer Trainee,2025-02-23
+OF3935,ST20056,GreenByte,Startup,14.6,Associate Engineer,2025-02-24
+OF3936,ST20281,CapitalEdge,BFSI & Consulting,8.2,Analyst,2025-02-24
+OF3937,ST20310,RapidKart,Startup,12.2,Associate Engineer,2025-02-24
+OF3938,ST20527,CodeCrest,IT Services,4.9,Software Engineer,2025-02-26
+OF3939,ST21119,RapidKart,Startup,8.9,Associate Engineer,2025-02-26
+OF3940,ST20614,PixelForge,Product,39.8,SDE,2025-02-27
+OF3941,ST20169,RapidKart,Startup,4.0,Associate Engineer,2025-03-01
+OF3942,ST20311,UrbanBuild Infra,Core & Manufacturing,3.5,Graduate Engineer Trainee,2025-03-01
+OF3943,ST20413,SparkLoop,Startup,5.8,Associate Engineer,2025-03-03
+OF3944,ST20982,SteelCraft Industries,Core & Manufacturing,5.2,Graduate Engineer Trainee,2025-03-04
+OF3945,ST21124,SparkLoop,Startup,5.8,Associate Engineer,2025-03-04
+OF3946,ST20293,UrbanBuild Infra,Core & Manufacturing,5.8,Graduate Engineer Trainee,2025-03-04
+OF3947,ST20112,SteelCraft Industries,Core & Manufacturing,4.2,Graduate Engineer Trainee,2025-03-05
+OF3948,ST20873,RapidKart,Startup,9.1,Associate Engineer,2025-03-05
+OF3949,ST20542,Axion Motors,Core & Manufacturing,7.2,Graduate Engineer Trainee,2025-03-06
+OF3950,ST20849,InfoWave,IT Services,4.9,Software Engineer,2025-03-06
+OF3951,ST20260,CodeCrest,IT Services,3.3,Software Engineer,2025-03-06
+OF3952,ST20618,UrbanBuild Infra,Core & Manufacturing,5.1,Graduate Engineer Trainee,2025-03-06
+OF3953,ST21170,QuantumLeaf,Product,15.8,SDE,2025-03-07
+OF3954,ST20663,VoltEdge Power,Core & Manufacturing,3.0,Graduate Engineer Trainee,2025-03-08
+OF3955,ST20688,SparkLoop,Startup,11.6,Associate Engineer,2025-03-08
+OF3956,ST20389,Axion Motors,Core & Manufacturing,5.4,Graduate Engineer Trainee,2025-03-10
+OF3957,ST20413,TechNova Services,IT Services,4.0,Software Engineer,2025-03-10
+OF3958,ST20882,SteelCraft Industries,Core & Manufacturing,6.0,Graduate Engineer Trainee,2025-03-10
+OF3959,ST20351,VoltEdge Power,Core & Manufacturing,3.5,Graduate Engineer Trainee,2025-03-11
+OF3960,ST20967,UrbanBuild Infra,Core & Manufacturing,5.0,Graduate Engineer Trainee,2025-03-11
+OF3961,ST20615,UrbanBuild Infra,Core & Manufacturing,5.6,Graduate Engineer Trainee,2025-03-12
+OF3962,ST20033,SparkLoop,Startup,10.9,Associate Engineer,2025-03-14
+OF3963,ST20059,Axion Motors,Core & Manufacturing,5.3,Graduate Engineer Trainee,2025-03-18
+OF3964,ST20255,SparkLoop,Startup,11.8,Associate Engineer,2025-03-18
+OF3965,ST20850,SparkLoop,Startup,16.6,Associate Engineer,2025-03-19
+OF3966,ST20105,CapitalEdge,BFSI & Consulting,6.5,Analyst,2025-03-19
+OF3967,ST20222,SteelCraft Industries,Core & Manufacturing,4.7,Graduate Engineer Trainee,2025-03-20
+OF3968,ST20380,VoltEdge Power,Core & Manufacturing,4.5,Graduate Engineer Trainee,2025-03-20
+OF3969,ST20491,CloudHarbor,Product,19.3,SDE,2025-03-21
+OF3970,ST20878,VoltEdge Power,Core & Manufacturing,3.9,Graduate Engineer Trainee,2025-03-21
+OF3971,ST20259,RapidKart,Startup,12.6,Associate Engineer,2025-03-22
+OF3972,ST20156,SteelCraft Industries,Core & Manufacturing,4.2,Graduate Engineer Trainee,2025-03-23
+OF3973,ST21009,TechNova Services,IT Services,5.1,Software Engineer,2025-03-23
+OF3974,ST20304,Axion Motors,Core & Manufacturing,4.2,Graduate Engineer Trainee,2025-03-23
+OF3975,ST20611,Nimbus Labs,Product,24.7,SDE,2025-03-25
+OF3976,ST20391,CodeCrest,IT Services,4.4,Software Engineer,2025-03-26

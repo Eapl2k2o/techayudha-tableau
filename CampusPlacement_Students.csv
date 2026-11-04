@@ -1,0 +1,1201 @@
+Student ID,Gender,Branch,CGPA,Backlogs,Internship,Home State,Batch Year,Placed
+ST20001,Male,Mechanical,6.47,No,Yes,Karnataka,2025,Yes
+ST20002,Female,ECE,8.27,No,No,Tamil Nadu,2025,Yes
+ST20003,Male,EEE,6.98,No,No,Andhra Pradesh,2023,Yes
+ST20004,Male,ECE,9.22,No,No,Tamil Nadu,2025,No
+ST20005,Male,CSE,6.66,Yes,No,Kerala,2024,No
+ST20006,Female,CSE,8.65,No,Yes,Karnataka,2023,Yes
+ST20007,Male,EEE,7.78,No,Yes,Karnataka,2024,Yes
+ST20008,Female,ISE,8.77,No,Yes,Odisha,2023,Yes
+ST20009,Male,Mechanical,9.15,No,No,Karnataka,2025,No
+ST20010,Female,CSE,7.51,No,Yes,Karnataka,2024,Yes
+ST20011,Female,ECE,8.08,No,Yes,Karnataka,2025,No
+ST20012,Male,CSE,7.29,No,No,Karnataka,2024,Yes
+ST20013,Male,Civil,7.35,No,No,Karnataka,2023,Yes
+ST20014,Female,Mechanical,7.14,No,No,Telangana,2025,Yes
+ST20015,Male,CSE,6.8,No,No,Tamil Nadu,2023,No
+ST20016,Male,Civil,6.58,No,No,Andhra Pradesh,2025,No
+ST20017,Male,CSE,6.76,No,No,Karnataka,2023,Yes
+ST20018,Female,AI&ML,7.37,Yes,No,Karnataka,2025,No
+ST20019,Male,EEE,7.77,No,No,Karnataka,2025,No
+ST20020,Female,CSE,8.41,No,Yes,Karnataka,2025,Yes
+ST20021,Male,EEE,7.69,No,Yes,Karnataka,2024,No
+ST20022,Female,Civil,7.63,No,No,Tamil Nadu,2023,No
+ST20023,Male,EEE,8.47,No,Yes,Tamil Nadu,2024,Yes
+ST20024,Male,Mechanical,6.31,No,Yes,Telangana,2024,No
+ST20025,Male,CSE,7.38,No,Yes,Tamil Nadu,2024,Yes
+ST20026,Female,ISE,8.48,No,No,Karnataka,2024,Yes
+ST20027,Male,ECE,7.11,No,No,Kerala,2023,Yes
+ST20028,Female,CSE,6.66,No,Yes,Karnataka,2025,Yes
+ST20029,Female,Civil,7.2,No,Yes,Karnataka,2025,No
+ST20030,Male,ECE,7.58,No,No,Karnataka,2023,Yes
+ST20031,Male,ECE,7.39,No,No,Karnataka,2025,No
+ST20032,Female,AI&ML,7.86,No,Yes,Karnataka,2023,Yes
+ST20033,Female,CSE,6.72,Yes,Yes,Karnataka,2025,Yes
+ST20034,Female,CSE,8.12,No,No,Karnataka,2024,Yes
+ST20035,Male,AI&ML,7.53,No,No,Karnataka,2024,Yes
+ST20036,Female,Mechanical,6.97,No,Yes,Andhra Pradesh,2024,Yes
+ST20037,Female,EEE,7.49,No,Yes,Karnataka,2025,No
+ST20038,Male,Civil,6.79,No,Yes,Andhra Pradesh,2024,No
+ST20039,Male,ISE,8.59,No,No,Telangana,2023,Yes
+ST20040,Male,CSE,8.46,No,Yes,Karnataka,2024,Yes
+ST20041,Male,CSE,6.83,No,No,Karnataka,2025,Yes
+ST20042,Male,EEE,7.29,No,No,Andhra Pradesh,2024,Yes
+ST20043,Male,ECE,8.41,No,No,Karnataka,2023,Yes
+ST20044,Male,Mechanical,7.99,No,No,Andhra Pradesh,2023,Yes
+ST20045,Male,Mechanical,6.84,No,No,Karnataka,2024,Yes
+ST20046,Male,ECE,7.93,No,No,Karnataka,2025,Yes
+ST20047,Male,Mechanical,9.5,No,Yes,Karnataka,2023,Yes
+ST20048,Male,Mechanical,7.84,No,Yes,Karnataka,2025,Yes
+ST20049,Female,ECE,7.61,No,No,Maharashtra,2023,Yes
+ST20050,Male,AI&ML,7.6,No,No,Karnataka,2024,Yes
+ST20051,Female,AI&ML,7.26,No,Yes,Andhra Pradesh,2024,Yes
+ST20052,Male,ECE,8.85,No,Yes,Karnataka,2025,Yes
+ST20053,Male,ISE,7.19,No,No,Karnataka,2025,No
+ST20054,Male,EEE,7.68,No,No,Karnataka,2024,No
+ST20055,Female,AI&ML,7.99,No,Yes,Tamil Nadu,2025,Yes
+ST20056,Male,Mechanical,9.09,No,No,Andhra Pradesh,2025,Yes
+ST20057,Male,AI&ML,7.35,No,No,Karnataka,2023,Yes
+ST20058,Male,CSE,7.17,No,Yes,Telangana,2024,No
+ST20059,Male,Mechanical,8.95,No,Yes,Telangana,2025,Yes
+ST20060,Male,ECE,7.88,No,Yes,Karnataka,2023,Yes
+ST20061,Female,EEE,5.66,Yes,Yes,Karnataka,2024,No
+ST20062,Male,EEE,7.31,Yes,Yes,Maharashtra,2025,No
+ST20063,Female,Mechanical,6.83,No,Yes,Karnataka,2024,No
+ST20064,Male,Civil,6.39,Yes,No,Karnataka,2023,No
+ST20065,Male,CSE,6.9,No,No,Tamil Nadu,2023,Yes
+ST20066,Male,CSE,5.64,No,No,Kerala,2025,Yes
+ST20067,Female,CSE,7.71,No,No,Karnataka,2025,Yes
+ST20068,Female,AI&ML,6.29,No,No,Telangana,2023,No
+ST20069,Female,CSE,7.46,No,No,Karnataka,2024,Yes
+ST20070,Female,AI&ML,6.39,Yes,No,Karnataka,2023,Yes
+ST20071,Male,ISE,7.52,No,No,Karnataka,2023,Yes
+ST20072,Male,EEE,6.95,Yes,Yes,Karnataka,2023,Yes
+ST20073,Female,Mechanical,7.82,No,Yes,Karnataka,2025,Yes
+ST20074,Female,AI&ML,8.39,No,No,Karnataka,2025,Yes
+ST20075,Male,CSE,8.07,No,No,Tamil Nadu,2024,Yes
+ST20076,Female,ECE,6.44,Yes,No,Tamil Nadu,2023,No
+ST20077,Female,ISE,5.23,No,Yes,Tamil Nadu,2023,No
+ST20078,Male,Civil,7.13,Yes,No,Maharashtra,2023,No
+ST20079,Male,Civil,8.16,No,Yes,Karnataka,2024,No
+ST20080,Male,CSE,7.45,No,No,Karnataka,2023,Yes
+ST20081,Male,ECE,7.52,No,Yes,Andhra Pradesh,2024,Yes
+ST20082,Male,ECE,8.26,No,Yes,Maharashtra,2024,Yes
+ST20083,Male,Civil,6.65,No,Yes,Karnataka,2024,No
+ST20084,Female,ISE,8.55,No,No,Karnataka,2023,Yes
+ST20085,Male,ISE,8.6,No,No,Karnataka,2024,Yes
+ST20086,Male,CSE,7.35,Yes,No,Karnataka,2024,No
+ST20087,Male,ISE,6.77,No,No,Karnataka,2023,Yes
+ST20088,Male,ECE,5.98,No,No,Telangana,2025,No
+ST20089,Male,ISE,7.49,No,No,Karnataka,2023,Yes
+ST20090,Male,AI&ML,7.31,No,No,Andhra Pradesh,2025,No
+ST20091,Male,ISE,6.58,No,Yes,Kerala,2024,Yes
+ST20092,Female,Civil,6.96,No,No,Karnataka,2025,No
+ST20093,Male,ECE,6.56,No,No,Karnataka,2025,Yes
+ST20094,Male,CSE,8.14,No,Yes,Andhra Pradesh,2025,Yes
+ST20095,Male,Mechanical,5.65,No,Yes,Karnataka,2023,No
+ST20096,Male,AI&ML,8.45,No,Yes,Kerala,2024,Yes
+ST20097,Male,Civil,7.5,No,No,Karnataka,2025,No
+ST20098,Male,ISE,6.59,No,Yes,Karnataka,2025,Yes
+ST20099,Male,EEE,7.03,No,No,Andhra Pradesh,2023,No
+ST20100,Male,EEE,7.41,No,Yes,Karnataka,2024,No
+ST20101,Female,ISE,8.75,No,Yes,Karnataka,2025,Yes
+ST20102,Male,ECE,6.84,No,Yes,Karnataka,2025,No
+ST20103,Female,CSE,6.95,No,No,Karnataka,2023,Yes
+ST20104,Male,CSE,8.02,No,Yes,Maharashtra,2025,Yes
+ST20105,Male,CSE,8.55,No,No,Karnataka,2025,Yes
+ST20106,Female,EEE,7.69,No,No,Karnataka,2025,No
+ST20107,Male,Mechanical,6.7,No,Yes,Maharashtra,2025,Yes
+ST20108,Male,ISE,6.71,No,Yes,Karnataka,2023,Yes
+ST20109,Female,AI&ML,7.14,No,No,Karnataka,2024,No
+ST20110,Male,EEE,7.15,No,No,Karnataka,2023,Yes
+ST20111,Male,ECE,8.17,No,Yes,Karnataka,2023,Yes
+ST20112,Male,EEE,7.69,No,No,Karnataka,2025,Yes
+ST20113,Male,CSE,7.42,No,Yes,Karnataka,2025,Yes
+ST20114,Female,CSE,8.33,No,Yes,Karnataka,2025,Yes
+ST20115,Female,AI&ML,5.49,No,No,Karnataka,2025,No
+ST20116,Male,EEE,7.79,No,Yes,Goa,2024,Yes
+ST20117,Male,Mechanical,6.0,No,Yes,Karnataka,2023,No
+ST20118,Female,CSE,5.76,No,No,Karnataka,2025,Yes
+ST20119,Female,CSE,6.2,Yes,No,Telangana,2025,No
+ST20120,Male,EEE,8.61,No,No,Andhra Pradesh,2025,Yes
+ST20121,Male,AI&ML,8.23,No,Yes,Karnataka,2024,Yes
+ST20122,Male,CSE,7.2,No,Yes,Andhra Pradesh,2025,Yes
+ST20123,Female,EEE,6.45,Yes,Yes,Maharashtra,2024,No
+ST20124,Female,AI&ML,7.24,No,Yes,Karnataka,2025,Yes
+ST20125,Female,Civil,5.9,No,Yes,Andhra Pradesh,2024,No
+ST20126,Male,CSE,6.72,No,Yes,Karnataka,2025,Yes
+ST20127,Female,EEE,7.23,Yes,No,Tamil Nadu,2023,No
+ST20128,Male,CSE,8.22,No,No,Karnataka,2025,Yes
+ST20129,Male,AI&ML,8.35,No,Yes,Karnataka,2023,Yes
+ST20130,Female,ECE,8.31,No,Yes,Kerala,2025,Yes
+ST20131,Female,Civil,7.42,No,Yes,Karnataka,2024,Yes
+ST20132,Male,CSE,6.66,No,Yes,Karnataka,2025,Yes
+ST20133,Male,CSE,7.05,No,Yes,Telangana,2023,Yes
+ST20134,Male,CSE,9.04,No,No,Karnataka,2023,Yes
+ST20135,Female,CSE,7.86,No,Yes,Kerala,2024,Yes
+ST20136,Male,CSE,7.77,No,Yes,Andhra Pradesh,2023,Yes
+ST20137,Male,CSE,9.24,No,No,Tamil Nadu,2025,Yes
+ST20138,Male,EEE,7.94,No,No,Goa,2024,Yes
+ST20139,Female,CSE,8.03,No,No,Karnataka,2025,Yes
+ST20140,Female,CSE,7.16,Yes,No,Karnataka,2024,Yes
+ST20141,Female,EEE,8.19,No,No,Maharashtra,2024,Yes
+ST20142,Female,ISE,7.44,Yes,No,Kerala,2024,Yes
+ST20143,Male,CSE,5.4,No,No,Andhra Pradesh,2023,Yes
+ST20144,Male,Civil,6.53,No,No,Karnataka,2025,Yes
+ST20145,Female,Mechanical,7.26,No,No,Kerala,2025,Yes
+ST20146,Male,CSE,9.35,No,No,Tamil Nadu,2025,Yes
+ST20147,Male,AI&ML,5.6,No,No,Karnataka,2024,No
+ST20148,Male,Mechanical,5.93,No,Yes,Telangana,2025,No
+ST20149,Male,ECE,8.28,No,Yes,Tamil Nadu,2024,Yes
+ST20150,Female,ECE,6.23,No,No,Karnataka,2023,No
+ST20151,Female,ISE,6.47,Yes,Yes,Karnataka,2025,Yes
+ST20152,Female,EEE,6.81,No,No,Karnataka,2025,Yes
+ST20153,Male,CSE,7.67,No,No,Tamil Nadu,2023,Yes
+ST20154,Male,ECE,7.32,No,No,Andhra Pradesh,2023,Yes
+ST20155,Male,AI&ML,7.43,No,No,Andhra Pradesh,2023,Yes
+ST20156,Female,ECE,8.4,No,No,Karnataka,2025,Yes
+ST20157,Female,CSE,5.84,No,Yes,Karnataka,2025,No
+ST20158,Female,CSE,6.33,No,No,Karnataka,2025,No
+ST20159,Female,ISE,6.9,Yes,No,Telangana,2023,Yes
+ST20160,Male,ISE,6.3,No,Yes,Karnataka,2025,No
+ST20161,Male,ECE,6.74,No,No,Maharashtra,2025,Yes
+ST20162,Female,Mechanical,7.01,No,Yes,Karnataka,2024,No
+ST20163,Female,Civil,7.28,No,No,Karnataka,2025,No
+ST20164,Female,Civil,8.08,No,Yes,Karnataka,2024,Yes
+ST20165,Male,EEE,5.0,Yes,Yes,Karnataka,2024,No
+ST20166,Female,CSE,6.3,Yes,No,Karnataka,2024,Yes
+ST20167,Female,ISE,7.62,No,No,Kerala,2024,Yes
+ST20168,Male,CSE,5.7,No,Yes,Karnataka,2023,No
+ST20169,Male,AI&ML,7.83,No,Yes,Kerala,2025,Yes
+ST20170,Male,EEE,6.73,No,Yes,Kerala,2024,Yes
+ST20171,Female,CSE,7.43,Yes,No,Karnataka,2025,Yes
+ST20172,Male,ISE,8.01,No,Yes,Maharashtra,2025,Yes
+ST20173,Female,AI&ML,7.73,No,Yes,Maharashtra,2023,Yes
+ST20174,Male,Civil,7.11,No,Yes,Karnataka,2023,No
+ST20175,Female,Civil,7.42,No,Yes,Andhra Pradesh,2025,Yes
+ST20176,Female,ECE,8.25,No,Yes,Karnataka,2024,Yes
+ST20177,Male,ECE,6.74,Yes,Yes,Tamil Nadu,2024,Yes
+ST20178,Male,EEE,7.38,No,No,Maharashtra,2024,No
+ST20179,Male,AI&ML,6.43,Yes,No,Tamil Nadu,2025,No
+ST20180,Male,Mechanical,8.61,No,Yes,Karnataka,2024,Yes
+ST20181,Female,CSE,5.86,No,Yes,Karnataka,2023,No
+ST20182,Male,CSE,9.8,No,No,Karnataka,2023,Yes
+ST20183,Female,Civil,7.62,No,No,Telangana,2024,Yes
+ST20184,Male,CSE,6.88,Yes,No,Andhra Pradesh,2024,Yes
+ST20185,Male,Mechanical,7.75,No,No,Karnataka,2024,Yes
+ST20186,Male,CSE,6.99,No,No,Andhra Pradesh,2023,Yes
+ST20187,Male,ISE,6.41,Yes,Yes,Karnataka,2024,No
+ST20188,Male,Mechanical,7.87,No,Yes,Karnataka,2024,Yes
+ST20189,Male,EEE,6.66,No,Yes,Karnataka,2023,Yes
+ST20190,Male,CSE,6.68,No,No,Karnataka,2024,Yes
+ST20191,Male,Mechanical,6.7,No,Yes,Goa,2025,Yes
+ST20192,Female,ISE,7.91,No,Yes,Karnataka,2024,Yes
+ST20193,Male,CSE,7.23,Yes,No,Karnataka,2025,No
+ST20194,Female,ECE,8.54,No,No,Kerala,2024,No
+ST20195,Male,ECE,7.61,No,No,Andhra Pradesh,2025,No
+ST20196,Male,ISE,6.73,No,Yes,Andhra Pradesh,2025,No
+ST20197,Female,AI&ML,6.28,No,Yes,Telangana,2023,No
+ST20198,Male,ISE,6.38,Yes,Yes,Telangana,2024,Yes
+ST20199,Male,ISE,6.75,No,Yes,Telangana,2025,Yes
+ST20200,Male,Mechanical,5.11,Yes,Yes,Karnataka,2024,No
+ST20201,Male,ECE,8.3,No,No,Karnataka,2023,Yes
+ST20202,Male,CSE,6.15,No,Yes,Karnataka,2025,No
+ST20203,Female,EEE,6.62,No,Yes,Karnataka,2024,Yes
+ST20204,Female,AI&ML,8.77,No,No,Kerala,2023,Yes
+ST20205,Male,ECE,7.43,Yes,Yes,Karnataka,2023,No
+ST20206,Male,AI&ML,8.57,No,Yes,Karnataka,2023,Yes
+ST20207,Male,ECE,7.08,No,No,Karnataka,2025,No
+ST20208,Female,Civil,7.11,No,No,Karnataka,2025,No
+ST20209,Female,ECE,7.22,No,Yes,Karnataka,2025,Yes
+ST20210,Female,Civil,7.47,Yes,Yes,Karnataka,2025,No
+ST20211,Female,AI&ML,6.73,No,No,Andhra Pradesh,2023,Yes
+ST20212,Female,ISE,7.13,No,No,Andhra Pradesh,2025,Yes
+ST20213,Female,Civil,7.24,No,Yes,Karnataka,2024,No
+ST20214,Female,CSE,7.31,No,Yes,Karnataka,2023,Yes
+ST20215,Female,ECE,8.26,No,No,Karnataka,2025,Yes
+ST20216,Female,Mechanical,8.2,No,No,Kerala,2024,Yes
+ST20217,Male,ECE,7.17,No,Yes,Karnataka,2024,No
+ST20218,Male,ECE,7.23,No,No,Karnataka,2025,Yes
+ST20219,Male,Mechanical,5.07,No,Yes,Kerala,2024,No
+ST20220,Female,Mechanical,8.83,No,No,Karnataka,2025,Yes
+ST20221,Male,ECE,5.94,No,Yes,Andhra Pradesh,2023,Yes
+ST20222,Male,Mechanical,6.7,No,Yes,Andhra Pradesh,2025,Yes
+ST20223,Male,AI&ML,6.44,No,No,Karnataka,2025,No
+ST20224,Male,Mechanical,6.51,No,Yes,Andhra Pradesh,2023,Yes
+ST20225,Male,ECE,8.88,Yes,No,Kerala,2025,No
+ST20226,Male,ECE,7.71,No,Yes,Telangana,2023,Yes
+ST20227,Male,Civil,8.4,No,No,Karnataka,2025,No
+ST20228,Female,ECE,7.65,No,No,Andhra Pradesh,2025,Yes
+ST20229,Male,CSE,6.94,No,Yes,Andhra Pradesh,2025,Yes
+ST20230,Male,AI&ML,6.85,Yes,No,Karnataka,2023,No
+ST20231,Male,Mechanical,7.49,No,No,Maharashtra,2023,Yes
+ST20232,Female,ECE,5.99,No,Yes,Telangana,2025,No
+ST20233,Female,AI&ML,8.03,No,Yes,Kerala,2024,Yes
+ST20234,Female,CSE,6.61,No,Yes,Karnataka,2023,No
+ST20235,Male,ISE,6.94,No,No,Karnataka,2024,Yes
+ST20236,Female,Mechanical,5.83,Yes,Yes,Karnataka,2024,No
+ST20237,Male,AI&ML,7.52,No,Yes,Karnataka,2025,Yes
+ST20238,Female,ECE,8.39,No,No,Karnataka,2025,Yes
+ST20239,Female,CSE,7.09,No,Yes,Telangana,2024,Yes
+ST20240,Male,AI&ML,7.45,No,No,Karnataka,2025,Yes
+ST20241,Female,ECE,7.4,No,No,Karnataka,2023,Yes
+ST20242,Male,Mechanical,8.28,No,Yes,Karnataka,2023,Yes
+ST20243,Male,CSE,6.88,No,Yes,Karnataka,2023,Yes
+ST20244,Female,CSE,6.84,No,Yes,Maharashtra,2023,Yes
+ST20245,Male,EEE,7.52,No,Yes,Tamil Nadu,2025,Yes
+ST20246,Male,CSE,8.29,No,Yes,Andhra Pradesh,2024,Yes
+ST20247,Female,CSE,5.5,No,No,Tamil Nadu,2023,No
+ST20248,Male,CSE,7.86,No,Yes,Karnataka,2023,Yes
+ST20249,Male,EEE,9.4,No,No,Karnataka,2023,No
+ST20250,Female,CSE,7.07,No,Yes,Maharashtra,2024,Yes
+ST20251,Female,Mechanical,6.05,Yes,No,Karnataka,2024,No
+ST20252,Male,ECE,6.48,No,Yes,Andhra Pradesh,2023,Yes
+ST20253,Male,ECE,6.56,No,Yes,Karnataka,2023,Yes
+ST20254,Female,ISE,7.29,No,Yes,Telangana,2025,No
+ST20255,Female,CSE,5.78,No,Yes,Karnataka,2025,Yes
+ST20256,Female,Mechanical,7.61,No,No,Karnataka,2024,Yes
+ST20257,Male,ISE,7.98,No,No,Karnataka,2024,Yes
+ST20258,Male,CSE,8.17,No,No,Karnataka,2025,Yes
+ST20259,Female,CSE,8.46,No,No,Kerala,2025,Yes
+ST20260,Female,ECE,7.87,No,Yes,Karnataka,2025,Yes
+ST20261,Male,AI&ML,8.21,No,No,Karnataka,2025,Yes
+ST20262,Female,CSE,7.77,No,No,Karnataka,2024,Yes
+ST20263,Male,ISE,5.14,No,No,Karnataka,2025,Yes
+ST20264,Female,CSE,6.12,Yes,No,Andhra Pradesh,2024,No
+ST20265,Male,CSE,7.62,No,Yes,Karnataka,2025,Yes
+ST20266,Male,ISE,7.11,No,Yes,Karnataka,2025,Yes
+ST20267,Female,CSE,8.64,No,Yes,Karnataka,2023,Yes
+ST20268,Male,ECE,6.89,No,Yes,Maharashtra,2023,Yes
+ST20269,Female,ISE,7.84,No,Yes,Karnataka,2023,Yes
+ST20270,Male,ISE,7.58,No,Yes,Tamil Nadu,2023,Yes
+ST20271,Female,ECE,7.22,No,Yes,Andhra Pradesh,2024,Yes
+ST20272,Male,ECE,7.46,No,No,Andhra Pradesh,2024,Yes
+ST20273,Male,CSE,6.27,No,No,Karnataka,2024,No
+ST20274,Female,Mechanical,6.85,No,No,Tamil Nadu,2023,Yes
+ST20275,Male,CSE,7.39,No,No,Andhra Pradesh,2025,Yes
+ST20276,Female,AI&ML,7.72,No,No,Maharashtra,2023,Yes
+ST20277,Male,CSE,7.24,No,Yes,Karnataka,2024,No
+ST20278,Female,EEE,7.83,No,No,Karnataka,2023,Yes
+ST20279,Male,Mechanical,6.3,No,No,Andhra Pradesh,2023,No
+ST20280,Male,ECE,6.62,No,Yes,Karnataka,2024,Yes
+ST20281,Male,CSE,9.62,No,Yes,Karnataka,2025,Yes
+ST20282,Male,CSE,7.21,No,No,Karnataka,2024,Yes
+ST20283,Male,ECE,7.08,No,No,Karnataka,2023,Yes
+ST20284,Female,AI&ML,8.56,No,No,Tamil Nadu,2023,Yes
+ST20285,Male,ISE,7.88,No,Yes,Maharashtra,2025,Yes
+ST20286,Female,CSE,7.73,No,Yes,Karnataka,2025,No
+ST20287,Male,ECE,7.19,No,No,Kerala,2023,Yes
+ST20288,Female,CSE,7.32,No,Yes,Maharashtra,2025,Yes
+ST20289,Female,Mechanical,7.9,Yes,No,Karnataka,2025,No
+ST20290,Male,ECE,7.3,No,Yes,Karnataka,2025,No
+ST20291,Male,Civil,9.18,No,No,Telangana,2023,No
+ST20292,Female,CSE,6.62,No,Yes,Andhra Pradesh,2023,Yes
+ST20293,Female,ECE,8.35,No,No,Telangana,2025,Yes
+ST20294,Female,EEE,7.9,No,Yes,Andhra Pradesh,2025,No
+ST20295,Female,EEE,8.05,No,Yes,Karnataka,2024,No
+ST20296,Male,Civil,6.82,Yes,No,Telangana,2024,No
+ST20297,Female,ISE,6.17,Yes,No,Karnataka,2025,No
+ST20298,Male,AI&ML,6.89,No,No,Andhra Pradesh,2025,Yes
+ST20299,Female,EEE,7.13,Yes,No,Karnataka,2025,No
+ST20300,Male,ECE,8.4,No,No,Kerala,2023,Yes
+ST20301,Male,CSE,8.06,No,No,Karnataka,2025,Yes
+ST20302,Male,Mechanical,8.3,No,No,Karnataka,2023,No
+ST20303,Male,CSE,7.47,No,Yes,Karnataka,2023,Yes
+ST20304,Female,EEE,8.39,No,No,Kerala,2025,Yes
+ST20305,Male,EEE,6.79,No,Yes,Karnataka,2025,No
+ST20306,Female,ECE,5.63,No,Yes,Karnataka,2025,No
+ST20307,Male,AI&ML,7.31,No,No,Karnataka,2024,Yes
+ST20308,Male,EEE,6.62,No,No,Maharashtra,2025,Yes
+ST20309,Male,CSE,7.47,No,No,Karnataka,2025,No
+ST20310,Male,ISE,8.94,No,Yes,Karnataka,2025,Yes
+ST20311,Female,Civil,7.59,No,No,Karnataka,2025,Yes
+ST20312,Female,Mechanical,7.98,No,Yes,Karnataka,2024,Yes
+ST20313,Female,ECE,6.71,No,Yes,Karnataka,2023,Yes
+ST20314,Female,CSE,6.77,No,No,Goa,2025,Yes
+ST20315,Female,CSE,6.02,No,Yes,Andhra Pradesh,2023,No
+ST20316,Male,ISE,8.27,No,Yes,Karnataka,2024,Yes
+ST20317,Female,ISE,7.74,No,No,Kerala,2023,Yes
+ST20318,Female,AI&ML,6.28,Yes,No,Karnataka,2024,No
+ST20319,Male,ECE,8.49,No,No,Karnataka,2023,Yes
+ST20320,Male,ECE,7.74,No,Yes,Karnataka,2023,Yes
+ST20321,Male,EEE,6.89,No,No,Karnataka,2025,Yes
+ST20322,Female,Civil,9.8,No,No,Karnataka,2024,No
+ST20323,Male,Mechanical,7.51,No,No,Karnataka,2024,Yes
+ST20324,Male,CSE,5.62,No,Yes,Telangana,2023,No
+ST20325,Female,ECE,8.15,No,No,Maharashtra,2025,No
+ST20326,Male,EEE,7.37,No,Yes,Maharashtra,2025,Yes
+ST20327,Female,CSE,8.16,No,Yes,Andhra Pradesh,2025,Yes
+ST20328,Male,EEE,8.72,No,Yes,Maharashtra,2025,Yes
+ST20329,Male,AI&ML,7.26,No,Yes,Karnataka,2025,Yes
+ST20330,Female,ECE,6.67,No,No,Karnataka,2025,Yes
+ST20331,Male,ISE,8.2,No,Yes,Karnataka,2024,Yes
+ST20332,Female,Civil,7.11,No,No,Karnataka,2023,Yes
+ST20333,Female,ECE,6.18,No,Yes,Karnataka,2024,No
+ST20334,Male,AI&ML,6.27,Yes,No,Karnataka,2024,No
+ST20335,Female,CSE,9.04,No,No,Karnataka,2023,Yes
+ST20336,Male,ECE,7.92,Yes,No,Andhra Pradesh,2025,No
+ST20337,Female,EEE,7.33,No,Yes,Karnataka,2025,Yes
+ST20338,Male,ECE,6.53,Yes,No,Karnataka,2025,No
+ST20339,Male,Mechanical,7.32,Yes,No,Telangana,2024,No
+ST20340,Male,CSE,6.29,No,Yes,Karnataka,2023,No
+ST20341,Female,ISE,7.82,No,No,Karnataka,2023,Yes
+ST20342,Male,CSE,6.86,No,No,Andhra Pradesh,2023,Yes
+ST20343,Female,Mechanical,8.74,No,No,Karnataka,2024,Yes
+ST20344,Female,Mechanical,6.51,No,Yes,Karnataka,2025,No
+ST20345,Male,ISE,7.36,No,No,Tamil Nadu,2025,No
+ST20346,Female,Civil,6.96,No,Yes,Telangana,2024,Yes
+ST20347,Male,Mechanical,5.13,Yes,Yes,Andhra Pradesh,2025,No
+ST20348,Female,CSE,7.41,No,Yes,Karnataka,2025,Yes
+ST20349,Male,ISE,8.46,No,No,Karnataka,2024,Yes
+ST20350,Female,Mechanical,9.43,No,No,Andhra Pradesh,2025,Yes
+ST20351,Female,Civil,9.41,No,No,Andhra Pradesh,2025,Yes
+ST20352,Female,ECE,5.17,No,No,Tamil Nadu,2025,Yes
+ST20353,Female,ECE,8.76,No,Yes,Karnataka,2024,Yes
+ST20354,Male,CSE,6.53,No,Yes,Tamil Nadu,2024,Yes
+ST20355,Female,Civil,7.69,Yes,Yes,Karnataka,2024,No
+ST20356,Male,ECE,6.97,No,No,Kerala,2024,Yes
+ST20357,Female,ISE,7.92,No,Yes,Karnataka,2024,Yes
+ST20358,Male,CSE,6.96,No,No,Karnataka,2024,Yes
+ST20359,Male,ECE,7.65,No,Yes,Andhra Pradesh,2025,Yes
+ST20360,Female,CSE,7.31,No,Yes,Telangana,2023,Yes
+ST20361,Female,EEE,7.51,No,Yes,Maharashtra,2024,Yes
+ST20362,Male,CSE,7.37,No,No,Karnataka,2025,Yes
+ST20363,Male,Mechanical,8.85,No,No,Karnataka,2025,No
+ST20364,Male,EEE,5.96,No,Yes,Tamil Nadu,2023,No
+ST20365,Male,AI&ML,8.22,No,No,Andhra Pradesh,2023,Yes
+ST20366,Male,ISE,8.13,No,No,Tamil Nadu,2025,Yes
+ST20367,Male,CSE,7.59,No,No,Kerala,2025,Yes
+ST20368,Female,CSE,7.92,No,Yes,Andhra Pradesh,2024,Yes
+ST20369,Male,CSE,7.45,No,Yes,Karnataka,2025,Yes
+ST20370,Male,AI&ML,7.79,No,No,Karnataka,2024,Yes
+ST20371,Male,ECE,7.96,No,No,Kerala,2025,Yes
+ST20372,Female,AI&ML,7.09,No,No,Karnataka,2024,Yes
+ST20373,Female,Mechanical,7.01,No,No,Karnataka,2024,No
+ST20374,Female,AI&ML,6.94,No,No,Tamil Nadu,2025,Yes
+ST20375,Female,CSE,6.81,No,No,Karnataka,2024,Yes
+ST20376,Male,Mechanical,6.27,No,No,Karnataka,2024,No
+ST20377,Male,AI&ML,6.5,No,No,Karnataka,2024,No
+ST20378,Male,CSE,6.55,No,Yes,Karnataka,2024,Yes
+ST20379,Female,EEE,8.83,No,Yes,Tamil Nadu,2023,Yes
+ST20380,Female,Civil,5.86,No,No,Karnataka,2025,Yes
+ST20381,Male,ECE,5.15,Yes,Yes,Kerala,2025,No
+ST20382,Female,ECE,6.06,Yes,No,Kerala,2025,No
+ST20383,Female,ISE,7.8,No,Yes,Karnataka,2025,Yes
+ST20384,Male,ECE,7.61,No,No,Maharashtra,2025,No
+ST20385,Female,CSE,7.26,No,Yes,Karnataka,2025,Yes
+ST20386,Female,Civil,7.61,No,No,Karnataka,2024,No
+ST20387,Female,ISE,6.92,No,No,Kerala,2025,Yes
+ST20388,Male,CSE,7.68,No,Yes,Andhra Pradesh,2025,Yes
+ST20389,Male,EEE,6.36,No,No,Kerala,2025,Yes
+ST20390,Female,AI&ML,7.85,No,No,Kerala,2024,Yes
+ST20391,Female,ECE,9.3,No,No,Andhra Pradesh,2025,Yes
+ST20392,Female,ECE,8.4,No,No,Karnataka,2025,Yes
+ST20393,Male,ECE,6.78,Yes,Yes,Karnataka,2023,No
+ST20394,Male,ECE,6.9,No,No,Karnataka,2023,Yes
+ST20395,Female,ECE,8.03,No,No,Karnataka,2025,Yes
+ST20396,Male,Mechanical,7.94,No,No,Telangana,2023,No
+ST20397,Male,CSE,8.78,No,Yes,Goa,2024,Yes
+ST20398,Male,CSE,6.93,No,Yes,Karnataka,2025,Yes
+ST20399,Female,EEE,5.33,No,No,Kerala,2023,Yes
+ST20400,Male,Civil,7.2,No,Yes,Andhra Pradesh,2023,No
+ST20401,Female,ISE,7.2,No,No,Kerala,2023,Yes
+ST20402,Male,Mechanical,6.61,No,Yes,Karnataka,2023,No
+ST20403,Male,ISE,7.37,No,Yes,Tamil Nadu,2025,Yes
+ST20404,Male,CSE,7.62,No,Yes,Karnataka,2025,Yes
+ST20405,Male,Mechanical,8.24,No,No,Karnataka,2023,No
+ST20406,Male,CSE,7.3,No,Yes,Maharashtra,2023,Yes
+ST20407,Female,ISE,6.75,No,Yes,Tamil Nadu,2023,Yes
+ST20408,Male,AI&ML,6.54,No,Yes,Tamil Nadu,2025,Yes
+ST20409,Female,EEE,8.95,No,No,Tamil Nadu,2023,Yes
+ST20410,Male,EEE,8.91,No,No,Telangana,2025,No
+ST20411,Female,Mechanical,7.67,No,Yes,Tamil Nadu,2025,Yes
+ST20412,Female,Mechanical,7.54,No,No,Karnataka,2025,Yes
+ST20413,Female,CSE,7.34,Yes,Yes,Telangana,2025,Yes
+ST20414,Female,EEE,6.82,No,No,Kerala,2023,No
+ST20415,Male,ISE,7.79,No,Yes,Karnataka,2023,Yes
+ST20416,Female,CSE,7.11,No,No,Karnataka,2024,Yes
+ST20417,Male,Mechanical,6.2,Yes,No,Karnataka,2023,No
+ST20418,Female,ISE,7.45,Yes,No,Karnataka,2023,No
+ST20419,Female,Civil,7.97,Yes,Yes,Karnataka,2023,Yes
+ST20420,Male,CSE,7.84,No,No,Karnataka,2024,Yes
+ST20421,Female,CSE,5.0,No,Yes,Karnataka,2023,Yes
+ST20422,Male,CSE,7.47,No,Yes,Andhra Pradesh,2023,Yes
+ST20423,Female,CSE,5.76,Yes,No,Maharashtra,2023,No
+ST20424,Female,Civil,8.12,No,Yes,Karnataka,2025,Yes
+ST20425,Male,ECE,6.06,No,No,Karnataka,2024,Yes
+ST20426,Male,CSE,7.72,No,Yes,Karnataka,2023,Yes
+ST20427,Male,CSE,5.0,Yes,Yes,Karnataka,2023,No
+ST20428,Male,ECE,7.33,No,No,Karnataka,2023,Yes
+ST20429,Male,ECE,7.51,No,Yes,Maharashtra,2023,Yes
+ST20430,Female,CSE,9.06,No,No,Karnataka,2025,Yes
+ST20431,Male,ISE,8.52,No,No,Tamil Nadu,2025,No
+ST20432,Male,ISE,6.79,No,No,Telangana,2024,Yes
+ST20433,Female,ISE,5.09,Yes,No,Tamil Nadu,2025,No
+ST20434,Male,CSE,7.51,No,Yes,Andhra Pradesh,2025,Yes
+ST20435,Female,CSE,5.95,Yes,Yes,Karnataka,2025,Yes
+ST20436,Female,CSE,7.84,No,Yes,Tamil Nadu,2024,Yes
+ST20437,Male,Civil,8.36,No,Yes,Kerala,2025,No
+ST20438,Male,Mechanical,9.01,No,No,Karnataka,2023,Yes
+ST20439,Male,ECE,7.19,No,Yes,Karnataka,2023,Yes
+ST20440,Male,ISE,7.16,No,No,Karnataka,2025,Yes
+ST20441,Male,ECE,6.55,Yes,No,Maharashtra,2025,No
+ST20442,Male,Civil,8.73,No,No,Andhra Pradesh,2023,No
+ST20443,Male,EEE,7.11,No,No,Karnataka,2024,Yes
+ST20444,Male,Mechanical,6.28,Yes,Yes,Tamil Nadu,2025,No
+ST20445,Male,ISE,7.62,Yes,Yes,Karnataka,2025,Yes
+ST20446,Female,CSE,8.67,No,No,Karnataka,2023,Yes
+ST20447,Male,ECE,6.54,No,Yes,Tamil Nadu,2024,No
+ST20448,Male,EEE,6.61,No,No,Karnataka,2023,Yes
+ST20449,Male,Civil,8.07,No,No,Karnataka,2023,No
+ST20450,Male,EEE,9.19,No,Yes,Tamil Nadu,2025,No
+ST20451,Male,AI&ML,7.68,No,No,Karnataka,2025,Yes
+ST20452,Female,Mechanical,6.0,No,No,Karnataka,2025,No
+ST20453,Male,ECE,6.78,No,No,Andhra Pradesh,2024,Yes
+ST20454,Male,ISE,9.23,No,No,Karnataka,2024,Yes
+ST20455,Male,EEE,7.27,No,Yes,Karnataka,2025,No
+ST20456,Male,CSE,6.52,No,Yes,Karnataka,2024,No
+ST20457,Female,ECE,7.31,No,Yes,Karnataka,2023,No
+ST20458,Female,Civil,6.78,No,No,Karnataka,2024,No
+ST20459,Female,ISE,6.77,No,No,Karnataka,2025,Yes
+ST20460,Female,EEE,7.8,No,No,Karnataka,2023,Yes
+ST20461,Female,Civil,5.03,No,No,Karnataka,2025,No
+ST20462,Male,ISE,6.83,Yes,Yes,Karnataka,2025,No
+ST20463,Female,Civil,6.17,No,No,Telangana,2025,Yes
+ST20464,Female,Civil,6.87,No,No,Karnataka,2024,No
+ST20465,Female,AI&ML,7.27,No,No,Andhra Pradesh,2025,Yes
+ST20466,Female,CSE,8.1,No,Yes,Telangana,2023,Yes
+ST20467,Female,ECE,7.74,No,Yes,Karnataka,2024,Yes
+ST20468,Male,Mechanical,6.03,Yes,No,Karnataka,2023,No
+ST20469,Male,ECE,8.23,No,Yes,Karnataka,2024,Yes
+ST20470,Male,ECE,8.93,Yes,Yes,Karnataka,2023,No
+ST20471,Female,CSE,5.76,No,Yes,Tamil Nadu,2024,Yes
+ST20472,Male,Civil,6.93,No,No,Karnataka,2024,No
+ST20473,Male,Mechanical,6.63,No,No,Karnataka,2023,Yes
+ST20474,Male,Civil,7.82,No,Yes,Karnataka,2024,No
+ST20475,Male,ECE,7.63,Yes,No,Karnataka,2025,No
+ST20476,Male,AI&ML,6.16,Yes,Yes,Karnataka,2023,No
+ST20477,Male,ISE,9.0,No,Yes,Maharashtra,2024,Yes
+ST20478,Male,CSE,7.21,No,No,Karnataka,2024,No
+ST20479,Female,ISE,6.0,Yes,No,Karnataka,2025,No
+ST20480,Male,CSE,5.11,No,Yes,Karnataka,2024,Yes
+ST20481,Female,ISE,6.39,No,Yes,Kerala,2025,No
+ST20482,Female,CSE,7.25,Yes,No,Karnataka,2023,No
+ST20483,Male,Civil,6.79,No,No,Andhra Pradesh,2025,No
+ST20484,Male,ECE,8.02,No,No,Kerala,2024,Yes
+ST20485,Female,Civil,8.57,No,Yes,Andhra Pradesh,2025,No
+ST20486,Male,ECE,8.56,No,No,Karnataka,2023,No
+ST20487,Male,ECE,9.51,No,No,Karnataka,2024,Yes
+ST20488,Female,Mechanical,6.38,Yes,No,Kerala,2024,No
+ST20489,Female,ECE,8.5,No,No,Karnataka,2023,Yes
+ST20490,Female,ISE,6.52,No,Yes,Kerala,2023,Yes
+ST20491,Male,AI&ML,7.44,No,Yes,Karnataka,2025,Yes
+ST20492,Female,ECE,8.13,No,Yes,Karnataka,2023,Yes
+ST20493,Male,Mechanical,9.25,No,No,Karnataka,2023,Yes
+ST20494,Male,Mechanical,7.36,No,No,Telangana,2024,No
+ST20495,Male,CSE,7.92,No,Yes,Kerala,2025,Yes
+ST20496,Female,Mechanical,6.09,Yes,No,Karnataka,2024,No
+ST20497,Male,ECE,6.56,No,Yes,Odisha,2023,No
+ST20498,Female,EEE,5.99,No,Yes,Karnataka,2025,Yes
+ST20499,Female,ISE,5.66,No,No,Karnataka,2024,Yes
+ST20500,Female,ISE,9.12,No,No,Andhra Pradesh,2023,Yes
+ST20501,Female,Mechanical,7.64,No,No,Karnataka,2023,Yes
+ST20502,Male,CSE,5.73,No,No,Kerala,2024,No
+ST20503,Male,AI&ML,9.24,No,No,Karnataka,2023,Yes
+ST20504,Female,AI&ML,7.44,No,No,Maharashtra,2025,Yes
+ST20505,Male,AI&ML,6.35,No,No,Karnataka,2023,No
+ST20506,Male,ECE,8.56,No,Yes,Karnataka,2024,Yes
+ST20507,Male,ISE,7.26,Yes,Yes,Kerala,2025,No
+ST20508,Male,CSE,9.73,No,Yes,Kerala,2023,Yes
+ST20509,Female,Mechanical,6.23,No,Yes,Karnataka,2023,No
+ST20510,Male,EEE,7.43,No,No,Tamil Nadu,2024,No
+ST20511,Female,CSE,6.25,Yes,No,Andhra Pradesh,2023,Yes
+ST20512,Female,Civil,8.42,No,Yes,Karnataka,2023,No
+ST20513,Male,CSE,6.47,No,Yes,Karnataka,2023,Yes
+ST20514,Female,CSE,5.96,No,No,Karnataka,2025,No
+ST20515,Female,ECE,6.59,No,No,Goa,2025,Yes
+ST20516,Male,Civil,9.09,No,Yes,Telangana,2025,Yes
+ST20517,Male,CSE,5.61,Yes,Yes,Andhra Pradesh,2023,No
+ST20518,Male,ISE,7.46,Yes,No,Karnataka,2025,No
+ST20519,Female,EEE,7.39,No,Yes,Karnataka,2023,No
+ST20520,Male,CSE,7.85,No,No,Karnataka,2025,Yes
+ST20521,Male,AI&ML,7.8,No,No,Karnataka,2024,Yes
+ST20522,Male,Mechanical,5.97,No,No,Karnataka,2025,Yes
+ST20523,Female,ECE,5.35,Yes,Yes,Andhra Pradesh,2025,Yes
+ST20524,Female,ECE,7.01,No,Yes,Karnataka,2024,Yes
+ST20525,Male,ISE,6.84,No,No,Karnataka,2025,No
+ST20526,Male,Civil,6.43,No,No,Karnataka,2025,No
+ST20527,Female,AI&ML,6.86,No,Yes,Kerala,2025,Yes
+ST20528,Male,CSE,5.7,No,No,Telangana,2023,No
+ST20529,Male,ISE,6.67,No,No,Karnataka,2023,Yes
+ST20530,Female,Mechanical,8.17,No,Yes,Karnataka,2024,Yes
+ST20531,Male,ECE,7.1,No,No,Kerala,2025,No
+ST20532,Male,EEE,7.36,Yes,No,Andhra Pradesh,2025,No
+ST20533,Male,CSE,7.61,No,No,Telangana,2024,Yes
+ST20534,Female,ISE,5.0,No,No,Karnataka,2025,Yes
+ST20535,Female,ISE,6.51,Yes,No,Karnataka,2023,No
+ST20536,Male,ECE,6.38,No,No,Tamil Nadu,2023,No
+ST20537,Male,CSE,8.74,No,No,Karnataka,2025,Yes
+ST20538,Female,Civil,7.02,No,Yes,Karnataka,2025,No
+ST20539,Female,ECE,6.93,No,No,Karnataka,2023,Yes
+ST20540,Male,EEE,7.06,No,Yes,Maharashtra,2023,Yes
+ST20541,Female,CSE,6.77,No,No,Andhra Pradesh,2025,No
+ST20542,Female,EEE,7.49,No,Yes,Karnataka,2025,Yes
+ST20543,Male,ECE,6.43,No,No,Karnataka,2025,No
+ST20544,Male,ECE,6.95,No,Yes,Karnataka,2024,Yes
+ST20545,Male,Civil,6.92,Yes,No,Tamil Nadu,2024,No
+ST20546,Male,ECE,7.21,No,No,Karnataka,2024,Yes
+ST20547,Female,Civil,8.41,No,Yes,Tamil Nadu,2025,No
+ST20548,Male,EEE,7.51,Yes,No,Karnataka,2023,Yes
+ST20549,Female,Mechanical,8.15,No,Yes,Karnataka,2025,No
+ST20550,Female,ECE,6.57,No,Yes,Karnataka,2023,Yes
+ST20551,Male,AI&ML,6.56,Yes,No,Karnataka,2024,No
+ST20552,Female,ECE,6.4,No,No,Karnataka,2023,No
+ST20553,Male,EEE,6.85,No,No,Karnataka,2024,Yes
+ST20554,Male,Civil,7.94,No,No,Maharashtra,2023,Yes
+ST20555,Female,EEE,7.29,No,No,Tamil Nadu,2024,Yes
+ST20556,Male,Mechanical,6.29,Yes,No,Telangana,2025,No
+ST20557,Male,CSE,6.87,No,Yes,Tamil Nadu,2025,Yes
+ST20558,Male,CSE,7.71,No,No,Telangana,2023,Yes
+ST20559,Female,AI&ML,7.94,No,Yes,Tamil Nadu,2024,Yes
+ST20560,Male,ECE,7.11,No,No,Karnataka,2025,Yes
+ST20561,Female,CSE,6.81,Yes,No,Tamil Nadu,2024,No
+ST20562,Male,CSE,7.11,No,No,Tamil Nadu,2023,No
+ST20563,Male,CSE,6.6,No,No,Kerala,2025,No
+ST20564,Male,Civil,7.63,No,Yes,Karnataka,2025,No
+ST20565,Female,EEE,6.57,Yes,No,Karnataka,2025,No
+ST20566,Female,CSE,9.68,No,No,Karnataka,2023,Yes
+ST20567,Male,Civil,6.96,No,No,Karnataka,2025,No
+ST20568,Male,ECE,7.86,Yes,Yes,Tamil Nadu,2025,No
+ST20569,Male,ISE,7.76,No,Yes,Karnataka,2024,Yes
+ST20570,Female,EEE,7.41,No,No,Telangana,2023,Yes
+ST20571,Male,Mechanical,6.92,Yes,No,Andhra Pradesh,2023,No
+ST20572,Male,Civil,6.56,No,Yes,Karnataka,2025,No
+ST20573,Male,Mechanical,8.13,No,No,Kerala,2024,Yes
+ST20574,Female,AI&ML,7.31,No,Yes,Goa,2025,Yes
+ST20575,Male,ISE,6.49,Yes,Yes,Tamil Nadu,2023,No
+ST20576,Male,ISE,6.55,No,No,Andhra Pradesh,2023,Yes
+ST20577,Male,ECE,8.37,No,No,Karnataka,2025,Yes
+ST20578,Female,EEE,6.52,Yes,Yes,Karnataka,2023,No
+ST20579,Male,Civil,7.33,No,No,Karnataka,2025,No
+ST20580,Male,CSE,6.17,No,Yes,Karnataka,2024,Yes
+ST20581,Female,CSE,6.83,No,Yes,Karnataka,2023,Yes
+ST20582,Female,EEE,8.2,No,No,Maharashtra,2025,No
+ST20583,Female,CSE,6.53,No,Yes,Karnataka,2025,No
+ST20584,Male,Civil,9.17,No,Yes,Karnataka,2025,Yes
+ST20585,Female,CSE,5.58,Yes,Yes,Telangana,2024,No
+ST20586,Male,AI&ML,8.01,No,Yes,Karnataka,2024,Yes
+ST20587,Male,AI&ML,6.27,No,Yes,Karnataka,2024,No
+ST20588,Male,ECE,8.07,No,No,Karnataka,2023,Yes
+ST20589,Male,EEE,7.92,No,Yes,Tamil Nadu,2025,Yes
+ST20590,Male,CSE,7.37,No,No,Karnataka,2023,Yes
+ST20591,Female,ISE,6.77,Yes,No,Karnataka,2024,No
+ST20592,Female,Civil,9.08,No,No,Kerala,2024,No
+ST20593,Female,ISE,7.3,No,No,Tamil Nadu,2025,Yes
+ST20594,Male,ECE,7.44,No,No,Karnataka,2023,Yes
+ST20595,Male,CSE,6.11,Yes,Yes,Karnataka,2025,No
+ST20596,Female,EEE,7.63,No,No,Kerala,2023,Yes
+ST20597,Female,EEE,6.77,No,No,Kerala,2023,No
+ST20598,Male,CSE,6.94,No,No,Karnataka,2024,Yes
+ST20599,Male,Mechanical,8.13,No,Yes,Karnataka,2023,No
+ST20600,Male,ECE,9.24,No,No,Maharashtra,2024,Yes
+ST20601,Male,ECE,8.49,No,Yes,Karnataka,2023,Yes
+ST20602,Female,ECE,5.91,No,No,Karnataka,2023,No
+ST20603,Male,ECE,8.26,No,No,Karnataka,2024,Yes
+ST20604,Female,ISE,6.83,No,No,Karnataka,2024,Yes
+ST20605,Male,ECE,7.76,No,No,Andhra Pradesh,2024,Yes
+ST20606,Male,AI&ML,5.15,Yes,Yes,Karnataka,2025,No
+ST20607,Female,ISE,7.7,No,No,Karnataka,2025,Yes
+ST20608,Male,EEE,8.03,No,No,Karnataka,2025,No
+ST20609,Female,ECE,6.3,No,Yes,Karnataka,2025,No
+ST20610,Male,Mechanical,7.26,No,No,Maharashtra,2024,Yes
+ST20611,Male,AI&ML,7.67,No,Yes,Karnataka,2025,Yes
+ST20612,Female,ISE,5.19,No,Yes,Andhra Pradesh,2023,No
+ST20613,Male,Mechanical,7.96,No,No,Karnataka,2024,Yes
+ST20614,Male,ECE,6.93,No,No,Karnataka,2025,Yes
+ST20615,Male,Mechanical,6.77,No,No,Karnataka,2025,Yes
+ST20616,Female,ECE,7.81,No,Yes,Karnataka,2024,Yes
+ST20617,Female,ECE,6.63,Yes,No,Karnataka,2024,No
+ST20618,Male,Civil,7.8,No,No,Andhra Pradesh,2025,Yes
+ST20619,Female,Mechanical,5.95,No,Yes,Kerala,2024,No
+ST20620,Male,CSE,7.21,No,Yes,Tamil Nadu,2023,Yes
+ST20621,Male,ISE,8.98,No,Yes,Maharashtra,2024,No
+ST20622,Female,AI&ML,6.53,No,Yes,Maharashtra,2024,Yes
+ST20623,Male,ECE,7.7,No,No,Goa,2024,Yes
+ST20624,Male,EEE,7.76,No,No,Karnataka,2025,Yes
+ST20625,Male,ECE,7.1,No,No,Karnataka,2024,No
+ST20626,Female,CSE,7.71,No,Yes,Andhra Pradesh,2024,Yes
+ST20627,Male,ISE,9.02,No,No,Karnataka,2024,Yes
+ST20628,Male,CSE,7.53,No,Yes,Tamil Nadu,2025,Yes
+ST20629,Male,CSE,7.42,No,No,Karnataka,2023,Yes
+ST20630,Female,AI&ML,7.17,No,Yes,Tamil Nadu,2024,Yes
+ST20631,Male,Mechanical,8.57,No,Yes,Karnataka,2024,Yes
+ST20632,Male,ECE,8.72,No,Yes,Karnataka,2025,No
+ST20633,Female,AI&ML,7.29,No,Yes,Tamil Nadu,2025,Yes
+ST20634,Male,Civil,5.73,Yes,Yes,Karnataka,2025,No
+ST20635,Female,ISE,8.2,No,No,Karnataka,2023,Yes
+ST20636,Male,EEE,7.0,No,Yes,Karnataka,2023,Yes
+ST20637,Male,ISE,8.02,No,No,Andhra Pradesh,2023,Yes
+ST20638,Female,AI&ML,8.05,No,Yes,Karnataka,2024,Yes
+ST20639,Male,Mechanical,7.49,No,Yes,Tamil Nadu,2025,Yes
+ST20640,Female,Civil,7.36,No,No,Andhra Pradesh,2023,No
+ST20641,Female,EEE,8.39,No,Yes,Karnataka,2025,No
+ST20642,Male,EEE,6.89,Yes,Yes,Karnataka,2024,No
+ST20643,Male,ISE,7.6,No,Yes,Karnataka,2023,Yes
+ST20644,Female,CSE,5.66,Yes,No,Karnataka,2025,No
+ST20645,Female,AI&ML,7.03,No,No,Telangana,2025,Yes
+ST20646,Male,AI&ML,8.86,Yes,Yes,Andhra Pradesh,2023,No
+ST20647,Female,AI&ML,7.36,Yes,Yes,Karnataka,2024,No
+ST20648,Female,Civil,7.86,No,No,Karnataka,2023,Yes
+ST20649,Female,CSE,7.86,No,No,Andhra Pradesh,2025,Yes
+ST20650,Male,ECE,5.83,No,Yes,Karnataka,2024,No
+ST20651,Male,ECE,7.58,No,Yes,Karnataka,2024,Yes
+ST20652,Male,CSE,6.23,Yes,No,Karnataka,2024,No
+ST20653,Male,ECE,8.21,No,Yes,Maharashtra,2025,Yes
+ST20654,Male,ECE,7.97,No,Yes,Karnataka,2025,No
+ST20655,Female,ECE,8.47,No,No,Andhra Pradesh,2024,Yes
+ST20656,Female,ISE,6.11,No,No,Kerala,2024,No
+ST20657,Female,ECE,7.08,No,No,Karnataka,2024,Yes
+ST20658,Female,CSE,6.08,No,No,Tamil Nadu,2025,Yes
+ST20659,Male,ECE,6.32,No,No,Andhra Pradesh,2023,No
+ST20660,Female,ECE,8.17,No,No,Karnataka,2023,Yes
+ST20661,Male,Mechanical,6.26,No,Yes,Karnataka,2025,No
+ST20662,Female,AI&ML,6.72,Yes,Yes,Karnataka,2025,No
+ST20663,Male,EEE,7.38,No,Yes,Andhra Pradesh,2025,Yes
+ST20664,Male,Mechanical,7.76,No,Yes,Karnataka,2024,No
+ST20665,Male,Mechanical,5.18,No,Yes,Karnataka,2025,Yes
+ST20666,Male,ISE,8.51,No,Yes,Kerala,2023,Yes
+ST20667,Female,AI&ML,6.13,No,Yes,Kerala,2025,Yes
+ST20668,Female,Mechanical,5.73,No,No,Kerala,2024,No
+ST20669,Female,CSE,6.65,No,Yes,Goa,2023,No
+ST20670,Female,ISE,6.39,Yes,No,Karnataka,2025,No
+ST20671,Male,CSE,8.6,No,Yes,Karnataka,2024,Yes
+ST20672,Male,CSE,7.77,No,No,Karnataka,2024,Yes
+ST20673,Male,Mechanical,8.74,No,Yes,Karnataka,2023,No
+ST20674,Female,Mechanical,7.73,No,No,Karnataka,2024,No
+ST20675,Female,ECE,7.64,No,No,Andhra Pradesh,2023,Yes
+ST20676,Male,AI&ML,8.51,No,Yes,Karnataka,2024,Yes
+ST20677,Female,AI&ML,7.89,No,Yes,Karnataka,2023,Yes
+ST20678,Male,CSE,7.08,No,Yes,Karnataka,2023,No
+ST20679,Female,Mechanical,6.11,No,No,Karnataka,2023,No
+ST20680,Male,CSE,7.26,No,No,Karnataka,2025,Yes
+ST20681,Female,EEE,8.7,No,Yes,Karnataka,2023,No
+ST20682,Female,CSE,7.32,No,Yes,Karnataka,2023,Yes
+ST20683,Female,AI&ML,6.56,No,No,Karnataka,2025,Yes
+ST20684,Female,EEE,7.5,No,No,Odisha,2023,No
+ST20685,Male,CSE,7.47,No,Yes,Karnataka,2025,Yes
+ST20686,Male,Civil,5.8,Yes,Yes,Karnataka,2023,No
+ST20687,Male,CSE,7.3,No,No,Karnataka,2023,Yes
+ST20688,Male,AI&ML,7.41,No,No,Karnataka,2025,Yes
+ST20689,Female,Civil,7.97,No,No,Karnataka,2025,Yes
+ST20690,Male,ISE,7.72,No,Yes,Karnataka,2023,Yes
+ST20691,Female,CSE,7.47,No,No,Karnataka,2023,No
+ST20692,Male,AI&ML,7.09,No,Yes,Goa,2025,Yes
+ST20693,Female,ECE,7.58,No,Yes,Karnataka,2024,Yes
+ST20694,Male,ISE,5.39,Yes,No,Kerala,2024,No
+ST20695,Male,CSE,7.86,No,No,Karnataka,2024,Yes
+ST20696,Male,ISE,6.8,Yes,No,Andhra Pradesh,2023,No
+ST20697,Male,ISE,7.6,No,Yes,Karnataka,2023,Yes
+ST20698,Male,ECE,6.84,No,No,Karnataka,2023,No
+ST20699,Female,AI&ML,7.05,No,Yes,Karnataka,2025,Yes
+ST20700,Male,AI&ML,7.0,No,No,Tamil Nadu,2024,Yes
+ST20701,Female,CSE,6.23,No,Yes,Karnataka,2025,No
+ST20702,Male,AI&ML,6.76,No,No,Karnataka,2023,Yes
+ST20703,Male,ECE,8.21,No,Yes,Andhra Pradesh,2024,Yes
+ST20704,Male,ISE,8.09,No,Yes,Karnataka,2025,Yes
+ST20705,Male,ECE,7.35,No,Yes,Karnataka,2025,Yes
+ST20706,Female,ECE,6.32,No,No,Karnataka,2024,No
+ST20707,Male,ECE,8.64,No,No,Karnataka,2024,Yes
+ST20708,Female,Civil,6.48,No,Yes,Karnataka,2024,No
+ST20709,Female,CSE,6.33,No,Yes,Karnataka,2025,No
+ST20710,Female,AI&ML,9.36,No,No,Karnataka,2024,Yes
+ST20711,Male,Mechanical,6.79,No,Yes,Karnataka,2023,No
+ST20712,Male,Mechanical,6.21,Yes,No,Kerala,2025,No
+ST20713,Male,Mechanical,6.92,No,Yes,Karnataka,2025,Yes
+ST20714,Male,EEE,7.74,No,No,Karnataka,2025,Yes
+ST20715,Male,EEE,6.97,No,Yes,Tamil Nadu,2023,No
+ST20716,Female,ECE,8.15,No,No,Tamil Nadu,2023,Yes
+ST20717,Female,EEE,7.29,Yes,No,Karnataka,2024,No
+ST20718,Male,AI&ML,6.84,No,Yes,Karnataka,2024,Yes
+ST20719,Male,AI&ML,5.16,No,No,Karnataka,2024,Yes
+ST20720,Male,CSE,7.81,No,Yes,Karnataka,2025,Yes
+ST20721,Male,ISE,5.44,No,No,Karnataka,2024,No
+ST20722,Male,CSE,5.98,Yes,Yes,Maharashtra,2023,No
+ST20723,Female,AI&ML,7.78,No,No,Karnataka,2025,No
+ST20724,Male,ISE,7.13,Yes,Yes,Karnataka,2024,No
+ST20725,Female,ISE,7.41,No,No,Andhra Pradesh,2025,Yes
+ST20726,Male,Mechanical,7.79,No,No,Karnataka,2024,No
+ST20727,Female,EEE,6.47,Yes,No,Karnataka,2025,No
+ST20728,Male,CSE,7.57,No,Yes,Karnataka,2024,Yes
+ST20729,Female,AI&ML,6.85,No,Yes,Maharashtra,2025,Yes
+ST20730,Male,CSE,7.64,No,No,Karnataka,2025,Yes
+ST20731,Male,Mechanical,6.61,Yes,No,Karnataka,2024,No
+ST20732,Female,CSE,7.77,No,Yes,Karnataka,2023,Yes
+ST20733,Female,AI&ML,8.16,No,Yes,Tamil Nadu,2023,Yes
+ST20734,Female,CSE,7.62,No,No,Karnataka,2024,Yes
+ST20735,Female,CSE,7.04,No,No,Maharashtra,2025,Yes
+ST20736,Female,Mechanical,7.66,No,Yes,Andhra Pradesh,2023,Yes
+ST20737,Male,ECE,6.8,No,Yes,Maharashtra,2023,Yes
+ST20738,Male,ISE,5.62,No,No,Maharashtra,2025,No
+ST20739,Male,Civil,8.14,No,No,Kerala,2024,Yes
+ST20740,Male,ISE,6.93,No,Yes,Karnataka,2025,Yes
+ST20741,Male,Mechanical,7.21,No,Yes,Karnataka,2023,No
+ST20742,Female,CSE,7.96,No,No,Andhra Pradesh,2023,Yes
+ST20743,Female,AI&ML,7.31,No,Yes,Karnataka,2025,Yes
+ST20744,Male,CSE,7.23,Yes,No,Karnataka,2023,No
+ST20745,Female,CSE,6.74,No,No,Tamil Nadu,2024,Yes
+ST20746,Male,CSE,6.98,No,No,Maharashtra,2024,Yes
+ST20747,Female,Civil,7.21,Yes,Yes,Karnataka,2023,No
+ST20748,Male,AI&ML,7.42,No,No,Karnataka,2023,Yes
+ST20749,Male,ECE,7.58,No,Yes,Karnataka,2024,No
+ST20750,Male,CSE,5.48,No,No,Karnataka,2025,Yes
+ST20751,Female,CSE,8.49,No,Yes,Kerala,2023,Yes
+ST20752,Male,EEE,6.61,No,No,Karnataka,2023,Yes
+ST20753,Male,Mechanical,7.35,No,Yes,Karnataka,2023,Yes
+ST20754,Female,EEE,6.91,Yes,Yes,Tamil Nadu,2024,No
+ST20755,Female,ECE,7.24,No,Yes,Karnataka,2025,No
+ST20756,Female,ECE,7.37,Yes,No,Karnataka,2023,No
+ST20757,Male,Civil,7.75,No,Yes,Karnataka,2024,Yes
+ST20758,Male,AI&ML,6.91,No,Yes,Tamil Nadu,2024,Yes
+ST20759,Male,Mechanical,6.24,No,No,Karnataka,2025,No
+ST20760,Female,CSE,8.05,No,Yes,Karnataka,2025,Yes
+ST20761,Male,Civil,6.93,No,No,Telangana,2024,Yes
+ST20762,Female,CSE,8.31,No,Yes,Maharashtra,2024,Yes
+ST20763,Male,EEE,7.48,No,No,Kerala,2025,Yes
+ST20764,Female,ECE,9.61,No,No,Tamil Nadu,2024,No
+ST20765,Male,Mechanical,6.78,No,No,Maharashtra,2023,Yes
+ST20766,Female,EEE,6.83,No,Yes,Telangana,2023,No
+ST20767,Female,Mechanical,8.62,No,Yes,Kerala,2023,No
+ST20768,Female,ISE,6.87,No,No,Karnataka,2023,Yes
+ST20769,Male,CSE,6.5,No,No,Andhra Pradesh,2025,No
+ST20770,Male,ISE,6.3,Yes,No,Andhra Pradesh,2024,No
+ST20771,Male,CSE,6.98,No,No,Karnataka,2025,Yes
+ST20772,Female,EEE,8.35,No,No,Karnataka,2023,Yes
+ST20773,Male,Mechanical,6.67,No,Yes,Karnataka,2024,Yes
+ST20774,Female,Mechanical,8.72,No,Yes,Karnataka,2023,Yes
+ST20775,Female,CSE,7.12,No,Yes,Karnataka,2025,Yes
+ST20776,Female,EEE,6.52,No,Yes,Kerala,2025,Yes
+ST20777,Male,CSE,9.51,No,No,Karnataka,2023,Yes
+ST20778,Male,EEE,7.54,No,Yes,Karnataka,2024,Yes
+ST20779,Male,CSE,8.64,No,Yes,Andhra Pradesh,2025,No
+ST20780,Male,ISE,7.36,No,No,Karnataka,2024,Yes
+ST20781,Female,CSE,7.69,No,No,Andhra Pradesh,2024,Yes
+ST20782,Male,AI&ML,7.4,Yes,No,Karnataka,2024,No
+ST20783,Male,Mechanical,7.09,No,No,Karnataka,2024,Yes
+ST20784,Female,Mechanical,7.98,No,No,Tamil Nadu,2025,Yes
+ST20785,Male,CSE,6.53,No,Yes,Karnataka,2025,Yes
+ST20786,Male,ISE,8.19,No,Yes,Maharashtra,2024,Yes
+ST20787,Female,ISE,8.28,No,No,Karnataka,2024,Yes
+ST20788,Male,EEE,8.46,No,No,Karnataka,2024,No
+ST20789,Male,CSE,6.43,No,No,Karnataka,2024,Yes
+ST20790,Male,Mechanical,6.4,Yes,No,Karnataka,2024,No
+ST20791,Female,EEE,6.35,No,No,Karnataka,2023,No
+ST20792,Female,CSE,7.96,No,Yes,Tamil Nadu,2025,Yes
+ST20793,Female,ISE,8.19,No,Yes,Tamil Nadu,2023,Yes
+ST20794,Male,ISE,6.2,No,No,Andhra Pradesh,2023,No
+ST20795,Female,Mechanical,6.12,Yes,No,Kerala,2025,No
+ST20796,Male,ECE,9.33,No,No,Karnataka,2025,Yes
+ST20797,Male,ECE,8.22,No,Yes,Maharashtra,2025,Yes
+ST20798,Female,EEE,8.25,No,Yes,Karnataka,2024,No
+ST20799,Female,CSE,8.03,No,No,Karnataka,2023,Yes
+ST20800,Male,Mechanical,7.41,No,No,Karnataka,2023,No
+ST20801,Male,Civil,6.47,No,No,Kerala,2025,No
+ST20802,Male,ECE,8.26,No,No,Karnataka,2025,No
+ST20803,Female,ISE,7.65,No,No,Karnataka,2023,Yes
+ST20804,Female,Civil,8.66,No,Yes,Andhra Pradesh,2025,No
+ST20805,Male,Mechanical,7.08,No,No,Tamil Nadu,2025,Yes
+ST20806,Male,Mechanical,7.65,No,Yes,Tamil Nadu,2025,No
+ST20807,Female,CSE,6.21,No,No,Tamil Nadu,2023,No
+ST20808,Male,ISE,6.17,No,Yes,Maharashtra,2023,No
+ST20809,Male,Mechanical,8.02,No,No,Karnataka,2025,Yes
+ST20810,Male,CSE,8.13,No,Yes,Andhra Pradesh,2024,Yes
+ST20811,Male,Mechanical,8.34,No,Yes,Karnataka,2024,Yes
+ST20812,Male,EEE,9.54,No,No,Tamil Nadu,2023,No
+ST20813,Male,CSE,7.14,No,No,Karnataka,2025,No
+ST20814,Male,CSE,9.69,No,No,Telangana,2025,Yes
+ST20815,Male,ISE,6.16,Yes,No,Karnataka,2025,No
+ST20816,Male,AI&ML,8.93,No,No,Andhra Pradesh,2023,Yes
+ST20817,Male,AI&ML,8.2,No,Yes,Karnataka,2023,Yes
+ST20818,Female,EEE,7.51,No,No,Karnataka,2025,No
+ST20819,Male,Mechanical,7.45,No,No,Karnataka,2023,No
+ST20820,Female,ECE,6.75,No,No,Kerala,2025,No
+ST20821,Female,ISE,6.92,No,No,Goa,2025,Yes
+ST20822,Female,Mechanical,7.04,No,No,Tamil Nadu,2025,Yes
+ST20823,Female,AI&ML,6.71,No,Yes,Karnataka,2025,Yes
+ST20824,Female,AI&ML,8.16,No,No,Andhra Pradesh,2025,Yes
+ST20825,Female,CSE,8.75,No,No,Karnataka,2024,Yes
+ST20826,Male,CSE,7.09,No,Yes,Karnataka,2025,No
+ST20827,Male,CSE,5.76,Yes,No,Karnataka,2025,No
+ST20828,Male,CSE,7.0,No,No,Odisha,2023,No
+ST20829,Female,Mechanical,8.24,Yes,No,Karnataka,2023,Yes
+ST20830,Female,Civil,8.77,No,No,Karnataka,2025,No
+ST20831,Female,ECE,5.87,No,Yes,Kerala,2023,No
+ST20832,Male,ISE,8.46,No,No,Karnataka,2025,Yes
+ST20833,Female,CSE,7.61,No,No,Andhra Pradesh,2023,Yes
+ST20834,Female,CSE,6.41,No,No,Kerala,2024,No
+ST20835,Male,CSE,6.65,No,No,Telangana,2025,Yes
+ST20836,Male,AI&ML,6.61,No,No,Tamil Nadu,2024,Yes
+ST20837,Male,CSE,7.3,No,Yes,Karnataka,2024,Yes
+ST20838,Female,Mechanical,5.0,No,No,Karnataka,2024,No
+ST20839,Male,Civil,9.79,No,No,Karnataka,2024,Yes
+ST20840,Male,ISE,5.5,No,Yes,Tamil Nadu,2023,No
+ST20841,Male,ECE,7.59,No,No,Andhra Pradesh,2023,No
+ST20842,Female,CSE,6.48,No,No,Karnataka,2024,Yes
+ST20843,Male,Mechanical,8.33,No,No,Karnataka,2025,No
+ST20844,Female,ECE,6.97,No,Yes,Karnataka,2024,Yes
+ST20845,Female,EEE,8.24,No,Yes,Kerala,2024,No
+ST20846,Male,EEE,6.71,No,Yes,Karnataka,2024,Yes
+ST20847,Female,Mechanical,7.44,No,Yes,Andhra Pradesh,2024,No
+ST20848,Female,CSE,6.71,Yes,No,Karnataka,2024,No
+ST20849,Female,CSE,6.91,No,No,Karnataka,2025,Yes
+ST20850,Female,CSE,8.37,No,No,Goa,2025,Yes
+ST20851,Male,CSE,9.27,No,Yes,Karnataka,2023,Yes
+ST20852,Male,ECE,6.99,No,No,Andhra Pradesh,2023,Yes
+ST20853,Male,CSE,6.36,Yes,Yes,Karnataka,2024,No
+ST20854,Male,CSE,6.94,Yes,No,Maharashtra,2024,Yes
+ST20855,Male,Mechanical,6.23,Yes,No,Karnataka,2023,No
+ST20856,Female,Mechanical,7.09,No,No,Karnataka,2024,No
+ST20857,Female,AI&ML,6.29,No,No,Tamil Nadu,2023,Yes
+ST20858,Male,CSE,5.1,No,Yes,Andhra Pradesh,2023,Yes
+ST20859,Male,Mechanical,7.56,No,Yes,Tamil Nadu,2025,Yes
+ST20860,Female,Civil,5.68,No,No,Karnataka,2024,No
+ST20861,Female,Mechanical,8.07,No,No,Karnataka,2025,Yes
+ST20862,Male,ISE,5.53,No,No,Karnataka,2025,Yes
+ST20863,Male,Mechanical,7.74,Yes,No,Karnataka,2025,No
+ST20864,Female,ISE,6.27,Yes,No,Andhra Pradesh,2023,No
+ST20865,Male,ECE,6.82,No,No,Karnataka,2025,Yes
+ST20866,Male,CSE,8.65,No,Yes,Karnataka,2024,Yes
+ST20867,Male,CSE,7.77,No,Yes,Tamil Nadu,2024,Yes
+ST20868,Male,AI&ML,8.93,No,No,Tamil Nadu,2025,Yes
+ST20869,Male,Mechanical,7.86,Yes,No,Karnataka,2025,No
+ST20870,Female,ECE,9.05,No,Yes,Karnataka,2023,Yes
+ST20871,Female,CSE,7.44,No,Yes,Telangana,2023,Yes
+ST20872,Female,CSE,6.95,No,Yes,Karnataka,2025,Yes
+ST20873,Male,CSE,7.62,No,Yes,Karnataka,2025,Yes
+ST20874,Male,ECE,8.58,No,No,Karnataka,2025,No
+ST20875,Male,AI&ML,6.08,Yes,Yes,Karnataka,2025,No
+ST20876,Male,CSE,7.17,No,No,Andhra Pradesh,2023,Yes
+ST20877,Male,EEE,7.91,No,Yes,Tamil Nadu,2024,No
+ST20878,Male,ECE,6.99,No,No,Karnataka,2025,Yes
+ST20879,Female,ECE,6.85,No,Yes,Karnataka,2025,Yes
+ST20880,Female,CSE,6.13,No,No,Tamil Nadu,2025,No
+ST20881,Female,CSE,6.43,Yes,Yes,Odisha,2025,No
+ST20882,Female,ECE,8.37,No,No,Karnataka,2025,Yes
+ST20883,Female,AI&ML,7.63,No,Yes,Karnataka,2024,Yes
+ST20884,Female,Mechanical,6.73,No,No,Karnataka,2025,Yes
+ST20885,Male,ECE,7.1,No,Yes,Karnataka,2025,Yes
+ST20886,Male,Mechanical,6.87,No,No,Karnataka,2023,Yes
+ST20887,Male,CSE,7.68,No,Yes,Karnataka,2025,Yes
+ST20888,Female,AI&ML,7.44,No,Yes,Karnataka,2023,Yes
+ST20889,Male,CSE,7.56,No,Yes,Karnataka,2023,Yes
+ST20890,Female,EEE,7.87,No,No,Maharashtra,2023,No
+ST20891,Female,Mechanical,7.03,No,Yes,Telangana,2023,Yes
+ST20892,Male,AI&ML,7.97,No,Yes,Telangana,2023,Yes
+ST20893,Male,ISE,6.11,No,No,Karnataka,2025,Yes
+ST20894,Male,ISE,6.97,No,Yes,Maharashtra,2024,Yes
+ST20895,Female,ECE,8.08,No,No,Karnataka,2025,No
+ST20896,Male,Mechanical,6.82,No,Yes,Kerala,2023,Yes
+ST20897,Male,ISE,5.82,No,No,Odisha,2024,No
+ST20898,Female,AI&ML,8.69,No,No,Karnataka,2025,Yes
+ST20899,Female,CSE,6.68,No,Yes,Maharashtra,2024,Yes
+ST20900,Female,EEE,6.37,No,No,Karnataka,2025,Yes
+ST20901,Female,ISE,6.92,No,No,Karnataka,2023,Yes
+ST20902,Male,Mechanical,7.88,No,Yes,Odisha,2025,No
+ST20903,Male,CSE,7.4,No,Yes,Tamil Nadu,2025,Yes
+ST20904,Female,EEE,7.6,No,No,Karnataka,2025,No
+ST20905,Female,CSE,9.63,No,No,Karnataka,2023,Yes
+ST20906,Male,ISE,5.69,No,No,Kerala,2024,No
+ST20907,Male,ISE,8.18,No,Yes,Karnataka,2025,Yes
+ST20908,Female,Mechanical,6.86,No,No,Karnataka,2024,No
+ST20909,Male,ECE,8.69,Yes,No,Kerala,2025,No
+ST20910,Male,ISE,6.92,No,No,Karnataka,2023,Yes
+ST20911,Male,ISE,8.41,No,Yes,Odisha,2024,No
+ST20912,Male,AI&ML,7.03,No,No,Karnataka,2024,Yes
+ST20913,Male,EEE,6.64,No,No,Kerala,2025,No
+ST20914,Female,Mechanical,7.08,No,Yes,Tamil Nadu,2023,Yes
+ST20915,Female,ECE,7.44,No,No,Tamil Nadu,2024,No
+ST20916,Female,CSE,7.06,No,Yes,Karnataka,2025,Yes
+ST20917,Female,ISE,6.78,No,No,Kerala,2025,Yes
+ST20918,Male,ECE,6.1,Yes,No,Kerala,2023,Yes
+ST20919,Female,Mechanical,5.96,No,No,Karnataka,2024,No
+ST20920,Female,Mechanical,7.39,No,No,Karnataka,2024,No
+ST20921,Female,CSE,5.77,Yes,No,Karnataka,2025,No
+ST20922,Female,ISE,6.81,No,No,Karnataka,2023,Yes
+ST20923,Female,ISE,7.58,No,No,Karnataka,2023,No
+ST20924,Female,ECE,7.02,No,No,Karnataka,2024,No
+ST20925,Female,CSE,8.9,No,Yes,Maharashtra,2024,Yes
+ST20926,Male,ECE,7.0,No,No,Karnataka,2023,No
+ST20927,Female,Mechanical,6.74,Yes,Yes,Karnataka,2024,No
+ST20928,Male,ISE,7.45,Yes,Yes,Tamil Nadu,2025,No
+ST20929,Male,Civil,6.82,No,No,Karnataka,2023,Yes
+ST20930,Female,ECE,7.04,Yes,No,Karnataka,2025,No
+ST20931,Female,Civil,6.07,No,No,Karnataka,2024,No
+ST20932,Male,Mechanical,6.13,Yes,Yes,Telangana,2025,No
+ST20933,Male,CSE,7.16,Yes,Yes,Andhra Pradesh,2023,Yes
+ST20934,Female,Mechanical,7.18,No,Yes,Karnataka,2025,No
+ST20935,Female,CSE,6.49,No,Yes,Karnataka,2023,Yes
+ST20936,Male,AI&ML,7.55,No,No,Kerala,2025,Yes
+ST20937,Male,ECE,7.09,No,No,Karnataka,2024,Yes
+ST20938,Male,AI&ML,7.9,Yes,No,Andhra Pradesh,2024,No
+ST20939,Female,ECE,7.9,No,No,Karnataka,2024,Yes
+ST20940,Male,CSE,7.15,No,No,Karnataka,2023,Yes
+ST20941,Male,CSE,7.99,Yes,Yes,Kerala,2025,Yes
+ST20942,Male,AI&ML,8.99,No,No,Karnataka,2025,No
+ST20943,Male,CSE,7.94,No,No,Karnataka,2024,Yes
+ST20944,Female,CSE,7.3,Yes,Yes,Karnataka,2025,Yes
+ST20945,Male,CSE,7.45,No,Yes,Maharashtra,2024,Yes
+ST20946,Male,Civil,7.67,No,No,Maharashtra,2025,Yes
+ST20947,Female,ISE,7.22,Yes,No,Karnataka,2024,No
+ST20948,Male,CSE,6.39,No,No,Andhra Pradesh,2024,No
+ST20949,Male,ECE,5.98,No,No,Karnataka,2025,No
+ST20950,Male,Mechanical,7.73,No,No,Karnataka,2025,Yes
+ST20951,Female,ISE,6.97,No,No,Karnataka,2023,Yes
+ST20952,Female,CSE,6.55,No,No,Tamil Nadu,2024,Yes
+ST20953,Female,ECE,9.32,No,Yes,Telangana,2025,Yes
+ST20954,Male,EEE,8.29,No,Yes,Maharashtra,2024,Yes
+ST20955,Female,Civil,7.73,No,Yes,Karnataka,2023,No
+ST20956,Male,AI&ML,5.85,Yes,No,Karnataka,2025,No
+ST20957,Male,AI&ML,7.15,Yes,No,Karnataka,2025,No
+ST20958,Male,Mechanical,7.28,No,No,Karnataka,2023,Yes
+ST20959,Male,ECE,8.52,No,Yes,Kerala,2023,Yes
+ST20960,Female,EEE,7.26,Yes,Yes,Kerala,2024,No
+ST20961,Female,ISE,8.65,No,No,Andhra Pradesh,2024,Yes
+ST20962,Female,CSE,8.18,No,No,Karnataka,2023,Yes
+ST20963,Female,ISE,6.72,No,No,Karnataka,2023,Yes
+ST20964,Male,AI&ML,7.69,No,Yes,Tamil Nadu,2024,Yes
+ST20965,Male,CSE,7.31,No,No,Karnataka,2023,Yes
+ST20966,Male,CSE,7.38,No,No,Karnataka,2025,Yes
+ST20967,Male,EEE,9.8,No,No,Tamil Nadu,2025,Yes
+ST20968,Female,ECE,8.79,No,Yes,Karnataka,2023,Yes
+ST20969,Male,ISE,8.44,No,Yes,Karnataka,2024,Yes
+ST20970,Male,Civil,7.59,No,No,Andhra Pradesh,2024,No
+ST20971,Male,EEE,8.76,No,No,Karnataka,2025,Yes
+ST20972,Female,ECE,6.8,No,Yes,Goa,2023,No
+ST20973,Female,CSE,7.47,No,Yes,Telangana,2024,Yes
+ST20974,Male,CSE,5.82,No,No,Telangana,2023,No
+ST20975,Male,Mechanical,8.76,No,Yes,Telangana,2025,No
+ST20976,Female,EEE,5.34,No,Yes,Karnataka,2025,No
+ST20977,Female,CSE,8.48,No,Yes,Telangana,2025,Yes
+ST20978,Male,CSE,7.66,No,Yes,Telangana,2025,Yes
+ST20979,Female,CSE,7.63,No,No,Karnataka,2025,Yes
+ST20980,Male,AI&ML,7.78,No,Yes,Karnataka,2024,Yes
+ST20981,Female,EEE,7.4,No,No,Tamil Nadu,2025,Yes
+ST20982,Female,Civil,8.98,No,Yes,Karnataka,2025,Yes
+ST20983,Female,Mechanical,8.01,No,Yes,Karnataka,2024,Yes
+ST20984,Male,ECE,8.72,No,Yes,Karnataka,2023,Yes
+ST20985,Male,ISE,8.28,No,Yes,Tamil Nadu,2025,Yes
+ST20986,Female,Mechanical,7.13,No,Yes,Karnataka,2025,No
+ST20987,Male,CSE,7.43,No,No,Andhra Pradesh,2025,Yes
+ST20988,Female,CSE,7.6,No,Yes,Karnataka,2023,Yes
+ST20989,Male,ISE,6.47,No,No,Maharashtra,2024,Yes
+ST20990,Male,Civil,7.34,No,No,Tamil Nadu,2025,No
+ST20991,Female,CSE,8.39,No,No,Tamil Nadu,2025,Yes
+ST20992,Male,CSE,6.59,No,Yes,Karnataka,2025,Yes
+ST20993,Female,ECE,6.34,No,Yes,Tamil Nadu,2025,No
+ST20994,Male,Civil,6.17,No,No,Karnataka,2025,No
+ST20995,Female,CSE,7.8,No,No,Karnataka,2023,Yes
+ST20996,Female,Mechanical,5.82,No,Yes,Telangana,2023,No
+ST20997,Male,ECE,6.04,No,Yes,Kerala,2025,No
+ST20998,Female,ISE,6.03,No,Yes,Tamil Nadu,2024,Yes
+ST20999,Female,Civil,8.79,No,Yes,Andhra Pradesh,2025,Yes
+ST21000,Male,Civil,6.34,Yes,No,Karnataka,2023,No
+ST21001,Female,EEE,6.97,Yes,Yes,Karnataka,2023,Yes
+ST21002,Male,ISE,6.89,Yes,No,Andhra Pradesh,2023,Yes
+ST21003,Female,CSE,7.19,No,Yes,Karnataka,2023,Yes
+ST21004,Male,EEE,7.58,No,No,Karnataka,2025,Yes
+ST21005,Male,Civil,6.91,No,Yes,Karnataka,2023,Yes
+ST21006,Male,ISE,8.27,No,No,Tamil Nadu,2025,Yes
+ST21007,Female,AI&ML,7.94,No,Yes,Karnataka,2024,Yes
+ST21008,Male,EEE,8.16,No,No,Karnataka,2024,No
+ST21009,Male,ECE,8.81,No,No,Kerala,2025,Yes
+ST21010,Male,AI&ML,8.18,No,Yes,Karnataka,2025,Yes
+ST21011,Female,ISE,5.59,Yes,No,Karnataka,2024,No
+ST21012,Male,CSE,8.34,No,No,Andhra Pradesh,2025,Yes
+ST21013,Male,ECE,8.06,No,Yes,Karnataka,2024,Yes
+ST21014,Male,ECE,6.83,No,Yes,Karnataka,2024,No
+ST21015,Female,CSE,7.71,No,No,Karnataka,2024,Yes
+ST21016,Male,CSE,7.39,Yes,No,Karnataka,2024,Yes
+ST21017,Male,AI&ML,5.71,Yes,Yes,Kerala,2023,No
+ST21018,Female,Civil,6.63,No,No,Karnataka,2024,No
+ST21019,Male,CSE,7.4,No,Yes,Karnataka,2023,Yes
+ST21020,Female,Mechanical,6.28,No,Yes,Kerala,2023,No
+ST21021,Female,CSE,8.51,No,Yes,Karnataka,2025,Yes
+ST21022,Female,CSE,6.94,Yes,No,Karnataka,2023,Yes
+ST21023,Female,ISE,6.04,No,Yes,Karnataka,2023,Yes
+ST21024,Male,Civil,8.44,No,No,Karnataka,2025,Yes
+ST21025,Female,ECE,6.71,No,No,Karnataka,2023,Yes
+ST21026,Male,ECE,7.85,No,No,Karnataka,2023,No
+ST21027,Male,Civil,7.91,No,Yes,Andhra Pradesh,2023,No
+ST21028,Male,Civil,6.31,Yes,No,Telangana,2023,No
+ST21029,Female,CSE,7.93,No,No,Tamil Nadu,2025,Yes
+ST21030,Female,AI&ML,6.02,No,Yes,Odisha,2025,No
+ST21031,Female,ECE,8.9,No,Yes,Kerala,2023,Yes
+ST21032,Male,AI&ML,8.13,No,Yes,Karnataka,2023,Yes
+ST21033,Female,CSE,5.69,No,No,Karnataka,2023,No
+ST21034,Male,ECE,8.38,No,No,Karnataka,2024,Yes
+ST21035,Male,ECE,7.07,Yes,Yes,Karnataka,2024,No
+ST21036,Male,Mechanical,5.64,No,No,Telangana,2024,No
+ST21037,Male,AI&ML,6.82,No,Yes,Tamil Nadu,2024,Yes
+ST21038,Male,AI&ML,8.61,No,No,Karnataka,2023,No
+ST21039,Male,CSE,7.6,No,No,Karnataka,2025,Yes
+ST21040,Female,CSE,7.15,No,No,Andhra Pradesh,2023,Yes
+ST21041,Male,AI&ML,6.87,No,No,Karnataka,2023,Yes
+ST21042,Female,CSE,6.99,No,Yes,Andhra Pradesh,2024,Yes
+ST21043,Male,AI&ML,7.39,No,Yes,Karnataka,2024,Yes
+ST21044,Female,EEE,7.35,No,Yes,Andhra Pradesh,2024,Yes
+ST21045,Female,Mechanical,7.62,No,Yes,Andhra Pradesh,2023,No
+ST21046,Male,EEE,8.14,No,No,Karnataka,2024,No
+ST21047,Female,CSE,8.61,No,No,Karnataka,2024,Yes
+ST21048,Male,AI&ML,7.19,No,Yes,Karnataka,2023,Yes
+ST21049,Male,CSE,6.23,No,Yes,Karnataka,2023,No
+ST21050,Male,CSE,8.61,No,No,Karnataka,2023,Yes
+ST21051,Male,CSE,7.19,No,No,Karnataka,2023,Yes
+ST21052,Male,Mechanical,7.08,No,Yes,Kerala,2024,Yes
+ST21053,Male,AI&ML,8.0,No,Yes,Maharashtra,2023,Yes
+ST21054,Female,ECE,7.58,No,Yes,Karnataka,2023,No
+ST21055,Male,Mechanical,6.05,No,No,Karnataka,2023,No
+ST21056,Female,CSE,7.53,Yes,No,Maharashtra,2023,No
+ST21057,Female,ISE,8.89,No,Yes,Andhra Pradesh,2023,Yes
+ST21058,Male,Mechanical,8.15,No,Yes,Karnataka,2025,No
+ST21059,Male,Mechanical,7.91,No,No,Telangana,2024,Yes
+ST21060,Female,ISE,7.78,No,Yes,Andhra Pradesh,2024,Yes
+ST21061,Female,CSE,5.96,No,Yes,Karnataka,2025,No
+ST21062,Male,ECE,6.76,Yes,Yes,Karnataka,2023,Yes
+ST21063,Female,EEE,6.43,No,No,Karnataka,2024,Yes
+ST21064,Male,Mechanical,8.54,No,Yes,Kerala,2023,No
+ST21065,Male,CSE,5.9,No,Yes,Karnataka,2024,No
+ST21066,Male,CSE,8.62,No,Yes,Karnataka,2025,Yes
+ST21067,Male,EEE,6.28,No,No,Karnataka,2024,Yes
+ST21068,Male,ECE,8.08,No,Yes,Karnataka,2023,Yes
+ST21069,Female,CSE,6.48,Yes,Yes,Karnataka,2023,Yes
+ST21070,Female,Mechanical,7.79,No,No,Karnataka,2024,Yes
+ST21071,Male,Civil,7.23,No,No,Karnataka,2025,No
+ST21072,Male,Mechanical,6.2,No,No,Karnataka,2023,No
+ST21073,Female,ECE,6.87,No,Yes,Karnataka,2024,Yes
+ST21074,Male,EEE,7.13,No,No,Tamil Nadu,2023,Yes
+ST21075,Male,Mechanical,6.44,No,No,Karnataka,2025,No
+ST21076,Female,ISE,6.96,No,Yes,Tamil Nadu,2023,Yes
+ST21077,Male,Mechanical,7.48,No,No,Tamil Nadu,2024,Yes
+ST21078,Male,ISE,7.07,Yes,No,Karnataka,2023,No
+ST21079,Male,AI&ML,7.83,No,Yes,Karnataka,2024,Yes
+ST21080,Female,ECE,8.44,No,Yes,Karnataka,2023,No
+ST21081,Male,Mechanical,7.66,No,Yes,Kerala,2025,No
+ST21082,Female,EEE,8.01,No,No,Andhra Pradesh,2024,Yes
+ST21083,Male,CSE,8.03,No,Yes,Karnataka,2024,Yes
+ST21084,Male,EEE,6.74,No,No,Karnataka,2025,Yes
+ST21085,Male,ISE,7.18,No,No,Karnataka,2023,No
+ST21086,Female,CSE,5.95,Yes,No,Tamil Nadu,2025,Yes
+ST21087,Female,ECE,7.75,No,Yes,Kerala,2023,Yes
+ST21088,Male,CSE,8.86,No,No,Karnataka,2025,Yes
+ST21089,Male,Civil,6.79,Yes,No,Tamil Nadu,2023,Yes
+ST21090,Male,CSE,6.59,No,No,Maharashtra,2024,Yes
+ST21091,Female,Civil,6.18,No,Yes,Andhra Pradesh,2025,Yes
+ST21092,Male,CSE,6.17,No,Yes,Karnataka,2024,No
+ST21093,Female,Mechanical,7.61,No,No,Karnataka,2023,Yes
+ST21094,Male,Mechanical,8.25,No,No,Karnataka,2023,No
+ST21095,Male,AI&ML,6.94,No,No,Karnataka,2024,Yes
+ST21096,Male,ISE,5.95,Yes,No,Karnataka,2024,No
+ST21097,Male,CSE,7.69,No,No,Karnataka,2023,Yes
+ST21098,Male,AI&ML,5.9,No,Yes,Maharashtra,2025,No
+ST21099,Male,Civil,7.79,No,No,Kerala,2023,No
+ST21100,Male,EEE,7.26,No,Yes,Maharashtra,2024,No
+ST21101,Female,EEE,5.91,No,No,Telangana,2023,No
+ST21102,Male,EEE,8.22,No,No,Maharashtra,2025,No
+ST21103,Female,EEE,5.77,Yes,Yes,Karnataka,2025,No
+ST21104,Female,CSE,7.38,No,No,Kerala,2024,Yes
+ST21105,Male,Mechanical,9.0,No,Yes,Andhra Pradesh,2024,No
+ST21106,Female,Mechanical,6.39,No,Yes,Karnataka,2025,Yes
+ST21107,Female,CSE,8.94,No,No,Andhra Pradesh,2024,Yes
+ST21108,Female,AI&ML,7.72,No,No,Karnataka,2025,Yes
+ST21109,Male,Mechanical,8.7,No,Yes,Maharashtra,2025,No
+ST21110,Female,Mechanical,7.7,No,No,Karnataka,2023,No
+ST21111,Female,ECE,7.94,No,No,Karnataka,2025,No
+ST21112,Male,Mechanical,8.03,No,Yes,Andhra Pradesh,2024,No
+ST21113,Female,Mechanical,6.12,Yes,No,Andhra Pradesh,2023,No
+ST21114,Female,ISE,8.05,No,No,Goa,2023,Yes
+ST21115,Female,ISE,7.43,No,Yes,Maharashtra,2025,No
+ST21116,Male,ISE,6.43,Yes,No,Andhra Pradesh,2025,No
+ST21117,Male,CSE,7.99,No,No,Telangana,2024,Yes
+ST21118,Male,Civil,6.74,No,No,Telangana,2024,No
+ST21119,Male,AI&ML,8.46,No,No,Karnataka,2025,Yes
+ST21120,Male,Mechanical,7.69,No,No,Karnataka,2023,No
+ST21121,Female,ECE,5.44,Yes,Yes,Tamil Nadu,2025,No
+ST21122,Female,Mechanical,8.07,No,Yes,Telangana,2024,Yes
+ST21123,Male,AI&ML,6.67,Yes,Yes,Karnataka,2025,No
+ST21124,Male,CSE,8.56,No,No,Karnataka,2025,Yes
+ST21125,Male,AI&ML,6.82,No,No,Karnataka,2025,Yes
+ST21126,Female,AI&ML,7.98,No,No,Karnataka,2024,Yes
+ST21127,Female,CSE,7.11,No,Yes,Andhra Pradesh,2025,Yes
+ST21128,Female,ECE,6.0,No,No,Karnataka,2025,Yes
+ST21129,Female,Mechanical,7.68,No,No,Karnataka,2025,No
+ST21130,Female,Civil,6.18,No,No,Tamil Nadu,2025,No
+ST21131,Female,CSE,8.49,No,Yes,Karnataka,2024,Yes
+ST21132,Male,Mechanical,7.49,No,Yes,Karnataka,2025,No
+ST21133,Female,CSE,5.02,No,No,Karnataka,2024,Yes
+ST21134,Female,CSE,8.07,No,No,Karnataka,2025,Yes
+ST21135,Male,Mechanical,7.5,No,Yes,Tamil Nadu,2023,Yes
+ST21136,Male,CSE,6.92,No,Yes,Telangana,2024,Yes
+ST21137,Female,EEE,6.35,No,Yes,Karnataka,2025,No
+ST21138,Male,ISE,6.7,Yes,Yes,Kerala,2024,No
+ST21139,Male,ECE,6.66,No,No,Kerala,2025,No
+ST21140,Female,CSE,6.97,No,No,Tamil Nadu,2024,Yes
+ST21141,Female,CSE,9.07,No,Yes,Kerala,2023,Yes
+ST21142,Female,ISE,7.96,No,No,Karnataka,2023,No
+ST21143,Male,ECE,5.62,No,Yes,Kerala,2025,Yes
+ST21144,Male,Mechanical,7.0,No,Yes,Karnataka,2025,No
+ST21145,Male,Civil,7.24,No,No,Andhra Pradesh,2023,Yes
+ST21146,Female,CSE,7.61,No,No,Karnataka,2024,Yes
+ST21147,Male,AI&ML,7.63,No,No,Tamil Nadu,2024,Yes
+ST21148,Female,ISE,7.31,No,Yes,Maharashtra,2023,Yes
+ST21149,Male,AI&ML,7.97,No,No,Karnataka,2025,Yes
+ST21150,Female,Mechanical,7.51,No,Yes,Maharashtra,2023,Yes
+ST21151,Female,Civil,6.43,Yes,Yes,Tamil Nadu,2023,No
+ST21152,Female,CSE,8.94,No,Yes,Tamil Nadu,2025,Yes
+ST21153,Male,CSE,9.09,No,Yes,Kerala,2024,Yes
+ST21154,Male,EEE,6.91,No,No,Karnataka,2024,Yes
+ST21155,Female,ECE,6.94,No,Yes,Andhra Pradesh,2023,Yes
+ST21156,Male,ISE,8.38,No,Yes,Andhra Pradesh,2024,Yes
+ST21157,Female,CSE,5.61,No,Yes,Karnataka,2024,Yes
+ST21158,Male,EEE,6.93,No,No,Kerala,2023,No
+ST21159,Male,CSE,6.31,No,Yes,Andhra Pradesh,2024,Yes
+ST21160,Female,Mechanical,6.91,Yes,No,Karnataka,2025,No
+ST21161,Male,CSE,9.06,No,No,Tamil Nadu,2023,Yes
+ST21162,Female,CSE,6.23,Yes,Yes,Telangana,2024,No
+ST21163,Male,Civil,7.64,No,No,Tamil Nadu,2023,No
+ST21164,Female,Civil,5.49,Yes,Yes,Andhra Pradesh,2023,No
+ST21165,Female,ECE,7.96,No,No,Karnataka,2024,Yes
+ST21166,Male,AI&ML,8.16,No,Yes,Andhra Pradesh,2023,Yes
+ST21167,Male,ISE,7.7,No,No,Telangana,2025,Yes
+ST21168,Female,ECE,6.3,Yes,Yes,Karnataka,2025,No
+ST21169,Male,ECE,5.73,No,Yes,Telangana,2023,No
+ST21170,Male,CSE,7.61,No,No,Karnataka,2025,Yes
+ST21171,Female,Civil,6.84,No,No,Karnataka,2023,Yes
+ST21172,Male,AI&ML,7.21,No,No,Karnataka,2025,No
+ST21173,Male,ISE,9.31,No,No,Telangana,2023,Yes
+ST21174,Female,Civil,6.69,No,Yes,Karnataka,2025,Yes
+ST21175,Female,ISE,7.88,No,Yes,Karnataka,2023,Yes
+ST21176,Male,Mechanical,8.23,No,Yes,Tamil Nadu,2024,Yes
+ST21177,Male,CSE,6.99,No,Yes,Maharashtra,2025,Yes
+ST21178,Male,ECE,7.48,No,No,Karnataka,2025,Yes
+ST21179,Female,AI&ML,7.4,No,No,Karnataka,2025,Yes
+ST21180,Male,Civil,7.28,No,Yes,Karnataka,2024,No
+ST21181,Female,CSE,8.02,No,Yes,Karnataka,2024,Yes
+ST21182,Female,EEE,7.73,Yes,Yes,Maharashtra,2024,No
+ST21183,Male,CSE,5.85,No,No,Maharashtra,2025,Yes
+ST21184,Male,CSE,7.32,No,No,Karnataka,2024,Yes
+ST21185,Male,ISE,7.66,No,No,Telangana,2024,Yes
+ST21186,Male,ECE,7.41,No,No,Karnataka,2025,Yes
+ST21187,Male,ECE,6.39,Yes,Yes,Karnataka,2024,No
+ST21188,Female,AI&ML,7.51,No,No,Karnataka,2025,Yes
+ST21189,Male,CSE,6.96,No,No,Karnataka,2023,Yes
+ST21190,Male,Mechanical,6.51,No,No,Karnataka,2024,No
+ST21191,Female,CSE,8.29,No,Yes,Andhra Pradesh,2023,Yes
+ST21192,Male,Mechanical,8.32,No,Yes,Maharashtra,2024,No
+ST21193,Female,CSE,7.36,No,No,Karnataka,2025,Yes
+ST21194,Male,ECE,7.14,No,Yes,Telangana,2023,Yes
+ST21195,Male,CSE,8.98,No,No,Kerala,2025,Yes
+ST21196,Male,Mechanical,6.42,No,Yes,Karnataka,2023,No
+ST21197,Male,CSE,5.67,No,Yes,Andhra Pradesh,2024,Yes
+ST21198,Male,CSE,5.83,Yes,Yes,Karnataka,2023,No
+ST21199,Male,AI&ML,8.73,No,Yes,Tamil Nadu,2023,Yes
+ST21200,Female,ISE,8.49,No,No,Tamil Nadu,2023,Yes
